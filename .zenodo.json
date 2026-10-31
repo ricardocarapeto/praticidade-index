@@ -1,0 +1,16 @@
+{
+  "upload_type": "dataset",
+  "title": "Índice Praticidade 2026.1 (Praticidade Index 2026.1)",
+  "version": "2026.1",
+  "publication_date": "2026-07-15",
+  "creators": [{"name": "Carapeto, Ricardo", "affiliation": "Praticidade.com"}],
+  "description": "<p>Open data from the Praticidade Index 2026.1: everyday walkable convenience (services infrastructure within walking distance) for 806 areas in 10 cities in Brazil and Portugal, with 10 thematic rankings published in 81 city-ranking slices. Values frozen on 15 July 2026 and not revised. Files are the official CSV and JSON downloads, unmodified. Methodology: https://praticidade.com/metodologia</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["walkability", "urban data", "neighbourhoods", "Brazil", "Portugal", "Lisbon", "São Paulo", "open data"],
+  "language": "por",
+  "related_identifiers": [
+    {"identifier": "https://praticidade.com/indice/2026-07", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://praticidade.com/metodologia", "relation": "isDocumentedBy", "scheme": "url"}
+  ]
+}

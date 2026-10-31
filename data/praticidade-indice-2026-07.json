@@ -1,0 +1,8270 @@
+{
+  "schemaVersion": 1,
+  "edition": "2026-07",
+  "title": "Índice Praticidade 2026.1",
+  "draft": false,
+  "frozenAt": "2026-07-15T21:04:08.405Z",
+  "methodologyVersion": "commit-977201a",
+  "sourceCommit": "977201a79043d06326a0ec092691e26d84400c7e",
+  "cities": [
+    "sao-paulo",
+    "rio-de-janeiro",
+    "belo-horizonte",
+    "curitiba",
+    "porto-alegre",
+    "fortaleza",
+    "brasilia",
+    "lisboa",
+    "porto",
+    "salvador"
+  ],
+  "cityNames": {
+    "sao-paulo": "São Paulo",
+    "rio-de-janeiro": "Rio de Janeiro",
+    "belo-horizonte": "Belo Horizonte",
+    "curitiba": "Curitiba",
+    "porto-alegre": "Porto Alegre",
+    "fortaleza": "Fortaleza",
+    "brasilia": "Brasília",
+    "lisboa": "Lisboa",
+    "porto": "Porto",
+    "salvador": "Salvador"
+  },
+  "cityFramingNotes": {
+    "sao-paulo": "Lideram bairros do centro expandido com alta densidade comercial, transporte público robusto e excelente caminhabilidade. Endereços nobres como Morumbi, Cidade Jardim e Alto de Pinheiros aparecem mais abaixo por serem deliberadamente residenciais e de baixa densidade comercial, refletindo o peso da densidade de serviços no cálculo.",
+    "rio-de-janeiro": "Lideram bairros consolidados da Zona Sul, pela combinação rara de densidade comercial, proximidade ao mar e o eixo de metrô num raio de caminhada curto. A Zona Oeste (Barra, Recreio, São Conrado) pontua mais baixo por ser deliberadamente orientada ao uso de automóvel.",
+    "belo-horizonte": "Lideram bairros centrais densos e bairros residenciais consolidados com boa cobertura de serviços. Endereços nobres como Belvedere, Mangabeiras, São Bento, Buritis e Pampulha — amplamente reconhecidos como excelentes para morar — pontuam mais baixo: são residenciais de baixa densidade, desenhados para uso de automóvel, com poucos serviços a pé.",
+    "curitiba": "Lideram os bairros centrais consolidados, pela alta densidade de serviços a pé. Bairros como Ecoville, Santa Felicidade e Campo Comprido, muito populares pela qualidade de vida, pontuam mais baixo porque são desenhados para uso de automóvel.",
+    "porto-alegre": "Lideram dois grupos: a zona central caminhável, que combina densidade de serviços com vida cultural, e o eixo Moinhos-Norte com densidade suficiente. Bairros nobres como Bela Vista, Petrópolis, Higienópolis, Chácara das Pedras e Três Figueiras — universalmente reconhecidos como os melhores de Porto Alegre — pontuam mais baixo por serem deliberadamente residenciais e de baixa densidade (Três Figueiras tem até limite legal de 9m de altura).",
+    "fortaleza": "Lideram bairros compactos com altíssima densidade comercial. Bairros nobres como Cocó, Cidade dos Funcionários e Edson Queiroz pontuam mais baixo do que se esperaria: são predominantemente residenciais ou áreas extensas onde os serviços estão dispersos. A SSPDS-CE não publica criminalidade por bairro, o que limita o peso da categoria segurança no ranking.",
+    "brasilia": "Em Brasília, o design urbano modernista do Plano Piloto prioriza o transporte motorizado — superquadras amplas, Eixo Monumental e setores institucionais resultam em baixa densidade de serviços a pé. As regiões mais práticas tendem a ser cidades-satélite compactas, com comércio denso e calçadas próximas. Lago Sul e Lago Norte não aparecem no topo porque são deliberadamente residenciais, com casas amplas e sem comércio a pé. Para avaliar prestígio e qualidade residencial, cruze este ranking com os preços do m².",
+    "lisboa": "Lideram freguesias compactas do centro e das Avenidas Novas, com densidade excecional de serviços e ótima cobertura de metro (4 linhas convergem no eixo central). Santa Maria Maior, no coração histórico, tem caminhabilidade excelente, mas a leitura de segurança foi moderada pelo hotspot de rua documentado na Mouraria/Martim Moniz. Freguesias mais amplas como Belém, Benfica e Estrela combinam terminais de metro/Carris fortes com áreas residenciais extensas (Monsanto, jardins, ruas largas), o que dilui a densidade média de serviços a pé apesar da boa cobertura de transporte público.",
+    "porto": "O Centro Histórico destaca-se pela densidade excecional de serviços, metro e vida cultural num território compacto. Freguesias residenciais da Zona Ocidental como Aldoar, Nevogilde e Ramalde são muito apreciadas pela qualidade de vida e proximidade ao mar, mas ficam mais abaixo no ranking porque têm menos densidade comercial a pé.",
+    "salvador": "Lideram bairros do centro tradicional e da Cidade Baixa, ao lado do eixo da orla, todos combinando comércio de rua denso, serviços e caminhabilidade. Importante: a SSP-BA publica criminalidade por AISP (áreas que agrupam cerca de dez bairros), não por bairro individual, então a categoria segurança não entra no score nem nos rankings de Salvador — este ranking mede conveniência urbana a pé, não segurança (ver metodologia). Para essa leitura, consulte os levantamentos de tiroteios por bairro do Instituto Fogo Cruzado e as estatísticas da SSP-BA."
+  },
+  "rankingTypes": [
+    "mais-seguros",
+    "melhor-transporte",
+    "mais-caminhaveis",
+    "mais-ciclaveis",
+    "melhor-restauracao",
+    "mais-tranquilos",
+    "melhor-para-familias",
+    "melhor-para-jovens",
+    "mais-completos",
+    "mais-acessiveis"
+  ],
+  "totalRankings": 81,
+  "snapshots": [
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "mais-seguros",
+      "rankingTitle": "Mais Seguros",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Pinheiros",
+          "score": 8.67,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Vila Guilherme",
+          "score": 8.67,
+          "overallScore": 6.25
+        },
+        {
+          "rank": 3,
+          "name": "Moema",
+          "score": 8.63,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 4,
+          "name": "Água Rasa",
+          "score": 8.56,
+          "overallScore": 6.63
+        },
+        {
+          "rank": 5,
+          "name": "Butantã",
+          "score": 8.51,
+          "overallScore": 5.15
+        },
+        {
+          "rank": 6,
+          "name": "Carrão",
+          "score": 8.2,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 7,
+          "name": "Mandaqui",
+          "score": 8.12,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 8,
+          "name": "Cursino",
+          "score": 8.1,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 9,
+          "name": "Alto de Pinheiros",
+          "score": 8.09,
+          "overallScore": 6.02
+        },
+        {
+          "rank": 10,
+          "name": "Vila Prudente",
+          "score": 8,
+          "overallScore": 6.39
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Tucuruvi",
+          "score": 8,
+          "overallScore": 5.79
+        },
+        {
+          "rank": 12,
+          "name": "Mooca",
+          "score": 7.96,
+          "overallScore": 7.05
+        },
+        {
+          "rank": 13,
+          "name": "Morumbi",
+          "score": 7.92,
+          "overallScore": 4
+        },
+        {
+          "rank": 14,
+          "name": "Socorro",
+          "score": 7.86,
+          "overallScore": 5.82
+        },
+        {
+          "rank": 15,
+          "name": "São Domingos",
+          "score": 7.8,
+          "overallScore": 4.66
+        }
+      ],
+      "stats": {
+        "min": 2.85,
+        "max": 8.67,
+        "mean": 6.84,
+        "median": 7.2,
+        "count": 95
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "melhor-transporte",
+      "rankingTitle": "Melhor Transporte Público",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Sé",
+          "score": 10,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 2,
+          "name": "República",
+          "score": 9.95,
+          "overallScore": 7.45
+        },
+        {
+          "rank": 3,
+          "name": "Vila Mariana",
+          "score": 9.58,
+          "overallScore": 8.03
+        },
+        {
+          "rank": 4,
+          "name": "Bela Vista",
+          "score": 8.77,
+          "overallScore": 8.02
+        },
+        {
+          "rank": 5,
+          "name": "Santa Cecília",
+          "score": 8.31,
+          "overallScore": 7.76
+        },
+        {
+          "rank": 6,
+          "name": "Brás",
+          "score": 8.25,
+          "overallScore": 6.42
+        },
+        {
+          "rank": 7,
+          "name": "Saúde",
+          "score": 7.69,
+          "overallScore": 7.43
+        },
+        {
+          "rank": 8,
+          "name": "Bom Retiro",
+          "score": 7.15,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 9,
+          "name": "Pinheiros",
+          "score": 7.08,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 10,
+          "name": "Tatuapé",
+          "score": 6.52,
+          "overallScore": 7.67
+        },
+        {
+          "rank": 11,
+          "name": "Consolação",
+          "score": 6.41,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 12,
+          "name": "Jardim Paulista",
+          "score": 6.01,
+          "overallScore": 7.68
+        },
+        {
+          "rank": 13,
+          "name": "Liberdade",
+          "score": 5.98,
+          "overallScore": 7.14
+        },
+        {
+          "rank": 14,
+          "name": "Moema",
+          "score": 5.92,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 15,
+          "name": "Santo Amaro",
+          "score": 5.86,
+          "overallScore": 7.14
+        }
+      ],
+      "stats": {
+        "min": 4.5,
+        "max": 10,
+        "mean": 5.33,
+        "median": 4.9,
+        "count": 95
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santa Cecília",
+          "score": 7.31,
+          "overallScore": 7.76
+        },
+        {
+          "rank": 2,
+          "name": "Moema",
+          "score": 7.19,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 3,
+          "name": "Itaim Bibi",
+          "score": 7.12,
+          "overallScore": 7.65
+        },
+        {
+          "rank": 4,
+          "name": "Pinheiros",
+          "score": 7.04,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 5,
+          "name": "República",
+          "score": 7.03,
+          "overallScore": 7.45
+        },
+        {
+          "rank": 6,
+          "name": "Jardim Paulista",
+          "score": 7.01,
+          "overallScore": 7.68
+        },
+        {
+          "rank": 7,
+          "name": "Saúde",
+          "score": 6.95,
+          "overallScore": 7.43
+        },
+        {
+          "rank": 8,
+          "name": "Vila Mariana",
+          "score": 6.92,
+          "overallScore": 8.03
+        },
+        {
+          "rank": 9,
+          "name": "Vila Medeiros",
+          "score": 6.81,
+          "overallScore": 6.33
+        },
+        {
+          "rank": 10,
+          "name": "Sé",
+          "score": 6.78,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 11,
+          "name": "Campo Belo",
+          "score": 6.73,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 12,
+          "name": "Tatuapé",
+          "score": 6.66,
+          "overallScore": 7.67
+        },
+        {
+          "rank": 13,
+          "name": "Carrão",
+          "score": 6.65,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 14,
+          "name": "Consolação",
+          "score": 6.64,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 15,
+          "name": "Jardim Helena",
+          "score": 6.63,
+          "overallScore": 6.43
+        }
+      ],
+      "stats": {
+        "min": 1.2,
+        "max": 7.31,
+        "mean": 5.5,
+        "median": 5.92,
+        "count": 95
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Barra Funda",
+          "score": 9.56,
+          "overallScore": 6.25
+        },
+        {
+          "rank": 2,
+          "name": "Alto de Pinheiros",
+          "score": 9.36,
+          "overallScore": 6.02
+        },
+        {
+          "rank": 3,
+          "name": "Santa Cecília",
+          "score": 9.32,
+          "overallScore": 7.76
+        },
+        {
+          "rank": 4,
+          "name": "Bom Retiro",
+          "score": 9.3,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 5,
+          "name": "Sé",
+          "score": 9.22,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 6,
+          "name": "Pari",
+          "score": 9.21,
+          "overallScore": 6.44
+        },
+        {
+          "rank": 7,
+          "name": "Itaim Bibi",
+          "score": 9.17,
+          "overallScore": 7.65
+        },
+        {
+          "rank": 8,
+          "name": "Pinheiros",
+          "score": 9.13,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 9,
+          "name": "Santana",
+          "score": 8.98,
+          "overallScore": 6.68
+        },
+        {
+          "rank": 10,
+          "name": "República",
+          "score": 8.96,
+          "overallScore": 7.45
+        },
+        {
+          "rank": 11,
+          "name": "Moema",
+          "score": 8.9,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 12,
+          "name": "Socorro",
+          "score": 8.82,
+          "overallScore": 5.82
+        },
+        {
+          "rank": 13,
+          "name": "Vila Guilherme",
+          "score": 8.67,
+          "overallScore": 6.25
+        },
+        {
+          "rank": 13,
+          "exAequo": true,
+          "name": "Butantã",
+          "score": 8.67,
+          "overallScore": 5.15
+        },
+        {
+          "rank": 15,
+          "name": "Vila Leopoldina",
+          "score": 8.65,
+          "overallScore": 6.32
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 9.56,
+        "mean": 5.55,
+        "median": 6.48,
+        "count": 95
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Itaim Bibi",
+          "score": 8.35,
+          "overallScore": 7.65
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "República",
+          "score": 8.35,
+          "overallScore": 7.45
+        },
+        {
+          "rank": 3,
+          "name": "Pinheiros",
+          "score": 8.32,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 4,
+          "name": "Bela Vista",
+          "score": 8.31,
+          "overallScore": 8.02
+        },
+        {
+          "rank": 5,
+          "name": "Jardim Paulista",
+          "score": 8.3,
+          "overallScore": 7.68
+        },
+        {
+          "rank": 6,
+          "name": "Consolação",
+          "score": 8.2,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 7,
+          "name": "Moema",
+          "score": 8.17,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 8,
+          "name": "Vila Mariana",
+          "score": 8.07,
+          "overallScore": 8.03
+        },
+        {
+          "rank": 9,
+          "name": "Tatuapé",
+          "score": 8.03,
+          "overallScore": 7.67
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Liberdade",
+          "score": 8.03,
+          "overallScore": 7.14
+        },
+        {
+          "rank": 11,
+          "name": "Sé",
+          "score": 7.98,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 12,
+          "name": "Santa Cecília",
+          "score": 7.97,
+          "overallScore": 7.76
+        },
+        {
+          "rank": 13,
+          "name": "Perdizes",
+          "score": 7.9,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 14,
+          "name": "Mooca",
+          "score": 7.8,
+          "overallScore": 7.05
+        },
+        {
+          "rank": 15,
+          "name": "Saúde",
+          "score": 7.71,
+          "overallScore": 7.43
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 8.35,
+        "mean": 5.5,
+        "median": 5.21,
+        "count": 95
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Parque do Carmo",
+          "score": 8.08,
+          "overallScore": 5.3
+        },
+        {
+          "rank": 2,
+          "name": "José Bonifácio",
+          "score": 7.41,
+          "overallScore": 3.85
+        },
+        {
+          "rank": 3,
+          "name": "Mandaqui",
+          "score": 6.31,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 4,
+          "name": "Cursino",
+          "score": 6.19,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 5,
+          "name": "Alto de Pinheiros",
+          "score": 5.53,
+          "overallScore": 6.02
+        },
+        {
+          "rank": 6,
+          "name": "Butantã",
+          "score": 5.26,
+          "overallScore": 5.15
+        },
+        {
+          "rank": 7,
+          "name": "Socorro",
+          "score": 5.14,
+          "overallScore": 5.82
+        },
+        {
+          "rank": 8,
+          "name": "Morumbi",
+          "score": 5.1,
+          "overallScore": 4
+        },
+        {
+          "rank": 9,
+          "name": "Pirituba",
+          "score": 4.92,
+          "overallScore": 4.56
+        },
+        {
+          "rank": 10,
+          "name": "Vila Leopoldina",
+          "score": 4.9,
+          "overallScore": 6.32
+        },
+        {
+          "rank": 11,
+          "name": "Vila Sônia",
+          "score": 4.8,
+          "overallScore": 5.35
+        },
+        {
+          "rank": 12,
+          "name": "Cangaíba",
+          "score": 4.79,
+          "overallScore": 5.11
+        },
+        {
+          "rank": 13,
+          "name": "Campo Grande",
+          "score": 4.6,
+          "overallScore": 5.59
+        },
+        {
+          "rank": 14,
+          "name": "São Domingos",
+          "score": 4.5,
+          "overallScore": 4.66
+        },
+        {
+          "rank": 15,
+          "name": "Moema",
+          "score": 4.48,
+          "overallScore": 7.77
+        }
+      ],
+      "stats": {
+        "min": 3,
+        "max": 8.08,
+        "mean": 4.27,
+        "median": 4,
+        "count": 47
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Moema",
+          "score": 7.4,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 2,
+          "name": "Bela Vista",
+          "score": 7.3,
+          "overallScore": 8.02
+        },
+        {
+          "rank": 3,
+          "name": "Vila Mariana",
+          "score": 7.23,
+          "overallScore": 8.03
+        },
+        {
+          "rank": 4,
+          "name": "Pinheiros",
+          "score": 7.2,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 5,
+          "name": "Jardim Paulista",
+          "score": 6.99,
+          "overallScore": 7.68
+        },
+        {
+          "rank": 6,
+          "name": "Butantã",
+          "score": 6.93,
+          "overallScore": 5.15
+        },
+        {
+          "rank": 7,
+          "name": "Itaim Bibi",
+          "score": 6.87,
+          "overallScore": 7.65
+        },
+        {
+          "rank": 8,
+          "name": "Tatuapé",
+          "score": 6.86,
+          "overallScore": 7.67
+        },
+        {
+          "rank": 9,
+          "name": "Cursino",
+          "score": 6.83,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 10,
+          "name": "Mooca",
+          "score": 6.8,
+          "overallScore": 7.05
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Água Rasa",
+          "score": 6.8,
+          "overallScore": 6.63
+        },
+        {
+          "rank": 12,
+          "name": "Campo Belo",
+          "score": 6.71,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Mandaqui",
+          "score": 6.71,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 14,
+          "name": "Alto de Pinheiros",
+          "score": 6.67,
+          "overallScore": 6.02
+        },
+        {
+          "rank": 15,
+          "name": "Carrão",
+          "score": 6.62,
+          "overallScore": 6.73
+        }
+      ],
+      "stats": {
+        "min": 5.68,
+        "max": 7.4,
+        "mean": 6.36,
+        "median": 6.29,
+        "count": 47
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "República",
+          "score": 8.8,
+          "overallScore": 7.45
+        },
+        {
+          "rank": 2,
+          "name": "Sé",
+          "score": 8.53,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 3,
+          "name": "Bela Vista",
+          "score": 8.11,
+          "overallScore": 8.02
+        },
+        {
+          "rank": 4,
+          "name": "Vila Mariana",
+          "score": 8.03,
+          "overallScore": 8.03
+        },
+        {
+          "rank": 5,
+          "name": "Santa Cecília",
+          "score": 7.71,
+          "overallScore": 7.76
+        },
+        {
+          "rank": 6,
+          "name": "Pinheiros",
+          "score": 7.32,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 7,
+          "name": "Consolação",
+          "score": 7.16,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 8,
+          "name": "Bom Retiro",
+          "score": 6.96,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 9,
+          "name": "Moema",
+          "score": 6.87,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 10,
+          "name": "Tatuapé",
+          "score": 6.83,
+          "overallScore": 7.67
+        },
+        {
+          "rank": 11,
+          "name": "Jardim Paulista",
+          "score": 6.77,
+          "overallScore": 7.68
+        },
+        {
+          "rank": 12,
+          "name": "Liberdade",
+          "score": 6.65,
+          "overallScore": 7.14
+        },
+        {
+          "rank": 13,
+          "name": "Itaim Bibi",
+          "score": 6.52,
+          "overallScore": 7.65
+        },
+        {
+          "rank": 14,
+          "name": "Brás",
+          "score": 6.44,
+          "overallScore": 6.42
+        },
+        {
+          "rank": 15,
+          "name": "Saúde",
+          "score": 6.4,
+          "overallScore": 7.43
+        }
+      ],
+      "stats": {
+        "min": 2.75,
+        "max": 8.8,
+        "mean": 5.03,
+        "median": 4.77,
+        "count": 88
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Vila Mariana",
+          "score": 8.03,
+          "overallScore": 8.03
+        },
+        {
+          "rank": 2,
+          "name": "Bela Vista",
+          "score": 8.02,
+          "overallScore": 8.02
+        },
+        {
+          "rank": 3,
+          "name": "Pinheiros",
+          "score": 7.78,
+          "overallScore": 7.78
+        },
+        {
+          "rank": 4,
+          "name": "Moema",
+          "score": 7.77,
+          "overallScore": 7.77
+        },
+        {
+          "rank": 5,
+          "name": "Santa Cecília",
+          "score": 7.76,
+          "overallScore": 7.76
+        },
+        {
+          "rank": 6,
+          "name": "Jardim Paulista",
+          "score": 7.68,
+          "overallScore": 7.68
+        },
+        {
+          "rank": 7,
+          "name": "Tatuapé",
+          "score": 7.67,
+          "overallScore": 7.67
+        },
+        {
+          "rank": 8,
+          "name": "Itaim Bibi",
+          "score": 7.65,
+          "overallScore": 7.65
+        },
+        {
+          "rank": 9,
+          "name": "Consolação",
+          "score": 7.63,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 10,
+          "name": "República",
+          "score": 7.45,
+          "overallScore": 7.45
+        },
+        {
+          "rank": 11,
+          "name": "Saúde",
+          "score": 7.43,
+          "overallScore": 7.43
+        },
+        {
+          "rank": 12,
+          "name": "Sé",
+          "score": 7.39,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 13,
+          "name": "Liberdade",
+          "score": 7.14,
+          "overallScore": 7.14
+        },
+        {
+          "rank": 13,
+          "exAequo": true,
+          "name": "Santo Amaro",
+          "score": 7.14,
+          "overallScore": 7.14
+        },
+        {
+          "rank": 15,
+          "name": "Mooca",
+          "score": 7.05,
+          "overallScore": 7.05
+        }
+      ],
+      "stats": {
+        "min": 2.9,
+        "max": 8.03,
+        "mean": 5.76,
+        "median": 5.86,
+        "count": 95
+      }
+    },
+    {
+      "city": "sao-paulo",
+      "cityName": "São Paulo",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "São Miguel",
+          "score": 1.84,
+          "overallScore": 6.43
+        },
+        {
+          "rank": 2,
+          "name": "Vila Curuçá",
+          "score": 1.71,
+          "overallScore": 6.13
+        },
+        {
+          "rank": 3,
+          "name": "Bom Retiro",
+          "score": 1.6,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 4,
+          "name": "Itaquera",
+          "score": 1.58,
+          "overallScore": 5.92
+        },
+        {
+          "rank": 4,
+          "exAequo": true,
+          "name": "Penha",
+          "score": 1.58,
+          "overallScore": 6.38
+        },
+        {
+          "rank": 6,
+          "name": "Ponte Rasa",
+          "score": 1.56,
+          "overallScore": 6.12
+        },
+        {
+          "rank": 7,
+          "name": "Artur Alvim",
+          "score": 1.54,
+          "overallScore": 6.53
+        },
+        {
+          "rank": 8,
+          "name": "Jardim Helena",
+          "score": 1.53,
+          "overallScore": 6.43
+        },
+        {
+          "rank": 9,
+          "name": "Aricanduva",
+          "score": 1.52,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 10,
+          "name": "Tatuapé",
+          "score": 1.51,
+          "overallScore": 7.67
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Vila Medeiros",
+          "score": 1.51,
+          "overallScore": 6.33
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Vila Formosa",
+          "score": 1.51,
+          "overallScore": 6.72
+        },
+        {
+          "rank": 13,
+          "name": "Mandaqui",
+          "score": 1.48,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 14,
+          "name": "Sé",
+          "score": 1.47,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 15,
+          "name": "Vila Guilherme",
+          "score": 1.46,
+          "overallScore": 6.25
+        }
+      ],
+      "stats": {
+        "min": 0.6125,
+        "max": 1.8403,
+        "mean": 1.29,
+        "median": 1.33,
+        "count": 94
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "mais-seguros",
+      "rankingTitle": "Mais Seguros",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Ipanema",
+          "score": 7.06,
+          "overallScore": 7.97
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Leblon",
+          "score": 7.06,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 3,
+          "name": "Humaitá",
+          "score": 7.01,
+          "overallScore": 6.43
+        },
+        {
+          "rank": 4,
+          "name": "Botafogo",
+          "score": 7,
+          "overallScore": 7.54
+        },
+        {
+          "rank": 4,
+          "exAequo": true,
+          "name": "Gávea",
+          "score": 7,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 4,
+          "exAequo": true,
+          "name": "Jardim Botânico",
+          "score": 7,
+          "overallScore": 4.53
+        },
+        {
+          "rank": 7,
+          "name": "Flamengo",
+          "score": 6.97,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "Tijuca",
+          "score": 6.97,
+          "overallScore": 7.17
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "Lagoa",
+          "score": 6.97,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "São Conrado",
+          "score": 6.97,
+          "overallScore": 5.4
+        },
+        {
+          "rank": 11,
+          "name": "Copacabana",
+          "score": 6.93,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 12,
+          "name": "Catete",
+          "score": 6.9,
+          "overallScore": 8.25
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Glória",
+          "score": 6.9,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Leme",
+          "score": 6.9,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 15,
+          "name": "Laranjeiras",
+          "score": 6.86,
+          "overallScore": 6.6
+        }
+      ],
+      "stats": {
+        "min": 2.2,
+        "max": 7.06,
+        "mean": 5.02,
+        "median": 5.5,
+        "count": 152
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "melhor-transporte",
+      "rankingTitle": "Melhor Transporte Público",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 10,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Santo Cristo",
+          "score": 10,
+          "overallScore": 5.08
+        },
+        {
+          "rank": 3,
+          "name": "Gamboa",
+          "score": 9.9,
+          "overallScore": 6.08
+        },
+        {
+          "rank": 4,
+          "name": "Catete",
+          "score": 9.88,
+          "overallScore": 8.25
+        },
+        {
+          "rank": 5,
+          "name": "Glória",
+          "score": 9.85,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 6,
+          "name": "Cidade Nova",
+          "score": 9.82,
+          "overallScore": 6.03
+        },
+        {
+          "rank": 7,
+          "name": "Madureira",
+          "score": 9.78,
+          "overallScore": 6.67
+        },
+        {
+          "rank": 8,
+          "name": "Santa Teresa",
+          "score": 9.49,
+          "overallScore": 4.6
+        },
+        {
+          "rank": 9,
+          "name": "Ramos",
+          "score": 9.47,
+          "overallScore": 5.82
+        },
+        {
+          "rank": 10,
+          "name": "Maria da Graça",
+          "score": 9.34,
+          "overallScore": 5.3
+        },
+        {
+          "rank": 11,
+          "name": "Copacabana",
+          "score": 9.31,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 12,
+          "name": "Urca",
+          "score": 9.23,
+          "overallScore": 4.7
+        },
+        {
+          "rank": 13,
+          "name": "Bonsucesso",
+          "score": 9.18,
+          "overallScore": 6.32
+        },
+        {
+          "rank": 14,
+          "name": "Manguinhos",
+          "score": 9.12,
+          "overallScore": 3.8
+        },
+        {
+          "rank": 15,
+          "name": "Coelho Neto",
+          "score": 9.08,
+          "overallScore": 4.95
+        }
+      ],
+      "stats": {
+        "min": 4.5,
+        "max": 10,
+        "mean": 5.91,
+        "median": 4.94,
+        "count": 152
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Ipanema",
+          "score": 7.79,
+          "overallScore": 7.97
+        },
+        {
+          "rank": 2,
+          "name": "Leblon",
+          "score": 7.38,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 3,
+          "name": "Andaraí",
+          "score": 6.81,
+          "overallScore": 6.62
+        },
+        {
+          "rank": 4,
+          "name": "Centro",
+          "score": 6.8,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 4,
+          "exAequo": true,
+          "name": "Vila Isabel",
+          "score": 6.8,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 6,
+          "name": "Flamengo",
+          "score": 6.79,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 6,
+          "exAequo": true,
+          "name": "Ramos",
+          "score": 6.79,
+          "overallScore": 5.82
+        },
+        {
+          "rank": 8,
+          "name": "Vila da Penha",
+          "score": 6.77,
+          "overallScore": 6.9
+        },
+        {
+          "rank": 8,
+          "exAequo": true,
+          "name": "Gamboa",
+          "score": 6.77,
+          "overallScore": 6.08
+        },
+        {
+          "rank": 10,
+          "name": "Copacabana",
+          "score": 6.76,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 11,
+          "name": "Grajaú",
+          "score": 6.73,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 12,
+          "name": "Olaria",
+          "score": 6.67,
+          "overallScore": 6.35
+        },
+        {
+          "rank": 13,
+          "name": "Bonsucesso",
+          "score": 6.6,
+          "overallScore": 6.32
+        },
+        {
+          "rank": 14,
+          "name": "Méier",
+          "score": 6.52,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 15,
+          "name": "Encantado",
+          "score": 6.5,
+          "overallScore": 6
+        }
+      ],
+      "stats": {
+        "min": 0.7,
+        "max": 7.79,
+        "mean": 4.59,
+        "median": 4.97,
+        "count": 152
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Glória",
+          "score": 9.23,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 2,
+          "name": "Barra Olímpica",
+          "score": 9.18,
+          "overallScore": 4.79
+        },
+        {
+          "rank": 3,
+          "name": "Santo Cristo",
+          "score": 8.91,
+          "overallScore": 5.08
+        },
+        {
+          "rank": 4,
+          "name": "Leblon",
+          "score": 8.84,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 4,
+          "exAequo": true,
+          "name": "Gardênia Azul",
+          "score": 8.84,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 6,
+          "name": "Flamengo",
+          "score": 8.69,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 7,
+          "name": "Barra da Tijuca",
+          "score": 8.56,
+          "overallScore": 7
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "Maracanã",
+          "score": 8.56,
+          "overallScore": 6.71
+        },
+        {
+          "rank": 9,
+          "name": "Cidade Universitária",
+          "score": 8.49,
+          "overallScore": 3.8
+        },
+        {
+          "rank": 10,
+          "name": "Jardim América",
+          "score": 8.45,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 11,
+          "name": "Cidade de Deus",
+          "score": 8.34,
+          "overallScore": 6.1
+        },
+        {
+          "rank": 12,
+          "name": "Turiaçu",
+          "score": 8.29,
+          "overallScore": 4.5
+        },
+        {
+          "rank": 13,
+          "name": "Camorim",
+          "score": 8.28,
+          "overallScore": 3.7
+        },
+        {
+          "rank": 14,
+          "name": "Ipanema",
+          "score": 8.15,
+          "overallScore": 7.97
+        },
+        {
+          "rank": 15,
+          "name": "Honório Gurgel",
+          "score": 8.13,
+          "overallScore": 5.1
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 9.23,
+        "mean": 4.39,
+        "median": 4.2,
+        "count": 152
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Copacabana",
+          "score": 8.43,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 2,
+          "name": "Ipanema",
+          "score": 8.28,
+          "overallScore": 7.97
+        },
+        {
+          "rank": 3,
+          "name": "Catete",
+          "score": 8.2,
+          "overallScore": 8.25
+        },
+        {
+          "rank": 4,
+          "name": "Vila da Penha",
+          "score": 8.19,
+          "overallScore": 6.9
+        },
+        {
+          "rank": 5,
+          "name": "Leblon",
+          "score": 8.18,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 6,
+          "name": "Botafogo",
+          "score": 8.1,
+          "overallScore": 7.54
+        },
+        {
+          "rank": 7,
+          "name": "Centro",
+          "score": 8,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 8,
+          "name": "Cachambi",
+          "score": 7.93,
+          "overallScore": 6.34
+        },
+        {
+          "rank": 9,
+          "name": "Leme",
+          "score": 7.85,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 10,
+          "name": "Méier",
+          "score": 7.77,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 11,
+          "name": "Humaitá",
+          "score": 7.66,
+          "overallScore": 6.43
+        },
+        {
+          "rank": 12,
+          "name": "Maracanã",
+          "score": 7.6,
+          "overallScore": 6.71
+        },
+        {
+          "rank": 13,
+          "name": "Vila Isabel",
+          "score": 7.53,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 14,
+          "name": "Flamengo",
+          "score": 7.52,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 15,
+          "name": "Gardênia Azul",
+          "score": 7.5,
+          "overallScore": 6.87
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 8.43,
+        "mean": 5.1,
+        "median": 5.12,
+        "count": 152
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Jardim Botânico",
+          "score": 7.31,
+          "overallScore": 4.53
+        },
+        {
+          "rank": 2,
+          "name": "Itanhangá",
+          "score": 7.2,
+          "overallScore": 4.8
+        },
+        {
+          "rank": 3,
+          "name": "São Conrado",
+          "score": 7.08,
+          "overallScore": 5.4
+        },
+        {
+          "rank": 4,
+          "name": "Jardim Sulacap",
+          "score": 7.02,
+          "overallScore": 4.7
+        },
+        {
+          "rank": 5,
+          "name": "Barra da Tijuca",
+          "score": 6.95,
+          "overallScore": 7
+        },
+        {
+          "rank": 6,
+          "name": "Gávea",
+          "score": 6.61,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 7,
+          "name": "Campo Grande",
+          "score": 6.33,
+          "overallScore": 4.68
+        },
+        {
+          "rank": 8,
+          "name": "Senador Camará",
+          "score": 6.26,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 9,
+          "name": "Grajaú",
+          "score": 6.16,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 10,
+          "name": "Barra Olímpica",
+          "score": 5.85,
+          "overallScore": 4.79
+        },
+        {
+          "rank": 11,
+          "name": "Realengo",
+          "score": 5.38,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 12,
+          "name": "Tijuca",
+          "score": 5.21,
+          "overallScore": 7.17
+        },
+        {
+          "rank": 13,
+          "name": "Bangu",
+          "score": 5.13,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 14,
+          "name": "Humaitá",
+          "score": 5.1,
+          "overallScore": 6.43
+        },
+        {
+          "rank": 15,
+          "name": "Flamengo",
+          "score": 5.03,
+          "overallScore": 7.6
+        }
+      ],
+      "stats": {
+        "min": 2.2,
+        "max": 7.31,
+        "mean": 4.06,
+        "median": 3.48,
+        "count": 58
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Gávea",
+          "score": 7.09,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 2,
+          "name": "Flamengo",
+          "score": 7.06,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 3,
+          "name": "Botafogo",
+          "score": 6.98,
+          "overallScore": 7.54
+        },
+        {
+          "rank": 4,
+          "name": "Copacabana",
+          "score": 6.89,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 5,
+          "name": "Tijuca",
+          "score": 6.87,
+          "overallScore": 7.17
+        },
+        {
+          "rank": 6,
+          "name": "Humaitá",
+          "score": 6.82,
+          "overallScore": 6.43
+        },
+        {
+          "rank": 7,
+          "name": "Grajaú",
+          "score": 6.81,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 8,
+          "name": "Ipanema",
+          "score": 6.8,
+          "overallScore": 7.97
+        },
+        {
+          "rank": 9,
+          "name": "Jardim Botânico",
+          "score": 6.69,
+          "overallScore": 4.53
+        },
+        {
+          "rank": 10,
+          "name": "Laranjeiras",
+          "score": 6.67,
+          "overallScore": 6.6
+        },
+        {
+          "rank": 11,
+          "name": "Catete",
+          "score": 6.64,
+          "overallScore": 8.25
+        },
+        {
+          "rank": 12,
+          "name": "Barra da Tijuca",
+          "score": 6.48,
+          "overallScore": 7
+        },
+        {
+          "rank": 13,
+          "name": "Leblon",
+          "score": 6.44,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 14,
+          "name": "Vila Isabel",
+          "score": 6.42,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 15,
+          "name": "Méier",
+          "score": 6.35,
+          "overallScore": 7.39
+        }
+      ],
+      "stats": {
+        "min": 4.62,
+        "max": 7.09,
+        "mean": 5.83,
+        "median": 5.77,
+        "count": 58
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 8.75,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 2,
+          "name": "Catete",
+          "score": 8.23,
+          "overallScore": 8.25
+        },
+        {
+          "rank": 3,
+          "name": "Copacabana",
+          "score": 8.22,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 4,
+          "name": "Glória",
+          "score": 8.17,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 5,
+          "name": "Leblon",
+          "score": 8,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 6,
+          "name": "Flamengo",
+          "score": 7.69,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 7,
+          "name": "Botafogo",
+          "score": 7.53,
+          "overallScore": 7.54
+        },
+        {
+          "rank": 8,
+          "name": "Ipanema",
+          "score": 7.39,
+          "overallScore": 7.97
+        },
+        {
+          "rank": 9,
+          "name": "Cidade Nova",
+          "score": 7.3,
+          "overallScore": 6.03
+        },
+        {
+          "rank": 10,
+          "name": "Gamboa",
+          "score": 7.19,
+          "overallScore": 6.08
+        },
+        {
+          "rank": 11,
+          "name": "Madureira",
+          "score": 6.9,
+          "overallScore": 6.67
+        },
+        {
+          "rank": 12,
+          "name": "Maracanã",
+          "score": 6.89,
+          "overallScore": 6.71
+        },
+        {
+          "rank": 13,
+          "name": "Tijuca",
+          "score": 6.76,
+          "overallScore": 7.17
+        },
+        {
+          "rank": 14,
+          "name": "Barra da Tijuca",
+          "score": 6.54,
+          "overallScore": 7
+        },
+        {
+          "rank": 14,
+          "exAequo": true,
+          "name": "Santo Cristo",
+          "score": 6.54,
+          "overallScore": 5.08
+        }
+      ],
+      "stats": {
+        "min": 2.7,
+        "max": 8.75,
+        "mean": 5.26,
+        "median": 5.15,
+        "count": 113
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Catete",
+          "score": 8.25,
+          "overallScore": 8.25
+        },
+        {
+          "rank": 2,
+          "name": "Ipanema",
+          "score": 7.97,
+          "overallScore": 7.97
+        },
+        {
+          "rank": 3,
+          "name": "Copacabana",
+          "score": 7.8,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 3,
+          "exAequo": true,
+          "name": "Leblon",
+          "score": 7.8,
+          "overallScore": 7.8
+        },
+        {
+          "rank": 5,
+          "name": "Centro",
+          "score": 7.62,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 6,
+          "name": "Flamengo",
+          "score": 7.6,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 7,
+          "name": "Botafogo",
+          "score": 7.54,
+          "overallScore": 7.54
+        },
+        {
+          "rank": 8,
+          "name": "Glória",
+          "score": 7.4,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 9,
+          "name": "Méier",
+          "score": 7.39,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 10,
+          "name": "Tijuca",
+          "score": 7.17,
+          "overallScore": 7.17
+        },
+        {
+          "rank": 11,
+          "name": "Vila Isabel",
+          "score": 7.1,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 12,
+          "name": "Barra da Tijuca",
+          "score": 7,
+          "overallScore": 7
+        },
+        {
+          "rank": 13,
+          "name": "Vila da Penha",
+          "score": 6.9,
+          "overallScore": 6.9
+        },
+        {
+          "rank": 14,
+          "name": "Gardênia Azul",
+          "score": 6.87,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 15,
+          "name": "Maracanã",
+          "score": 6.71,
+          "overallScore": 6.71
+        }
+      ],
+      "stats": {
+        "min": 2.6,
+        "max": 8.25,
+        "mean": 5.13,
+        "median": 5.2,
+        "count": 152
+      }
+    },
+    {
+      "city": "rio-de-janeiro",
+      "cityName": "Rio de Janeiro",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Bangu",
+          "score": 2.25,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 2,
+          "name": "Realengo",
+          "score": 1.97,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 3,
+          "name": "Madureira",
+          "score": 1.91,
+          "overallScore": 6.67
+        },
+        {
+          "rank": 4,
+          "name": "Irajá",
+          "score": 1.81,
+          "overallScore": 5.8
+        },
+        {
+          "rank": 5,
+          "name": "Ramos",
+          "score": 1.66,
+          "overallScore": 5.82
+        },
+        {
+          "rank": 6,
+          "name": "Penha",
+          "score": 1.63,
+          "overallScore": 5.7
+        },
+        {
+          "rank": 7,
+          "name": "Olaria",
+          "score": 1.59,
+          "overallScore": 6.35
+        },
+        {
+          "rank": 8,
+          "name": "Centro",
+          "score": 1.52,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 9,
+          "name": "Méier",
+          "score": 1.48,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 10,
+          "name": "Andaraí",
+          "score": 1.2,
+          "overallScore": 6.62
+        },
+        {
+          "rank": 11,
+          "name": "Vila Isabel",
+          "score": 1.09,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 12,
+          "name": "Grajaú",
+          "score": 1.08,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 13,
+          "name": "Tijuca",
+          "score": 1.02,
+          "overallScore": 7.17
+        },
+        {
+          "rank": 14,
+          "name": "Taquara",
+          "score": 1,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 15,
+          "name": "Maracanã",
+          "score": 0.96,
+          "overallScore": 6.71
+        }
+      ],
+      "stats": {
+        "min": 0.3124,
+        "max": 2.25,
+        "mean": 1,
+        "median": 0.94,
+        "count": 38
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "melhor-transporte",
+      "rankingTitle": "Melhor Transporte Público",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Calafate",
+          "score": 10,
+          "overallScore": 6.93
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Gameleira",
+          "score": 10,
+          "overallScore": 4.1
+        },
+        {
+          "rank": 3,
+          "name": "Minaslândia",
+          "score": 9.98,
+          "overallScore": 6.25
+        },
+        {
+          "rank": 4,
+          "name": "Santa Tereza",
+          "score": 9.96,
+          "overallScore": 7.04
+        },
+        {
+          "rank": 5,
+          "name": "Vila Clóris",
+          "score": 9.87,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 6,
+          "name": "Centro",
+          "score": 9.76,
+          "overallScore": 8.28
+        },
+        {
+          "rank": 7,
+          "name": "Floresta",
+          "score": 9.73,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 8,
+          "name": "Santa Efigênia",
+          "score": 9.63,
+          "overallScore": 7.79
+        },
+        {
+          "rank": 9,
+          "name": "Ipiranga",
+          "score": 9.6,
+          "overallScore": 6.97
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Palmares",
+          "score": 9.6,
+          "overallScore": 6.91
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Santa Branca",
+          "score": 9.6,
+          "overallScore": 5.98
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Cachoeirinha",
+          "score": 9.6,
+          "overallScore": 5.59
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Aparecida",
+          "score": 9.6,
+          "overallScore": 5.48
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "São Francisco",
+          "score": 9.6,
+          "overallScore": 5.15
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Lagoinha",
+          "score": 9.6,
+          "overallScore": 4.9
+        }
+      ],
+      "stats": {
+        "min": 2.92,
+        "max": 10,
+        "mean": 5.42,
+        "median": 5.1,
+        "count": 161
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Funcionários",
+          "score": 7.8,
+          "overallScore": 8.1
+        },
+        {
+          "rank": 2,
+          "name": "Savassi",
+          "score": 7.61,
+          "overallScore": 7.99
+        },
+        {
+          "rank": 3,
+          "name": "Lourdes",
+          "score": 7.4,
+          "overallScore": 8.05
+        },
+        {
+          "rank": 4,
+          "name": "Renascença",
+          "score": 7.38,
+          "overallScore": 6.14
+        },
+        {
+          "rank": 5,
+          "name": "Jaraguá",
+          "score": 7.3,
+          "overallScore": 5.95
+        },
+        {
+          "rank": 6,
+          "name": "Anchieta",
+          "score": 7.28,
+          "overallScore": 7.01
+        },
+        {
+          "rank": 7,
+          "name": "Santa Efigênia",
+          "score": 7.2,
+          "overallScore": 7.79
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "São Pedro",
+          "score": 7.2,
+          "overallScore": 7.53
+        },
+        {
+          "rank": 9,
+          "name": "Santo Agostinho",
+          "score": 7.18,
+          "overallScore": 7.64
+        },
+        {
+          "rank": 10,
+          "name": "Centro",
+          "score": 7.17,
+          "overallScore": 8.28
+        },
+        {
+          "rank": 11,
+          "name": "Guarani",
+          "score": 7.14,
+          "overallScore": 6.93
+        },
+        {
+          "rank": 12,
+          "name": "Prado",
+          "score": 7.11,
+          "overallScore": 7.16
+        },
+        {
+          "rank": 13,
+          "name": "Gutierrez",
+          "score": 7.05,
+          "overallScore": 6.95
+        },
+        {
+          "rank": 13,
+          "exAequo": true,
+          "name": "Nova Suíça",
+          "score": 7.05,
+          "overallScore": 6.93
+        },
+        {
+          "rank": 15,
+          "name": "Floresta",
+          "score": 7.03,
+          "overallScore": 7.02
+        }
+      ],
+      "stats": {
+        "min": 1.2,
+        "max": 7.8,
+        "mean": 5.54,
+        "median": 6.01,
+        "count": 163
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Jardim Atlântico",
+          "score": 8.81,
+          "overallScore": 4.1
+        },
+        {
+          "rank": 2,
+          "name": "Funcionários",
+          "score": 8.2,
+          "overallScore": 8.1
+        },
+        {
+          "rank": 3,
+          "name": "Santa Efigênia",
+          "score": 7.56,
+          "overallScore": 7.79
+        },
+        {
+          "rank": 4,
+          "name": "São Gabriel",
+          "score": 7.11,
+          "overallScore": 5.25
+        },
+        {
+          "rank": 5,
+          "name": "Santa Inês",
+          "score": 7.04,
+          "overallScore": 6.23
+        },
+        {
+          "rank": 6,
+          "name": "Centro",
+          "score": 7.03,
+          "overallScore": 8.28
+        },
+        {
+          "rank": 7,
+          "name": "Barreiro de Baixo",
+          "score": 6.95,
+          "overallScore": 7.22
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "Betânia",
+          "score": 6.95,
+          "overallScore": 5.81
+        },
+        {
+          "rank": 9,
+          "name": "Savassi",
+          "score": 6.79,
+          "overallScore": 7.99
+        },
+        {
+          "rank": 10,
+          "name": "Tirol",
+          "score": 6.59,
+          "overallScore": 4.9
+        },
+        {
+          "rank": 11,
+          "name": "Providência",
+          "score": 5.96,
+          "overallScore": 4.75
+        },
+        {
+          "rank": 12,
+          "name": "Guarani",
+          "score": 5.59,
+          "overallScore": 6.93
+        },
+        {
+          "rank": 13,
+          "name": "Santa Tereza",
+          "score": 5.53,
+          "overallScore": 7.04
+        },
+        {
+          "rank": 14,
+          "name": "CDI Jatobá",
+          "score": 5.26,
+          "overallScore": 3.2
+        },
+        {
+          "rank": 15,
+          "name": "Horto Florestal",
+          "score": 5.25,
+          "overallScore": 5.02
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 8.81,
+        "mean": 2.26,
+        "median": 1.8,
+        "count": 163
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Savassi",
+          "score": 8.99,
+          "overallScore": 7.99
+        },
+        {
+          "rank": 2,
+          "name": "Lourdes",
+          "score": 8.44,
+          "overallScore": 8.05
+        },
+        {
+          "rank": 3,
+          "name": "Funcionários",
+          "score": 8.43,
+          "overallScore": 8.1
+        },
+        {
+          "rank": 4,
+          "name": "Centro",
+          "score": 8.35,
+          "overallScore": 8.28
+        },
+        {
+          "rank": 5,
+          "name": "Santo Agostinho",
+          "score": 8.26,
+          "overallScore": 7.64
+        },
+        {
+          "rank": 6,
+          "name": "Barro Preto",
+          "score": 8.02,
+          "overallScore": 7.57
+        },
+        {
+          "rank": 6,
+          "exAequo": true,
+          "name": "Caiçara-Adelaide",
+          "score": 8.02,
+          "overallScore": 6.41
+        },
+        {
+          "rank": 8,
+          "name": "São Pedro",
+          "score": 8,
+          "overallScore": 7.53
+        },
+        {
+          "rank": 9,
+          "name": "Santo Antônio",
+          "score": 7.99,
+          "overallScore": 6.77
+        },
+        {
+          "rank": 10,
+          "name": "Floresta",
+          "score": 7.98,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Anchieta",
+          "score": 7.98,
+          "overallScore": 7.01
+        },
+        {
+          "rank": 12,
+          "name": "Santa Efigênia",
+          "score": 7.95,
+          "overallScore": 7.79
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Serra",
+          "score": 7.95,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 14,
+          "name": "Cidade Nova",
+          "score": 7.9,
+          "overallScore": 7.12
+        },
+        {
+          "rank": 15,
+          "name": "Barreiro de Baixo",
+          "score": 7.86,
+          "overallScore": 7.22
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 8.99,
+        "mean": 5.38,
+        "median": 5.03,
+        "count": 163
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Belvedere",
+          "score": 5.78,
+          "overallScore": 4.89
+        },
+        {
+          "rank": 2,
+          "name": "Independência",
+          "score": 5.18,
+          "overallScore": 5
+        },
+        {
+          "rank": 3,
+          "name": "Araguaia",
+          "score": 5,
+          "overallScore": 5.06
+        },
+        {
+          "rank": 4,
+          "name": "Cardoso",
+          "score": 4.96,
+          "overallScore": 6.37
+        },
+        {
+          "rank": 5,
+          "name": "Sion",
+          "score": 4.7,
+          "overallScore": 6.78
+        },
+        {
+          "rank": 6,
+          "name": "Tirol",
+          "score": 4.6,
+          "overallScore": 4.9
+        },
+        {
+          "rank": 7,
+          "name": "Milionários",
+          "score": 4.5,
+          "overallScore": 6.18
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "Jaqueline",
+          "score": 4.5,
+          "overallScore": 3.9
+        },
+        {
+          "rank": 9,
+          "name": "Brasil Industrial",
+          "score": 4.45,
+          "overallScore": 5.55
+        },
+        {
+          "rank": 10,
+          "name": "Serra",
+          "score": 4.4,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Castelo",
+          "score": 4.4,
+          "overallScore": 6.14
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Vale do Jatobá",
+          "score": 4.4,
+          "overallScore": 6.04
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Itaipu",
+          "score": 4.4,
+          "overallScore": 5.53
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Paquetá",
+          "score": 4.4,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Diamante",
+          "score": 4.4,
+          "overallScore": 4.7
+        }
+      ],
+      "stats": {
+        "min": 2.5,
+        "max": 5.78,
+        "mean": 3.71,
+        "median": 3.6,
+        "count": 81
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Funcionários",
+          "score": 6.73,
+          "overallScore": 8.1
+        },
+        {
+          "rank": 2,
+          "name": "Savassi",
+          "score": 6.63,
+          "overallScore": 7.99
+        },
+        {
+          "rank": 3,
+          "name": "Barreiro de Baixo",
+          "score": 6.62,
+          "overallScore": 7.22
+        },
+        {
+          "rank": 4,
+          "name": "Serra",
+          "score": 6.61,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 5,
+          "name": "Santo Agostinho",
+          "score": 6.52,
+          "overallScore": 7.64
+        },
+        {
+          "rank": 6,
+          "name": "Lourdes",
+          "score": 6.51,
+          "overallScore": 8.05
+        },
+        {
+          "rank": 7,
+          "name": "Anchieta",
+          "score": 6.34,
+          "overallScore": 7.01
+        },
+        {
+          "rank": 8,
+          "name": "São Pedro",
+          "score": 6.33,
+          "overallScore": 7.53
+        },
+        {
+          "rank": 9,
+          "name": "Santo Antônio",
+          "score": 6.29,
+          "overallScore": 6.77
+        },
+        {
+          "rank": 10,
+          "name": "Prado",
+          "score": 6.28,
+          "overallScore": 7.16
+        },
+        {
+          "rank": 11,
+          "name": "Venda Nova",
+          "score": 6.27,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 12,
+          "name": "Ouro Preto",
+          "score": 6.21,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 13,
+          "name": "Sion",
+          "score": 6.2,
+          "overallScore": 6.78
+        },
+        {
+          "rank": 14,
+          "name": "Nova Suíça",
+          "score": 6.14,
+          "overallScore": 6.93
+        },
+        {
+          "rank": 15,
+          "name": "Castelo",
+          "score": 6.13,
+          "overallScore": 6.14
+        }
+      ],
+      "stats": {
+        "min": 4.1,
+        "max": 6.73,
+        "mean": 5.7,
+        "median": 5.74,
+        "count": 81
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 8.98,
+          "overallScore": 8.28
+        },
+        {
+          "rank": 2,
+          "name": "Lourdes",
+          "score": 8.84,
+          "overallScore": 8.05
+        },
+        {
+          "rank": 3,
+          "name": "Santa Efigênia",
+          "score": 8.41,
+          "overallScore": 7.79
+        },
+        {
+          "rank": 4,
+          "name": "Santa Tereza",
+          "score": 8.09,
+          "overallScore": 7.04
+        },
+        {
+          "rank": 5,
+          "name": "Floresta",
+          "score": 7.79,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 6,
+          "name": "Savassi",
+          "score": 7.71,
+          "overallScore": 7.99
+        },
+        {
+          "rank": 7,
+          "name": "Dona Clara",
+          "score": 7.53,
+          "overallScore": 6.4
+        },
+        {
+          "rank": 8,
+          "name": "Calafate",
+          "score": 7.36,
+          "overallScore": 6.93
+        },
+        {
+          "rank": 9,
+          "name": "Funcionários",
+          "score": 7.33,
+          "overallScore": 8.1
+        },
+        {
+          "rank": 10,
+          "name": "Minaslândia",
+          "score": 7.29,
+          "overallScore": 6.25
+        },
+        {
+          "rank": 11,
+          "name": "Vila Clóris",
+          "score": 7.21,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 12,
+          "name": "Santo Agostinho",
+          "score": 7.04,
+          "overallScore": 7.64
+        },
+        {
+          "rank": 13,
+          "name": "Ipiranga",
+          "score": 7.02,
+          "overallScore": 6.97
+        },
+        {
+          "rank": 14,
+          "name": "Barro Preto",
+          "score": 6.98,
+          "overallScore": 7.57
+        },
+        {
+          "rank": 15,
+          "name": "Serra",
+          "score": 6.91,
+          "overallScore": 7.4
+        }
+      ],
+      "stats": {
+        "min": 2.24,
+        "max": 8.98,
+        "mean": 4.88,
+        "median": 4.73,
+        "count": 147
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 8.28,
+          "overallScore": 8.28
+        },
+        {
+          "rank": 2,
+          "name": "Funcionários",
+          "score": 8.1,
+          "overallScore": 8.1
+        },
+        {
+          "rank": 3,
+          "name": "Lourdes",
+          "score": 8.05,
+          "overallScore": 8.05
+        },
+        {
+          "rank": 4,
+          "name": "Savassi",
+          "score": 7.99,
+          "overallScore": 7.99
+        },
+        {
+          "rank": 5,
+          "name": "Santa Efigênia",
+          "score": 7.79,
+          "overallScore": 7.79
+        },
+        {
+          "rank": 6,
+          "name": "Santo Agostinho",
+          "score": 7.64,
+          "overallScore": 7.64
+        },
+        {
+          "rank": 7,
+          "name": "Barro Preto",
+          "score": 7.57,
+          "overallScore": 7.57
+        },
+        {
+          "rank": 8,
+          "name": "São Pedro",
+          "score": 7.53,
+          "overallScore": 7.53
+        },
+        {
+          "rank": 9,
+          "name": "Serra",
+          "score": 7.4,
+          "overallScore": 7.4
+        },
+        {
+          "rank": 10,
+          "name": "Barreiro de Baixo",
+          "score": 7.22,
+          "overallScore": 7.22
+        },
+        {
+          "rank": 11,
+          "name": "Prado",
+          "score": 7.16,
+          "overallScore": 7.16
+        },
+        {
+          "rank": 12,
+          "name": "Cidade Nova",
+          "score": 7.12,
+          "overallScore": 7.12
+        },
+        {
+          "rank": 13,
+          "name": "Santa Tereza",
+          "score": 7.04,
+          "overallScore": 7.04
+        },
+        {
+          "rank": 14,
+          "name": "Floresta",
+          "score": 7.02,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 15,
+          "name": "Anchieta",
+          "score": 7.01,
+          "overallScore": 7.01
+        }
+      ],
+      "stats": {
+        "min": 2.6,
+        "max": 8.28,
+        "mean": 5.41,
+        "median": 5.48,
+        "count": 163
+      }
+    },
+    {
+      "city": "belo-horizonte",
+      "cityName": "Belo Horizonte",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 2.12,
+          "overallScore": 8.28
+        },
+        {
+          "rank": 2,
+          "name": "Aparecida",
+          "score": 1.85,
+          "overallScore": 5.48
+        },
+        {
+          "rank": 3,
+          "name": "João Pinheiro",
+          "score": 1.81,
+          "overallScore": 6.1
+        },
+        {
+          "rank": 4,
+          "name": "Serra Verde",
+          "score": 1.75,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 5,
+          "name": "Vila Clóris",
+          "score": 1.71,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 6,
+          "name": "Venda Nova",
+          "score": 1.7,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 7,
+          "name": "Goiânia",
+          "score": 1.69,
+          "overallScore": 5.68
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "Ipiranga",
+          "score": 1.69,
+          "overallScore": 6.97
+        },
+        {
+          "rank": 9,
+          "name": "Calafate",
+          "score": 1.68,
+          "overallScore": 6.93
+        },
+        {
+          "rank": 10,
+          "name": "Floramar",
+          "score": 1.66,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 11,
+          "name": "Cardoso",
+          "score": 1.6,
+          "overallScore": 6.37
+        },
+        {
+          "rank": 11,
+          "exAequo": true,
+          "name": "Santa Tereza",
+          "score": 1.6,
+          "overallScore": 7.04
+        },
+        {
+          "rank": 11,
+          "exAequo": true,
+          "name": "Santa Rosa",
+          "score": 1.6,
+          "overallScore": 6.75
+        },
+        {
+          "rank": 14,
+          "name": "Barro Preto",
+          "score": 1.59,
+          "overallScore": 7.57
+        },
+        {
+          "rank": 15,
+          "name": "Pompeia",
+          "score": 1.58,
+          "overallScore": 6.2
+        }
+      ],
+      "stats": {
+        "min": 0.3778,
+        "max": 2.1224,
+        "mean": 1.31,
+        "median": 1.34,
+        "count": 121
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Alto da Rua XV",
+          "score": 8.15,
+          "overallScore": 7.36
+        },
+        {
+          "rank": 2,
+          "name": "Água Verde",
+          "score": 7.86,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 2,
+          "exAequo": true,
+          "name": "Vila Izabel",
+          "score": 7.86,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 4,
+          "name": "Centro",
+          "score": 7.84,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 5,
+          "name": "Rebouças",
+          "score": 7.79,
+          "overallScore": 7.47
+        },
+        {
+          "rank": 6,
+          "name": "Bigorrilho",
+          "score": 7.76,
+          "overallScore": 7.49
+        },
+        {
+          "rank": 7,
+          "name": "Batel",
+          "score": 7.73,
+          "overallScore": 7.75
+        },
+        {
+          "rank": 8,
+          "name": "Mercês",
+          "score": 7.69,
+          "overallScore": 7.07
+        },
+        {
+          "rank": 8,
+          "exAequo": true,
+          "name": "São Francisco",
+          "score": 7.69,
+          "overallScore": 6.88
+        },
+        {
+          "rank": 10,
+          "name": "Portão",
+          "score": 7.63,
+          "overallScore": 6.95
+        },
+        {
+          "rank": 11,
+          "name": "Juvevê",
+          "score": 7.51,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 12,
+          "name": "Hauer",
+          "score": 7.5,
+          "overallScore": 6.86
+        },
+        {
+          "rank": 13,
+          "name": "Cristo Rei",
+          "score": 7.43,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 14,
+          "name": "Centro Cívico",
+          "score": 7.41,
+          "overallScore": 7.3
+        },
+        {
+          "rank": 15,
+          "name": "Alto da Glória",
+          "score": 7.38,
+          "overallScore": 7.31
+        }
+      ],
+      "stats": {
+        "min": 2.3,
+        "max": 8.15,
+        "mean": 5.94,
+        "median": 6.27,
+        "count": 68
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Rebouças",
+          "score": 9.9,
+          "overallScore": 7.47
+        },
+        {
+          "rank": 2,
+          "name": "Jardim Botânico",
+          "score": 9.89,
+          "overallScore": 4.8
+        },
+        {
+          "rank": 3,
+          "name": "Prado Velho",
+          "score": 9.88,
+          "overallScore": 5.21
+        },
+        {
+          "rank": 4,
+          "name": "Cristo Rei",
+          "score": 9.86,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 5,
+          "name": "Tarumã",
+          "score": 9.74,
+          "overallScore": 5.35
+        },
+        {
+          "rank": 6,
+          "name": "Hauer",
+          "score": 9.66,
+          "overallScore": 6.86
+        },
+        {
+          "rank": 7,
+          "name": "Alto da Rua XV",
+          "score": 9.55,
+          "overallScore": 7.36
+        },
+        {
+          "rank": 8,
+          "name": "Centro Cívico",
+          "score": 9.43,
+          "overallScore": 7.3
+        },
+        {
+          "rank": 9,
+          "name": "Capão da Imbuia",
+          "score": 9.4,
+          "overallScore": 6.16
+        },
+        {
+          "rank": 10,
+          "name": "Água Verde",
+          "score": 9.37,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 11,
+          "name": "Jardim das Américas",
+          "score": 9.32,
+          "overallScore": 5.32
+        },
+        {
+          "rank": 12,
+          "name": "Cabral",
+          "score": 9.31,
+          "overallScore": 7.01
+        },
+        {
+          "rank": 13,
+          "name": "Centro",
+          "score": 9.29,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 14,
+          "name": "Bacacheri",
+          "score": 9.28,
+          "overallScore": 5.25
+        },
+        {
+          "rank": 15,
+          "name": "Boqueirão",
+          "score": 9.14,
+          "overallScore": 5.6
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 9.9,
+        "mean": 7.14,
+        "median": 8.09,
+        "count": 68
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 8.66,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 2,
+          "name": "Batel",
+          "score": 8.54,
+          "overallScore": 7.75
+        },
+        {
+          "rank": 3,
+          "name": "Juvevê",
+          "score": 8.44,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 4,
+          "name": "Bigorrilho",
+          "score": 8.28,
+          "overallScore": 7.49
+        },
+        {
+          "rank": 5,
+          "name": "Água Verde",
+          "score": 8.23,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 6,
+          "name": "Alto da Rua XV",
+          "score": 8.11,
+          "overallScore": 7.36
+        },
+        {
+          "rank": 7,
+          "name": "Rebouças",
+          "score": 8.1,
+          "overallScore": 7.47
+        },
+        {
+          "rank": 8,
+          "name": "Hugo Lange",
+          "score": 8.05,
+          "overallScore": 6.45
+        },
+        {
+          "rank": 9,
+          "name": "São Francisco",
+          "score": 8.04,
+          "overallScore": 6.88
+        },
+        {
+          "rank": 10,
+          "name": "Centro Cívico",
+          "score": 7.97,
+          "overallScore": 7.3
+        },
+        {
+          "rank": 11,
+          "name": "Vila Izabel",
+          "score": 7.96,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 12,
+          "name": "Mercês",
+          "score": 7.76,
+          "overallScore": 7.07
+        },
+        {
+          "rank": 13,
+          "name": "Alto da Glória",
+          "score": 7.74,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 14,
+          "name": "Cristo Rei",
+          "score": 7.67,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 15,
+          "name": "Ahú",
+          "score": 7.65,
+          "overallScore": 6.16
+        }
+      ],
+      "stats": {
+        "min": 2.5,
+        "max": 8.66,
+        "mean": 5.75,
+        "median": 5.58,
+        "count": 68
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "São Braz",
+          "score": 5.2,
+          "overallScore": 5.1
+        },
+        {
+          "rank": 2,
+          "name": "Barreirinha",
+          "score": 4.96,
+          "overallScore": 4.5
+        },
+        {
+          "rank": 3,
+          "name": "Bacacheri",
+          "score": 4.6,
+          "overallScore": 5.25
+        },
+        {
+          "rank": 4,
+          "name": "Santa Quitéria",
+          "score": 4.4,
+          "overallScore": 5.95
+        },
+        {
+          "rank": 4,
+          "exAequo": true,
+          "name": "Fazendinha",
+          "score": 4.4,
+          "overallScore": 5.26
+        },
+        {
+          "rank": 6,
+          "name": "Boa Vista",
+          "score": 4.2,
+          "overallScore": 5.67
+        },
+        {
+          "rank": 7,
+          "name": "Guaíra",
+          "score": 4.1,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 7,
+          "exAequo": true,
+          "name": "Tingui",
+          "score": 4.1,
+          "overallScore": 4.5
+        },
+        {
+          "rank": 9,
+          "name": "Centro Cívico",
+          "score": 4.05,
+          "overallScore": 7.3
+        },
+        {
+          "rank": 10,
+          "name": "Hauer",
+          "score": 4,
+          "overallScore": 6.86
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Ahú",
+          "score": 4,
+          "overallScore": 6.16
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Seminário",
+          "score": 4,
+          "overallScore": 5.74
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Parolin",
+          "score": 4,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Xaxim",
+          "score": 4,
+          "overallScore": 5.11
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Bairro Alto",
+          "score": 4,
+          "overallScore": 4.7
+        }
+      ],
+      "stats": {
+        "min": 2.7,
+        "max": 5.2,
+        "mean": 3.81,
+        "median": 3.85,
+        "count": 36
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Batel",
+          "score": 6.51,
+          "overallScore": 7.75
+        },
+        {
+          "rank": 2,
+          "name": "Bigorrilho",
+          "score": 6.48,
+          "overallScore": 7.49
+        },
+        {
+          "rank": 3,
+          "name": "Vila Izabel",
+          "score": 6.39,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 4,
+          "name": "Juvevê",
+          "score": 6.36,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 5,
+          "name": "Cabral",
+          "score": 6.33,
+          "overallScore": 7.01
+        },
+        {
+          "rank": 6,
+          "name": "Água Verde",
+          "score": 6.31,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 6,
+          "exAequo": true,
+          "name": "Ahú",
+          "score": 6.31,
+          "overallScore": 6.16
+        },
+        {
+          "rank": 8,
+          "name": "Alto da Rua XV",
+          "score": 6.26,
+          "overallScore": 7.36
+        },
+        {
+          "rank": 9,
+          "name": "Mercês",
+          "score": 6.25,
+          "overallScore": 7.07
+        },
+        {
+          "rank": 10,
+          "name": "Cristo Rei",
+          "score": 6.24,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 11,
+          "name": "Hugo Lange",
+          "score": 6.22,
+          "overallScore": 6.45
+        },
+        {
+          "rank": 12,
+          "name": "Centro Cívico",
+          "score": 6.14,
+          "overallScore": 7.3
+        },
+        {
+          "rank": 13,
+          "name": "Seminário",
+          "score": 6.04,
+          "overallScore": 5.74
+        },
+        {
+          "rank": 13,
+          "exAequo": true,
+          "name": "Boa Vista",
+          "score": 6.04,
+          "overallScore": 5.67
+        },
+        {
+          "rank": 15,
+          "name": "Bom Retiro",
+          "score": 5.94,
+          "overallScore": 5.93
+        }
+      ],
+      "stats": {
+        "min": 5.07,
+        "max": 6.51,
+        "mean": 5.82,
+        "median": 5.79,
+        "count": 36
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 8.14,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 2,
+          "name": "Centro Cívico",
+          "score": 7.84,
+          "overallScore": 7.3
+        },
+        {
+          "rank": 3,
+          "name": "São Francisco",
+          "score": 7.79,
+          "overallScore": 6.88
+        },
+        {
+          "rank": 4,
+          "name": "Batel",
+          "score": 7.53,
+          "overallScore": 7.75
+        },
+        {
+          "rank": 5,
+          "name": "Rebouças",
+          "score": 7.43,
+          "overallScore": 7.47
+        },
+        {
+          "rank": 6,
+          "name": "Juvevê",
+          "score": 7.31,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 7,
+          "name": "Bigorrilho",
+          "score": 7.26,
+          "overallScore": 7.49
+        },
+        {
+          "rank": 8,
+          "name": "Alto da Glória",
+          "score": 7.17,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 9,
+          "name": "Vila Izabel",
+          "score": 7.16,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 10,
+          "name": "Alto da Rua XV",
+          "score": 7.13,
+          "overallScore": 7.36
+        },
+        {
+          "rank": 11,
+          "name": "Água Verde",
+          "score": 7.03,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 12,
+          "name": "Cristo Rei",
+          "score": 6.94,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 13,
+          "name": "Mercês",
+          "score": 6.76,
+          "overallScore": 7.07
+        },
+        {
+          "rank": 14,
+          "name": "Portão",
+          "score": 6.7,
+          "overallScore": 6.95
+        },
+        {
+          "rank": 15,
+          "name": "Cabral",
+          "score": 6.66,
+          "overallScore": 7.01
+        }
+      ],
+      "stats": {
+        "min": 1.67,
+        "max": 8.14,
+        "mean": 5.14,
+        "median": 5.29,
+        "count": 60
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Batel",
+          "score": 7.75,
+          "overallScore": 7.75
+        },
+        {
+          "rank": 2,
+          "name": "Centro",
+          "score": 7.7,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 3,
+          "name": "Água Verde",
+          "score": 7.63,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 3,
+          "exAequo": true,
+          "name": "Vila Izabel",
+          "score": 7.63,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 5,
+          "name": "Juvevê",
+          "score": 7.6,
+          "overallScore": 7.6
+        },
+        {
+          "rank": 6,
+          "name": "Bigorrilho",
+          "score": 7.49,
+          "overallScore": 7.49
+        },
+        {
+          "rank": 7,
+          "name": "Rebouças",
+          "score": 7.47,
+          "overallScore": 7.47
+        },
+        {
+          "rank": 8,
+          "name": "Alto da Rua XV",
+          "score": 7.36,
+          "overallScore": 7.36
+        },
+        {
+          "rank": 9,
+          "name": "Alto da Glória",
+          "score": 7.31,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 10,
+          "name": "Centro Cívico",
+          "score": 7.3,
+          "overallScore": 7.3
+        },
+        {
+          "rank": 11,
+          "name": "Mercês",
+          "score": 7.07,
+          "overallScore": 7.07
+        },
+        {
+          "rank": 12,
+          "name": "Cabral",
+          "score": 7.01,
+          "overallScore": 7.01
+        },
+        {
+          "rank": 13,
+          "name": "Portão",
+          "score": 6.95,
+          "overallScore": 6.95
+        },
+        {
+          "rank": 14,
+          "name": "Cristo Rei",
+          "score": 6.92,
+          "overallScore": 6.92
+        },
+        {
+          "rank": 15,
+          "name": "São Francisco",
+          "score": 6.88,
+          "overallScore": 6.88
+        }
+      ],
+      "stats": {
+        "min": 2.7,
+        "max": 7.75,
+        "mean": 5.43,
+        "median": 5.33,
+        "count": 68
+      }
+    },
+    {
+      "city": "curitiba",
+      "cityName": "Curitiba",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Sítio Cercado",
+          "score": 1.82,
+          "overallScore": 6
+        },
+        {
+          "rank": 2,
+          "name": "Parolin",
+          "score": 1.48,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 3,
+          "name": "Capão Raso",
+          "score": 1.47,
+          "overallScore": 6.19
+        },
+        {
+          "rank": 3,
+          "exAequo": true,
+          "name": "Novo Mundo",
+          "score": 1.47,
+          "overallScore": 6.03
+        },
+        {
+          "rank": 5,
+          "name": "Alto Boqueirão",
+          "score": 1.43,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 6,
+          "name": "Cajuru",
+          "score": 1.21,
+          "overallScore": 5.57
+        },
+        {
+          "rank": 7,
+          "name": "Boqueirão",
+          "score": 1.17,
+          "overallScore": 5.6
+        },
+        {
+          "rank": 8,
+          "name": "Hauer",
+          "score": 1.11,
+          "overallScore": 6.86
+        },
+        {
+          "rank": 9,
+          "name": "Santa Quitéria",
+          "score": 1.1,
+          "overallScore": 5.95
+        },
+        {
+          "rank": 10,
+          "name": "Bom Retiro",
+          "score": 1.08,
+          "overallScore": 5.93
+        },
+        {
+          "rank": 11,
+          "name": "Capão da Imbuia",
+          "score": 1.06,
+          "overallScore": 6.16
+        },
+        {
+          "rank": 12,
+          "name": "Tarumã",
+          "score": 1.03,
+          "overallScore": 5.35
+        },
+        {
+          "rank": 13,
+          "name": "Vila Izabel",
+          "score": 1.02,
+          "overallScore": 7.63
+        },
+        {
+          "rank": 14,
+          "name": "Guaíra",
+          "score": 0.94,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 15,
+          "name": "Portão",
+          "score": 0.89,
+          "overallScore": 6.95
+        }
+      ],
+      "stats": {
+        "min": 0.4268,
+        "max": 1.8182,
+        "mean": 0.95,
+        "median": 0.89,
+        "count": 67
+      }
+    },
+    {
+      "city": "porto-alegre",
+      "cityName": "Porto Alegre",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "São Geraldo",
+          "score": 8.05,
+          "overallScore": 6.58
+        },
+        {
+          "rank": 2,
+          "name": "Centro Histórico",
+          "score": 7.93,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 3,
+          "name": "Santana",
+          "score": 7.68,
+          "overallScore": 7.48
+        },
+        {
+          "rank": 4,
+          "name": "São João",
+          "score": 7.67,
+          "overallScore": 6.29
+        },
+        {
+          "rank": 5,
+          "name": "Floresta",
+          "score": 7.64,
+          "overallScore": 6.34
+        },
+        {
+          "rank": 6,
+          "name": "Azenha",
+          "score": 7.45,
+          "overallScore": 7.19
+        },
+        {
+          "rank": 7,
+          "name": "Higienópolis",
+          "score": 7.4,
+          "overallScore": 6.15
+        },
+        {
+          "rank": 8,
+          "name": "Auxiliadora",
+          "score": 7.36,
+          "overallScore": 6.69
+        },
+        {
+          "rank": 9,
+          "name": "Moinhos de Vento",
+          "score": 7.3,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Menino Deus",
+          "score": 7.3,
+          "overallScore": 7
+        },
+        {
+          "rank": 11,
+          "name": "Vila Ipiranga",
+          "score": 7.26,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 12,
+          "name": "Santa Cecília",
+          "score": 7.22,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 13,
+          "name": "Passo da Areia",
+          "score": 7.19,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 14,
+          "name": "Rio Branco",
+          "score": 7.16,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 15,
+          "name": "Cristo Redentor",
+          "score": 7.15,
+          "overallScore": 7.11
+        }
+      ],
+      "stats": {
+        "min": 2.05,
+        "max": 8.05,
+        "mean": 5.61,
+        "median": 6.13,
+        "count": 83
+      }
+    },
+    {
+      "city": "porto-alegre",
+      "cityName": "Porto Alegre",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Praia de Belas",
+          "score": 8.99,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 2,
+          "name": "São Sebastião",
+          "score": 8.93,
+          "overallScore": 6.17
+        },
+        {
+          "rank": 3,
+          "name": "Menino Deus",
+          "score": 8.9,
+          "overallScore": 7
+        },
+        {
+          "rank": 4,
+          "name": "Azenha",
+          "score": 8.88,
+          "overallScore": 7.19
+        },
+        {
+          "rank": 5,
+          "name": "Santa Cecília",
+          "score": 8.86,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 6,
+          "name": "Cristal",
+          "score": 8.84,
+          "overallScore": 5.7
+        },
+        {
+          "rank": 7,
+          "name": "Santana",
+          "score": 8.73,
+          "overallScore": 7.48
+        },
+        {
+          "rank": 8,
+          "name": "Cidade Baixa",
+          "score": 8.66,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 9,
+          "name": "Rio Branco",
+          "score": 8.55,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 10,
+          "name": "Restinga",
+          "score": 8.36,
+          "overallScore": 4.7
+        },
+        {
+          "rank": 11,
+          "name": "Centro Histórico",
+          "score": 8.23,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 12,
+          "name": "Jardim Europa",
+          "score": 8.14,
+          "overallScore": 6.74
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Anchieta",
+          "score": 8.14,
+          "overallScore": 4.1
+        },
+        {
+          "rank": 14,
+          "name": "Jardim do Salso",
+          "score": 8.08,
+          "overallScore": 5.77
+        },
+        {
+          "rank": 15,
+          "name": "Jardim Lindóia",
+          "score": 8.02,
+          "overallScore": 6.76
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 8.99,
+        "mean": 4.8,
+        "median": 4.61,
+        "count": 83
+      }
+    },
+    {
+      "city": "porto-alegre",
+      "cityName": "Porto Alegre",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Cidade Baixa",
+          "score": 8.52,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 2,
+          "name": "Moinhos de Vento",
+          "score": 8.43,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 3,
+          "name": "Rio Branco",
+          "score": 8.36,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 4,
+          "name": "Auxiliadora",
+          "score": 8.34,
+          "overallScore": 6.69
+        },
+        {
+          "rank": 5,
+          "name": "Montserrat",
+          "score": 8.2,
+          "overallScore": 6.96
+        },
+        {
+          "rank": 6,
+          "name": "Centro Histórico",
+          "score": 8.12,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 7,
+          "name": "Santa Cecília",
+          "score": 8.08,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 8,
+          "name": "Santana",
+          "score": 7.98,
+          "overallScore": 7.48
+        },
+        {
+          "rank": 9,
+          "name": "Menino Deus",
+          "score": 7.94,
+          "overallScore": 7
+        },
+        {
+          "rank": 10,
+          "name": "São Geraldo",
+          "score": 7.9,
+          "overallScore": 6.58
+        },
+        {
+          "rank": 11,
+          "name": "Cristo Redentor",
+          "score": 7.83,
+          "overallScore": 7.11
+        },
+        {
+          "rank": 12,
+          "name": "Floresta",
+          "score": 7.77,
+          "overallScore": 6.34
+        },
+        {
+          "rank": 13,
+          "name": "Tristeza",
+          "score": 7.76,
+          "overallScore": 6.54
+        },
+        {
+          "rank": 14,
+          "name": "Boa Vista",
+          "score": 7.64,
+          "overallScore": 6.57
+        },
+        {
+          "rank": 15,
+          "name": "São João",
+          "score": 7.6,
+          "overallScore": 6.29
+        }
+      ],
+      "stats": {
+        "min": 2,
+        "max": 8.52,
+        "mean": 5.27,
+        "median": 4.58,
+        "count": 83
+      }
+    },
+    {
+      "city": "porto-alegre",
+      "cityName": "Porto Alegre",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Morro Santana",
+          "score": 6.23,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 2,
+          "name": "Vila Assunção",
+          "score": 5.1,
+          "overallScore": 3.9
+        },
+        {
+          "rank": 3,
+          "name": "Espírito Santo",
+          "score": 5.04,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 4,
+          "name": "Santa Maria Goretti",
+          "score": 4.8,
+          "overallScore": 6.17
+        },
+        {
+          "rank": 5,
+          "name": "Camaquã",
+          "score": 4.35,
+          "overallScore": 6.4
+        },
+        {
+          "rank": 6,
+          "name": "Jardim do Salso",
+          "score": 4.2,
+          "overallScore": 5.77
+        },
+        {
+          "rank": 6,
+          "exAequo": true,
+          "name": "Jardim Itu",
+          "score": 4.2,
+          "overallScore": 5.58
+        },
+        {
+          "rank": 8,
+          "name": "Jardim Botânico",
+          "score": 4,
+          "overallScore": 5.89
+        },
+        {
+          "rank": 9,
+          "name": "Tristeza",
+          "score": 3.9,
+          "overallScore": 6.54
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Parque Santa Fé",
+          "score": 3.9,
+          "overallScore": 4.9
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Humaitá",
+          "score": 3.9,
+          "overallScore": 4.55
+        },
+        {
+          "rank": 12,
+          "name": "Jardim Europa",
+          "score": 3.8,
+          "overallScore": 6.74
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Três Figueiras",
+          "score": 3.8,
+          "overallScore": 6.17
+        },
+        {
+          "rank": 14,
+          "name": "Vila Ipiranga",
+          "score": 3.7,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 15,
+          "name": "Chácara das Pedras",
+          "score": 3.6,
+          "overallScore": 6.15
+        }
+      ],
+      "stats": {
+        "min": 2.5,
+        "max": 6.23,
+        "mean": 3.47,
+        "median": 3.2,
+        "count": 39
+      }
+    },
+    {
+      "city": "porto-alegre",
+      "cityName": "Porto Alegre",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santa Cecília",
+          "score": 6.47,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 2,
+          "name": "Três Figueiras",
+          "score": 6.4,
+          "overallScore": 6.17
+        },
+        {
+          "rank": 3,
+          "name": "Santa Maria Goretti",
+          "score": 6.12,
+          "overallScore": 6.17
+        },
+        {
+          "rank": 4,
+          "name": "Santana",
+          "score": 5.99,
+          "overallScore": 7.48
+        },
+        {
+          "rank": 5,
+          "name": "Centro Histórico",
+          "score": 5.95,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 6,
+          "name": "Moinhos de Vento",
+          "score": 5.92,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 7,
+          "name": "Menino Deus",
+          "score": 5.89,
+          "overallScore": 7
+        },
+        {
+          "rank": 8,
+          "name": "Rio Branco",
+          "score": 5.86,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 9,
+          "name": "Jardim Europa",
+          "score": 5.85,
+          "overallScore": 6.74
+        },
+        {
+          "rank": 10,
+          "name": "Boa Vista",
+          "score": 5.84,
+          "overallScore": 6.57
+        },
+        {
+          "rank": 11,
+          "name": "Cristo Redentor",
+          "score": 5.82,
+          "overallScore": 7.11
+        },
+        {
+          "rank": 12,
+          "name": "Petrópolis",
+          "score": 5.77,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 13,
+          "name": "Montserrat",
+          "score": 5.76,
+          "overallScore": 6.96
+        },
+        {
+          "rank": 13,
+          "exAequo": true,
+          "name": "Auxiliadora",
+          "score": 5.76,
+          "overallScore": 6.69
+        },
+        {
+          "rank": 15,
+          "name": "Higienópolis",
+          "score": 5.71,
+          "overallScore": 6.15
+        }
+      ],
+      "stats": {
+        "min": 4.55,
+        "max": 6.47,
+        "mean": 5.59,
+        "median": 5.62,
+        "count": 39
+      }
+    },
+    {
+      "city": "porto-alegre",
+      "cityName": "Porto Alegre",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro Histórico",
+          "score": 7.7,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 2,
+          "name": "Santana",
+          "score": 7.48,
+          "overallScore": 7.48
+        },
+        {
+          "rank": 3,
+          "name": "Moinhos de Vento",
+          "score": 7.39,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 3,
+          "exAequo": true,
+          "name": "Rio Branco",
+          "score": 7.39,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 5,
+          "name": "Santa Cecília",
+          "score": 7.31,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 6,
+          "name": "Azenha",
+          "score": 7.19,
+          "overallScore": 7.19
+        },
+        {
+          "rank": 7,
+          "name": "Cristo Redentor",
+          "score": 7.11,
+          "overallScore": 7.11
+        },
+        {
+          "rank": 8,
+          "name": "Cidade Baixa",
+          "score": 7.1,
+          "overallScore": 7.1
+        },
+        {
+          "rank": 9,
+          "name": "Menino Deus",
+          "score": 7,
+          "overallScore": 7
+        },
+        {
+          "rank": 10,
+          "name": "Montserrat",
+          "score": 6.96,
+          "overallScore": 6.96
+        },
+        {
+          "rank": 11,
+          "name": "Jardim Lindóia",
+          "score": 6.76,
+          "overallScore": 6.76
+        },
+        {
+          "rank": 12,
+          "name": "Jardim Europa",
+          "score": 6.74,
+          "overallScore": 6.74
+        },
+        {
+          "rank": 13,
+          "name": "Auxiliadora",
+          "score": 6.69,
+          "overallScore": 6.69
+        },
+        {
+          "rank": 14,
+          "name": "Petrópolis",
+          "score": 6.61,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 14,
+          "exAequo": true,
+          "name": "Passo da Areia",
+          "score": 6.61,
+          "overallScore": 6.61
+        }
+      ],
+      "stats": {
+        "min": 2.6,
+        "max": 7.7,
+        "mean": 5.36,
+        "median": 5.2,
+        "count": 83
+      }
+    },
+    {
+      "city": "porto-alegre",
+      "cityName": "Porto Alegre",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Jardim Leopoldina",
+          "score": 2.32,
+          "overallScore": 5.86
+        },
+        {
+          "rank": 2,
+          "name": "Rubem Berta",
+          "score": 2.21,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 3,
+          "name": "Morro Santana",
+          "score": 2.2,
+          "overallScore": 6.5
+        },
+        {
+          "rank": 4,
+          "name": "São Geraldo",
+          "score": 2.14,
+          "overallScore": 6.58
+        },
+        {
+          "rank": 5,
+          "name": "Cavalhada",
+          "score": 2.06,
+          "overallScore": 5.86
+        },
+        {
+          "rank": 6,
+          "name": "Camaquã",
+          "score": 2.03,
+          "overallScore": 6.4
+        },
+        {
+          "rank": 7,
+          "name": "Floresta",
+          "score": 2,
+          "overallScore": 6.34
+        },
+        {
+          "rank": 8,
+          "name": "Centro Histórico",
+          "score": 1.92,
+          "overallScore": 7.7
+        },
+        {
+          "rank": 9,
+          "name": "Navegantes",
+          "score": 1.91,
+          "overallScore": 5.28
+        },
+        {
+          "rank": 10,
+          "name": "Santana",
+          "score": 1.86,
+          "overallScore": 7.48
+        },
+        {
+          "rank": 11,
+          "name": "Santa Rosa de Lima",
+          "score": 1.85,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 12,
+          "name": "São João",
+          "score": 1.84,
+          "overallScore": 6.29
+        },
+        {
+          "rank": 13,
+          "name": "Cristo Redentor",
+          "score": 1.82,
+          "overallScore": 7.11
+        },
+        {
+          "rank": 14,
+          "name": "Santa Cecília",
+          "score": 1.81,
+          "overallScore": 7.31
+        },
+        {
+          "rank": 15,
+          "name": "Vila Ipiranga",
+          "score": 1.78,
+          "overallScore": 6.5
+        }
+      ],
+      "stats": {
+        "min": 0.6668,
+        "max": 2.3245,
+        "mean": 1.49,
+        "median": 1.48,
+        "count": 72
+      }
+    },
+    {
+      "city": "fortaleza",
+      "cityName": "Fortaleza",
+      "ranking": "melhor-transporte",
+      "rankingTitle": "Melhor Transporte Público",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Rodolfo Teófilo",
+          "score": 9.87,
+          "overallScore": 6.78
+        },
+        {
+          "rank": 2,
+          "name": "Benfica",
+          "score": 9.76,
+          "overallScore": 6.96
+        },
+        {
+          "rank": 3,
+          "name": "Centro",
+          "score": 9.68,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 4,
+          "name": "Damas",
+          "score": 9.62,
+          "overallScore": 6.57
+        },
+        {
+          "rank": 5,
+          "name": "Bela Vista",
+          "score": 9.48,
+          "overallScore": 6.12
+        },
+        {
+          "rank": 6,
+          "name": "Demócrito Rocha",
+          "score": 8.72,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 7,
+          "name": "Parangaba",
+          "score": 8.67,
+          "overallScore": 6.1
+        },
+        {
+          "rank": 8,
+          "name": "Olavo Oliveira",
+          "score": 8.63,
+          "overallScore": 5.6
+        },
+        {
+          "rank": 9,
+          "name": "Manoel Sátiro",
+          "score": 7.83,
+          "overallScore": 5.68
+        },
+        {
+          "rank": 10,
+          "name": "Padre Andrade",
+          "score": 7.53,
+          "overallScore": 5.63
+        },
+        {
+          "rank": 11,
+          "name": "Conjunto Ceará I",
+          "score": 6.85,
+          "overallScore": 6.09
+        },
+        {
+          "rank": 12,
+          "name": "Farias Brito",
+          "score": 6.73,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 13,
+          "name": "Genibaú",
+          "score": 5.77,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 14,
+          "name": "Aracapé",
+          "score": 5.43,
+          "overallScore": 5
+        },
+        {
+          "rank": 15,
+          "name": "Itaoca",
+          "score": 5.38,
+          "overallScore": 6.12
+        }
+      ],
+      "stats": {
+        "min": 2.4,
+        "max": 9.87,
+        "mean": 3.73,
+        "median": 2.98,
+        "count": 109
+      }
+    },
+    {
+      "city": "fortaleza",
+      "cityName": "Fortaleza",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 7.83,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 2,
+          "name": "Amadeu Furtado",
+          "score": 7.77,
+          "overallScore": 6.55
+        },
+        {
+          "rank": 3,
+          "name": "Parquelândia",
+          "score": 7.73,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 4,
+          "name": "Farias Brito",
+          "score": 7.72,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 5,
+          "name": "Damas",
+          "score": 7.68,
+          "overallScore": 6.57
+        },
+        {
+          "rank": 6,
+          "name": "Montese",
+          "score": 7.66,
+          "overallScore": 6.07
+        },
+        {
+          "rank": 7,
+          "name": "Jardim América",
+          "score": 7.64,
+          "overallScore": 5.93
+        },
+        {
+          "rank": 8,
+          "name": "Rodolfo Teófilo",
+          "score": 7.53,
+          "overallScore": 6.78
+        },
+        {
+          "rank": 9,
+          "name": "Jardim Guanabara",
+          "score": 7.5,
+          "overallScore": 6.01
+        },
+        {
+          "rank": 10,
+          "name": "Dionísio Torres",
+          "score": 7.47,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Parreão",
+          "score": 7.47,
+          "overallScore": 6.05
+        },
+        {
+          "rank": 12,
+          "name": "José Bonifácio",
+          "score": 7.45,
+          "overallScore": 6.44
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Henrique Jorge",
+          "score": 7.45,
+          "overallScore": 5.86
+        },
+        {
+          "rank": 14,
+          "name": "Bela Vista",
+          "score": 7.4,
+          "overallScore": 6.12
+        },
+        {
+          "rank": 14,
+          "exAequo": true,
+          "name": "Conjunto Ceará I",
+          "score": 7.4,
+          "overallScore": 6.09
+        }
+      ],
+      "stats": {
+        "min": 1.7,
+        "max": 7.83,
+        "mean": 5.86,
+        "median": 6.25,
+        "count": 112
+      }
+    },
+    {
+      "city": "fortaleza",
+      "cityName": "Fortaleza",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Varjota",
+          "score": 8.67,
+          "overallScore": 6.97
+        },
+        {
+          "rank": 2,
+          "name": "Meireles",
+          "score": 8.15,
+          "overallScore": 6.83
+        },
+        {
+          "rank": 3,
+          "name": "Aldeota",
+          "score": 8.12,
+          "overallScore": 6.95
+        },
+        {
+          "rank": 4,
+          "name": "Parquelândia",
+          "score": 8.03,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 5,
+          "name": "Dionísio Torres",
+          "score": 8,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 6,
+          "name": "Jardim Guanabara",
+          "score": 7.84,
+          "overallScore": 6.01
+        },
+        {
+          "rank": 7,
+          "name": "Amadeu Furtado",
+          "score": 7.78,
+          "overallScore": 6.55
+        },
+        {
+          "rank": 8,
+          "name": "Monte Castelo",
+          "score": 7.76,
+          "overallScore": 5.92
+        },
+        {
+          "rank": 9,
+          "name": "José Bonifácio",
+          "score": 7.65,
+          "overallScore": 6.44
+        },
+        {
+          "rank": 10,
+          "name": "Papicu",
+          "score": 7.63,
+          "overallScore": 6.6
+        },
+        {
+          "rank": 11,
+          "name": "Farias Brito",
+          "score": 7.6,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 12,
+          "name": "Jóquei Clube",
+          "score": 7.59,
+          "overallScore": 6.3
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Parque Manibura",
+          "score": 7.59,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 14,
+          "name": "Conjunto Esperança",
+          "score": 7.48,
+          "overallScore": 6.03
+        },
+        {
+          "rank": 14,
+          "exAequo": true,
+          "name": "Cidade dos Funcionários",
+          "score": 7.48,
+          "overallScore": 5.94
+        }
+      ],
+      "stats": {
+        "min": 2.6,
+        "max": 8.67,
+        "mean": 5.55,
+        "median": 5.42,
+        "count": 112
+      }
+    },
+    {
+      "city": "fortaleza",
+      "cityName": "Fortaleza",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Benfica",
+          "score": 8.1,
+          "overallScore": 6.96
+        },
+        {
+          "rank": 2,
+          "name": "Centro",
+          "score": 8.09,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 3,
+          "name": "Rodolfo Teófilo",
+          "score": 7.59,
+          "overallScore": 6.78
+        },
+        {
+          "rank": 4,
+          "name": "Farias Brito",
+          "score": 7.07,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 5,
+          "name": "Damas",
+          "score": 6.95,
+          "overallScore": 6.57
+        },
+        {
+          "rank": 6,
+          "name": "Conjunto Ceará I",
+          "score": 6.6,
+          "overallScore": 6.09
+        },
+        {
+          "rank": 7,
+          "name": "Manoel Sátiro",
+          "score": 6.56,
+          "overallScore": 5.68
+        },
+        {
+          "rank": 8,
+          "name": "Parangaba",
+          "score": 6.46,
+          "overallScore": 6.1
+        },
+        {
+          "rank": 9,
+          "name": "Bela Vista",
+          "score": 6.39,
+          "overallScore": 6.12
+        },
+        {
+          "rank": 10,
+          "name": "Demócrito Rocha",
+          "score": 6.34,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 11,
+          "name": "Amadeu Furtado",
+          "score": 6.21,
+          "overallScore": 6.55
+        },
+        {
+          "rank": 12,
+          "name": "Varjota",
+          "score": 6.18,
+          "overallScore": 6.97
+        },
+        {
+          "rank": 13,
+          "name": "Dionísio Torres",
+          "score": 6.16,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 14,
+          "name": "José Bonifácio",
+          "score": 6.01,
+          "overallScore": 6.44
+        },
+        {
+          "rank": 15,
+          "name": "Conjunto Esperança",
+          "score": 5.92,
+          "overallScore": 6.03
+        }
+      ],
+      "stats": {
+        "min": 2.12,
+        "max": 8.1,
+        "mean": 4.42,
+        "median": 4.26,
+        "count": 107
+      }
+    },
+    {
+      "city": "fortaleza",
+      "cityName": "Fortaleza",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Centro",
+          "score": 6.98,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Dionísio Torres",
+          "score": 6.98,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 3,
+          "name": "Varjota",
+          "score": 6.97,
+          "overallScore": 6.97
+        },
+        {
+          "rank": 4,
+          "name": "Benfica",
+          "score": 6.96,
+          "overallScore": 6.96
+        },
+        {
+          "rank": 5,
+          "name": "Aldeota",
+          "score": 6.95,
+          "overallScore": 6.95
+        },
+        {
+          "rank": 6,
+          "name": "Meireles",
+          "score": 6.83,
+          "overallScore": 6.83
+        },
+        {
+          "rank": 7,
+          "name": "Rodolfo Teófilo",
+          "score": 6.78,
+          "overallScore": 6.78
+        },
+        {
+          "rank": 8,
+          "name": "Parquelândia",
+          "score": 6.73,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 9,
+          "name": "Farias Brito",
+          "score": 6.61,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 10,
+          "name": "Papicu",
+          "score": 6.6,
+          "overallScore": 6.6
+        },
+        {
+          "rank": 11,
+          "name": "Damas",
+          "score": 6.57,
+          "overallScore": 6.57
+        },
+        {
+          "rank": 12,
+          "name": "Amadeu Furtado",
+          "score": 6.55,
+          "overallScore": 6.55
+        },
+        {
+          "rank": 13,
+          "name": "José Bonifácio",
+          "score": 6.44,
+          "overallScore": 6.44
+        },
+        {
+          "rank": 14,
+          "name": "Fátima",
+          "score": 6.37,
+          "overallScore": 6.37
+        },
+        {
+          "rank": 15,
+          "name": "Presidente Kennedy",
+          "score": 6.33,
+          "overallScore": 6.33
+        }
+      ],
+      "stats": {
+        "min": 2.3,
+        "max": 6.98,
+        "mean": 5.38,
+        "median": 5.6,
+        "count": 112
+      }
+    },
+    {
+      "city": "fortaleza",
+      "cityName": "Fortaleza",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Jardim Iracema",
+          "score": 2.37,
+          "overallScore": 5.93
+        },
+        {
+          "rank": 2,
+          "name": "Quintino Cunha",
+          "score": 2.29,
+          "overallScore": 5.73
+        },
+        {
+          "rank": 3,
+          "name": "Conjunto Ceará I",
+          "score": 2.26,
+          "overallScore": 6.09
+        },
+        {
+          "rank": 4,
+          "name": "Conjunto Esperança",
+          "score": 2.23,
+          "overallScore": 6.03
+        },
+        {
+          "rank": 5,
+          "name": "Conjunto Ceará II",
+          "score": 2.21,
+          "overallScore": 5.96
+        },
+        {
+          "rank": 6,
+          "name": "João XXIII",
+          "score": 2.04,
+          "overallScore": 5.7
+        },
+        {
+          "rank": 7,
+          "name": "Padre Andrade",
+          "score": 2.01,
+          "overallScore": 5.63
+        },
+        {
+          "rank": 8,
+          "name": "Vila Velha",
+          "score": 2,
+          "overallScore": 5.6
+        },
+        {
+          "rank": 9,
+          "name": "Bom Jardim",
+          "score": 1.97,
+          "overallScore": 5.7
+        },
+        {
+          "rank": 10,
+          "name": "Presidente Kennedy",
+          "score": 1.92,
+          "overallScore": 6.33
+        },
+        {
+          "rank": 11,
+          "name": "Bela Vista",
+          "score": 1.8,
+          "overallScore": 6.12
+        },
+        {
+          "rank": 12,
+          "name": "Antônio Bezerra",
+          "score": 1.78,
+          "overallScore": 5.68
+        },
+        {
+          "rank": 13,
+          "name": "Alto da Balança",
+          "score": 1.75,
+          "overallScore": 5.6
+        },
+        {
+          "rank": 14,
+          "name": "Farias Brito",
+          "score": 1.74,
+          "overallScore": 6.61
+        },
+        {
+          "rank": 15,
+          "name": "Carlito Pamplona",
+          "score": 1.7,
+          "overallScore": 5.62
+        }
+      ],
+      "stats": {
+        "min": 0.375,
+        "max": 2.372,
+        "mean": 1.48,
+        "median": 1.48,
+        "count": 82
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "melhor-transporte",
+      "rankingTitle": "Melhor Transporte Público",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Ceilândia",
+          "score": 4.99,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 2,
+          "name": "Águas Claras",
+          "score": 4.6,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 3,
+          "name": "Asa Sul",
+          "score": 4.08,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 4,
+          "name": "Cruzeiro",
+          "score": 4,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 5,
+          "name": "Sudoeste e Octogonal",
+          "score": 3.87,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 6,
+          "name": "Sol Nascente/Pôr do Sol",
+          "score": 3.72,
+          "overallScore": 3.5
+        },
+        {
+          "rank": 7,
+          "name": "Núcleo Bandeirante",
+          "score": 3.67,
+          "overallScore": 5.09
+        },
+        {
+          "rank": 8,
+          "name": "Guará",
+          "score": 3.62,
+          "overallScore": 4.83
+        },
+        {
+          "rank": 9,
+          "name": "Asa Norte",
+          "score": 3.54,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 10,
+          "name": "Taguatinga",
+          "score": 3.44,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 11,
+          "name": "Riacho Fundo",
+          "score": 3.4,
+          "overallScore": 5.1
+        },
+        {
+          "rank": 12,
+          "name": "Samambaia",
+          "score": 3.17,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 13,
+          "name": "Lago Sul",
+          "score": 3.14,
+          "overallScore": 3.1
+        },
+        {
+          "rank": 14,
+          "name": "Plano Piloto (outros setores)",
+          "score": 3.13,
+          "overallScore": 4
+        },
+        {
+          "rank": 15,
+          "name": "Varjão",
+          "score": 3.12,
+          "overallScore": 4.4
+        }
+      ],
+      "stats": {
+        "min": 3,
+        "max": 4.99,
+        "mean": 3.29,
+        "median": 3.02,
+        "count": 37
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Ceilândia",
+          "score": 6,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 2,
+          "name": "Taguatinga",
+          "score": 5.98,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 3,
+          "name": "Samambaia",
+          "score": 5.49,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 3,
+          "exAequo": true,
+          "name": "Riacho Fundo II",
+          "score": 5.49,
+          "overallScore": 3.6
+        },
+        {
+          "rank": 5,
+          "name": "Guará",
+          "score": 5.4,
+          "overallScore": 4.83
+        },
+        {
+          "rank": 6,
+          "name": "Cruzeiro",
+          "score": 5.28,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 7,
+          "name": "Asa Sul",
+          "score": 5.25,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 8,
+          "name": "Itapoã",
+          "score": 5.05,
+          "overallScore": 5
+        },
+        {
+          "rank": 9,
+          "name": "Sudoeste e Octogonal",
+          "score": 5.04,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 10,
+          "name": "Recanto das Emas",
+          "score": 4.93,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 11,
+          "name": "Águas Claras",
+          "score": 4.86,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 12,
+          "name": "Asa Norte",
+          "score": 4.69,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 13,
+          "name": "Eixo Monumental",
+          "score": 4.6,
+          "overallScore": 4.96
+        },
+        {
+          "rank": 14,
+          "name": "Sol Nascente/Pôr do Sol",
+          "score": 3.84,
+          "overallScore": 3.5
+        },
+        {
+          "rank": 15,
+          "name": "Santa Maria",
+          "score": 3.6,
+          "overallScore": 2.9
+        }
+      ],
+      "stats": {
+        "min": 1,
+        "max": 6,
+        "mean": 3.29,
+        "median": 2.6,
+        "count": 39
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Asa Norte",
+          "score": 9.78,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 2,
+          "name": "Eixo Monumental",
+          "score": 9.53,
+          "overallScore": 4.96
+        },
+        {
+          "rank": 3,
+          "name": "Sudoeste e Octogonal",
+          "score": 9.34,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 4,
+          "name": "Recanto das Emas",
+          "score": 8.93,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 5,
+          "name": "Riacho Fundo II",
+          "score": 8.89,
+          "overallScore": 3.6
+        },
+        {
+          "rank": 6,
+          "name": "Asa Sul",
+          "score": 8.74,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 7,
+          "name": "Guará",
+          "score": 8.32,
+          "overallScore": 4.83
+        },
+        {
+          "rank": 8,
+          "name": "Santa Maria",
+          "score": 8.12,
+          "overallScore": 2.9
+        },
+        {
+          "rank": 9,
+          "name": "Ceilândia",
+          "score": 7.63,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 10,
+          "name": "Cruzeiro",
+          "score": 7.46,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 10,
+          "exAequo": true,
+          "name": "Gama",
+          "score": 7.46,
+          "overallScore": 2.6
+        },
+        {
+          "rank": 12,
+          "name": "Varjão",
+          "score": 7.36,
+          "overallScore": 4.4
+        },
+        {
+          "rank": 13,
+          "name": "Itapoã",
+          "score": 7.12,
+          "overallScore": 5
+        },
+        {
+          "rank": 14,
+          "name": "Lago Sul",
+          "score": 6.9,
+          "overallScore": 3.1
+        },
+        {
+          "rank": 15,
+          "name": "Núcleo Bandeirante",
+          "score": 6.73,
+          "overallScore": 5.09
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 9.78,
+        "mean": 4.85,
+        "median": 5.21,
+        "count": 39
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Sudoeste e Octogonal",
+          "score": 7.13,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 2,
+          "name": "Taguatinga",
+          "score": 6.98,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 3,
+          "name": "Núcleo Bandeirante",
+          "score": 6.77,
+          "overallScore": 5.09
+        },
+        {
+          "rank": 4,
+          "name": "Águas Claras",
+          "score": 6.74,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 5,
+          "name": "Cruzeiro",
+          "score": 6.54,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 6,
+          "name": "Asa Norte",
+          "score": 6.44,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 7,
+          "name": "Asa Sul",
+          "score": 6.36,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 8,
+          "name": "Ceilândia",
+          "score": 6.35,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 9,
+          "name": "Eixo Monumental",
+          "score": 6.25,
+          "overallScore": 4.96
+        },
+        {
+          "rank": 10,
+          "name": "Candangolândia",
+          "score": 6.01,
+          "overallScore": 5.3
+        },
+        {
+          "rank": 11,
+          "name": "Riacho Fundo",
+          "score": 5.93,
+          "overallScore": 5.1
+        },
+        {
+          "rank": 12,
+          "name": "Samambaia",
+          "score": 5.9,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Guará",
+          "score": 5.9,
+          "overallScore": 4.83
+        },
+        {
+          "rank": 14,
+          "name": "Itapoã",
+          "score": 5.88,
+          "overallScore": 5
+        },
+        {
+          "rank": 15,
+          "name": "Recanto das Emas",
+          "score": 5.57,
+          "overallScore": 5.5
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 7.13,
+        "mean": 3.89,
+        "median": 3.86,
+        "count": 39
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Samambaia",
+          "score": 6.93,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 2,
+          "name": "Riacho Fundo",
+          "score": 5.93,
+          "overallScore": 5.1
+        },
+        {
+          "rank": 3,
+          "name": "Taguatinga",
+          "score": 4.72,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 4,
+          "name": "Arniqueira",
+          "score": 4.5,
+          "overallScore": 3.5
+        },
+        {
+          "rank": 5,
+          "name": "Asa Sul",
+          "score": 4.2,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 6,
+          "name": "Asa Norte",
+          "score": 4.1,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 7,
+          "name": "Sudoeste e Octogonal",
+          "score": 3.9,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 8,
+          "name": "Cruzeiro",
+          "score": 2.8,
+          "overallScore": 5.51
+        }
+      ],
+      "stats": {
+        "min": 2.8,
+        "max": 6.93,
+        "mean": 4.63,
+        "median": 4.35,
+        "count": 8
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Taguatinga",
+          "score": 6.21,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 2,
+          "name": "Asa Sul",
+          "score": 5.78,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 3,
+          "name": "Asa Norte",
+          "score": 5.74,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 4,
+          "name": "Sudoeste e Octogonal",
+          "score": 5.73,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 5,
+          "name": "Samambaia",
+          "score": 5.62,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 6,
+          "name": "Riacho Fundo",
+          "score": 5.25,
+          "overallScore": 5.1
+        },
+        {
+          "rank": 7,
+          "name": "Cruzeiro",
+          "score": 5.13,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 8,
+          "name": "Arniqueira",
+          "score": 4.82,
+          "overallScore": 3.5
+        }
+      ],
+      "stats": {
+        "min": 4.82,
+        "max": 6.21,
+        "mean": 5.54,
+        "median": 5.68,
+        "count": 8
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Candangolândia",
+          "score": 5.12,
+          "overallScore": 5.3
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Águas Claras",
+          "score": 5.12,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 3,
+          "name": "Cruzeiro",
+          "score": 4.92,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 4,
+          "name": "Asa Sul",
+          "score": 4.83,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 5,
+          "name": "Asa Norte",
+          "score": 4.66,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 6,
+          "name": "Ceilândia",
+          "score": 4.65,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 7,
+          "name": "Taguatinga",
+          "score": 4.54,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 8,
+          "name": "Varjão",
+          "score": 4.52,
+          "overallScore": 4.4
+        },
+        {
+          "rank": 9,
+          "name": "Guará",
+          "score": 4.31,
+          "overallScore": 4.83
+        },
+        {
+          "rank": 10,
+          "name": "Sudoeste e Octogonal",
+          "score": 4.29,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 11,
+          "name": "Samambaia",
+          "score": 4.22,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 12,
+          "name": "Recanto das Emas",
+          "score": 3.94,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 13,
+          "name": "Núcleo Bandeirante",
+          "score": 3.92,
+          "overallScore": 5.09
+        },
+        {
+          "rank": 14,
+          "name": "Riacho Fundo",
+          "score": 3.76,
+          "overallScore": 5.1
+        },
+        {
+          "rank": 15,
+          "name": "Sol Nascente/Pôr do Sol",
+          "score": 3.09,
+          "overallScore": 3.5
+        }
+      ],
+      "stats": {
+        "min": 2.13,
+        "max": 5.12,
+        "mean": 3.92,
+        "median": 4.26,
+        "count": 20
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Taguatinga",
+          "score": 5.9,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Ceilândia",
+          "score": 5.9,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 3,
+          "name": "Sudoeste e Octogonal",
+          "score": 5.64,
+          "overallScore": 5.64
+        },
+        {
+          "rank": 4,
+          "name": "Cruzeiro",
+          "score": 5.51,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 5,
+          "name": "Recanto das Emas",
+          "score": 5.5,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 5,
+          "exAequo": true,
+          "name": "Samambaia",
+          "score": 5.5,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 7,
+          "name": "Candangolândia",
+          "score": 5.3,
+          "overallScore": 5.3
+        },
+        {
+          "rank": 8,
+          "name": "Asa Sul",
+          "score": 5.14,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 9,
+          "name": "Riacho Fundo",
+          "score": 5.1,
+          "overallScore": 5.1
+        },
+        {
+          "rank": 10,
+          "name": "Núcleo Bandeirante",
+          "score": 5.09,
+          "overallScore": 5.09
+        },
+        {
+          "rank": 11,
+          "name": "Itapoã",
+          "score": 5,
+          "overallScore": 5
+        },
+        {
+          "rank": 12,
+          "name": "Eixo Monumental",
+          "score": 4.96,
+          "overallScore": 4.96
+        },
+        {
+          "rank": 13,
+          "name": "Águas Claras",
+          "score": 4.85,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 13,
+          "exAequo": true,
+          "name": "Asa Norte",
+          "score": 4.85,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 15,
+          "name": "Guará",
+          "score": 4.83,
+          "overallScore": 4.83
+        }
+      ],
+      "stats": {
+        "min": 2.5,
+        "max": 5.9,
+        "mean": 3.9,
+        "median": 3.5,
+        "count": 39
+      }
+    },
+    {
+      "city": "brasilia",
+      "cityName": "Brasília",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Samambaia",
+          "score": 1.57,
+          "overallScore": 5.5
+        },
+        {
+          "rank": 2,
+          "name": "Taguatinga",
+          "score": 1.13,
+          "overallScore": 5.9
+        },
+        {
+          "rank": 3,
+          "name": "Cruzeiro",
+          "score": 0.85,
+          "overallScore": 5.51
+        },
+        {
+          "rank": 4,
+          "name": "Vicente Pires",
+          "score": 0.83,
+          "overallScore": 4
+        },
+        {
+          "rank": 5,
+          "name": "Guará",
+          "score": 0.71,
+          "overallScore": 4.83
+        },
+        {
+          "rank": 6,
+          "name": "Águas Claras",
+          "score": 0.67,
+          "overallScore": 4.85
+        },
+        {
+          "rank": 7,
+          "name": "Asa Sul",
+          "score": 0.4,
+          "overallScore": 5.14
+        },
+        {
+          "rank": 8,
+          "name": "Sudoeste e Octogonal",
+          "score": 0.39,
+          "overallScore": 5.64
+        }
+      ],
+      "stats": {
+        "min": 0.2583,
+        "max": 1.5714,
+        "mean": 0.71,
+        "median": 0.69,
+        "count": 10
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "melhor-transporte",
+      "rankingTitle": "Melhor Transporte Público",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santa Maria Maior",
+          "score": 9.9,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 2,
+          "name": "Misericórdia",
+          "score": 9.37,
+          "overallScore": 8.43
+        },
+        {
+          "rank": 3,
+          "name": "Santo António",
+          "score": 8.91,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 4,
+          "name": "Arroios",
+          "score": 8.83,
+          "overallScore": 8.48
+        },
+        {
+          "rank": 5,
+          "name": "Avenidas Novas",
+          "score": 8.47,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 6,
+          "name": "Parque das Nações",
+          "score": 8.1,
+          "overallScore": 7.08
+        },
+        {
+          "rank": 7,
+          "name": "Areeiro",
+          "score": 7.94,
+          "overallScore": 8.23
+        },
+        {
+          "rank": 8,
+          "name": "Carnide",
+          "score": 7.8,
+          "overallScore": 6.13
+        },
+        {
+          "rank": 9,
+          "name": "São Domingos de Benfica",
+          "score": 7.6,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 10,
+          "name": "Campolide",
+          "score": 7.51,
+          "overallScore": 6.68
+        },
+        {
+          "rank": 11,
+          "name": "Olivais",
+          "score": 7.47,
+          "overallScore": 4.94
+        },
+        {
+          "rank": 12,
+          "name": "Lumiar",
+          "score": 7.45,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 13,
+          "name": "Marvila",
+          "score": 7.26,
+          "overallScore": 4.89
+        },
+        {
+          "rank": 14,
+          "name": "Alvalade",
+          "score": 7.13,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 15,
+          "name": "São Vicente",
+          "score": 3.99,
+          "overallScore": 7.27
+        }
+      ],
+      "stats": {
+        "min": 0.43,
+        "max": 9.9,
+        "mean": 5.62,
+        "median": 7.36,
+        "count": 24
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santa Maria Maior",
+          "score": 8.21,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 2,
+          "name": "Parque das Nações",
+          "score": 7.5,
+          "overallScore": 7.08
+        },
+        {
+          "rank": 3,
+          "name": "Avenidas Novas",
+          "score": 7.42,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 4,
+          "name": "Misericórdia",
+          "score": 7.38,
+          "overallScore": 8.43
+        },
+        {
+          "rank": 5,
+          "name": "Areeiro",
+          "score": 7.37,
+          "overallScore": 8.23
+        },
+        {
+          "rank": 6,
+          "name": "Arroios",
+          "score": 7.36,
+          "overallScore": 8.48
+        },
+        {
+          "rank": 7,
+          "name": "Santo António",
+          "score": 7.1,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 8,
+          "name": "Campo de Ourique",
+          "score": 6.9,
+          "overallScore": 7.72
+        },
+        {
+          "rank": 9,
+          "name": "Alvalade",
+          "score": 6.74,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 10,
+          "name": "Estrela",
+          "score": 6.27,
+          "overallScore": 7.29
+        },
+        {
+          "rank": 11,
+          "name": "Penha de França",
+          "score": 6.08,
+          "overallScore": 7.13
+        },
+        {
+          "rank": 12,
+          "name": "Lumiar",
+          "score": 5.95,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 13,
+          "name": "Belém",
+          "score": 5.93,
+          "overallScore": 6.01
+        },
+        {
+          "rank": 14,
+          "name": "São Vicente",
+          "score": 5.82,
+          "overallScore": 7.27
+        },
+        {
+          "rank": 15,
+          "name": "Campolide",
+          "score": 5.53,
+          "overallScore": 6.68
+        }
+      ],
+      "stats": {
+        "min": 2.6,
+        "max": 8.21,
+        "mean": 5.79,
+        "median": 5.94,
+        "count": 24
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Misericórdia",
+          "score": 9.67,
+          "overallScore": 8.43
+        },
+        {
+          "rank": 2,
+          "name": "Santa Maria Maior",
+          "score": 9.6,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 3,
+          "name": "Santo António",
+          "score": 8.88,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 4,
+          "name": "Arroios",
+          "score": 8.85,
+          "overallScore": 8.48
+        },
+        {
+          "rank": 5,
+          "name": "Avenidas Novas",
+          "score": 8.64,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 6,
+          "name": "São Vicente",
+          "score": 8.41,
+          "overallScore": 7.27
+        },
+        {
+          "rank": 7,
+          "name": "Campo de Ourique",
+          "score": 8.36,
+          "overallScore": 7.72
+        },
+        {
+          "rank": 8,
+          "name": "Areeiro",
+          "score": 8.33,
+          "overallScore": 8.23
+        },
+        {
+          "rank": 9,
+          "name": "Estrela",
+          "score": 8.08,
+          "overallScore": 7.29
+        },
+        {
+          "rank": 10,
+          "name": "Penha de França",
+          "score": 7.87,
+          "overallScore": 7.13
+        },
+        {
+          "rank": 11,
+          "name": "Parque das Nações",
+          "score": 7.69,
+          "overallScore": 7.08
+        },
+        {
+          "rank": 12,
+          "name": "Alvalade",
+          "score": 7.44,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 13,
+          "name": "Alcântara",
+          "score": 7.43,
+          "overallScore": 6.6
+        },
+        {
+          "rank": 14,
+          "name": "São Domingos de Benfica",
+          "score": 7.21,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 15,
+          "name": "Campolide",
+          "score": 7.07,
+          "overallScore": 6.68
+        }
+      ],
+      "stats": {
+        "min": 3.7,
+        "max": 9.67,
+        "mean": 7.02,
+        "median": 7.44,
+        "count": 24
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Benfica",
+          "score": 8.24,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 1,
+          "exAequo": true,
+          "name": "Ajuda",
+          "score": 8.24,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 3,
+          "name": "Alcântara",
+          "score": 8.11,
+          "overallScore": 6.6
+        },
+        {
+          "rank": 4,
+          "name": "Belém",
+          "score": 6.75,
+          "overallScore": 6.01
+        },
+        {
+          "rank": 5,
+          "name": "Parque das Nações",
+          "score": 6.11,
+          "overallScore": 7.08
+        },
+        {
+          "rank": 6,
+          "name": "Santa Clara",
+          "score": 6.1,
+          "overallScore": 4.7
+        },
+        {
+          "rank": 7,
+          "name": "Lumiar",
+          "score": 5.62,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 8,
+          "name": "Carnide",
+          "score": 5.57,
+          "overallScore": 6.13
+        },
+        {
+          "rank": 9,
+          "name": "São Domingos de Benfica",
+          "score": 5.55,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 10,
+          "name": "Beato",
+          "score": 5.3,
+          "overallScore": 4.45
+        },
+        {
+          "rank": 11,
+          "name": "Marvila",
+          "score": 4.95,
+          "overallScore": 4.89
+        },
+        {
+          "rank": 12,
+          "name": "São Vicente",
+          "score": 4.8,
+          "overallScore": 7.27
+        },
+        {
+          "rank": 12,
+          "exAequo": true,
+          "name": "Penha de França",
+          "score": 4.8,
+          "overallScore": 7.13
+        },
+        {
+          "rank": 14,
+          "name": "Alvalade",
+          "score": 4.65,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 15,
+          "name": "Olivais",
+          "score": 4.4,
+          "overallScore": 4.94
+        }
+      ],
+      "stats": {
+        "min": 3.4,
+        "max": 8.24,
+        "mean": 5.12,
+        "median": 4.8,
+        "count": 24
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Arroios",
+          "score": 7.37,
+          "overallScore": 8.48
+        },
+        {
+          "rank": 2,
+          "name": "Areeiro",
+          "score": 7.17,
+          "overallScore": 8.23
+        },
+        {
+          "rank": 2,
+          "exAequo": true,
+          "name": "Parque das Nações",
+          "score": 7.17,
+          "overallScore": 7.08
+        },
+        {
+          "rank": 4,
+          "name": "Lumiar",
+          "score": 7.1,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 5,
+          "name": "Avenidas Novas",
+          "score": 7.09,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 6,
+          "name": "São Domingos de Benfica",
+          "score": 7.06,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 7,
+          "name": "Ajuda",
+          "score": 6.99,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 8,
+          "name": "Santo António",
+          "score": 6.97,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 9,
+          "name": "Misericórdia",
+          "score": 6.95,
+          "overallScore": 8.43
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Alcântara",
+          "score": 6.95,
+          "overallScore": 6.6
+        },
+        {
+          "rank": 11,
+          "name": "Benfica",
+          "score": 6.93,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 12,
+          "name": "Alvalade",
+          "score": 6.91,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 13,
+          "name": "Belém",
+          "score": 6.81,
+          "overallScore": 6.01
+        },
+        {
+          "rank": 14,
+          "name": "Penha de França",
+          "score": 6.79,
+          "overallScore": 7.13
+        },
+        {
+          "rank": 15,
+          "name": "Campo de Ourique",
+          "score": 6.71,
+          "overallScore": 7.72
+        }
+      ],
+      "stats": {
+        "min": 4.14,
+        "max": 7.37,
+        "mean": 6.58,
+        "median": 6.86,
+        "count": 24
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santa Maria Maior",
+          "score": 9.44,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 2,
+          "name": "Misericórdia",
+          "score": 9.35,
+          "overallScore": 8.43
+        },
+        {
+          "rank": 3,
+          "name": "Santo António",
+          "score": 8.88,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 4,
+          "name": "Arroios",
+          "score": 8.49,
+          "overallScore": 8.48
+        },
+        {
+          "rank": 5,
+          "name": "Avenidas Novas",
+          "score": 8.41,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 6,
+          "name": "Areeiro",
+          "score": 7.95,
+          "overallScore": 8.23
+        },
+        {
+          "rank": 7,
+          "name": "Parque das Nações",
+          "score": 7.37,
+          "overallScore": 7.08
+        },
+        {
+          "rank": 8,
+          "name": "Alvalade",
+          "score": 6.95,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 9,
+          "name": "Campolide",
+          "score": 6.86,
+          "overallScore": 6.68
+        },
+        {
+          "rank": 10,
+          "name": "São Domingos de Benfica",
+          "score": 6.82,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 11,
+          "name": "Campo de Ourique",
+          "score": 6.57,
+          "overallScore": 7.72
+        },
+        {
+          "rank": 11,
+          "exAequo": true,
+          "name": "São Vicente",
+          "score": 6.57,
+          "overallScore": 7.27
+        },
+        {
+          "rank": 13,
+          "name": "Carnide",
+          "score": 6.49,
+          "overallScore": 6.13
+        },
+        {
+          "rank": 14,
+          "name": "Estrela",
+          "score": 6.38,
+          "overallScore": 7.29
+        },
+        {
+          "rank": 15,
+          "name": "Lumiar",
+          "score": 6.36,
+          "overallScore": 6.98
+        }
+      ],
+      "stats": {
+        "min": 2.84,
+        "max": 9.44,
+        "mean": 6.4,
+        "median": 6.53,
+        "count": 24
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Arroios",
+          "score": 8.48,
+          "overallScore": 8.48
+        },
+        {
+          "rank": 2,
+          "name": "Misericórdia",
+          "score": 8.43,
+          "overallScore": 8.43
+        },
+        {
+          "rank": 3,
+          "name": "Santo António",
+          "score": 8.41,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 3,
+          "exAequo": true,
+          "name": "Avenidas Novas",
+          "score": 8.41,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 5,
+          "name": "Areeiro",
+          "score": 8.23,
+          "overallScore": 8.23
+        },
+        {
+          "rank": 6,
+          "name": "Santa Maria Maior",
+          "score": 8.2,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 7,
+          "name": "Campo de Ourique",
+          "score": 7.72,
+          "overallScore": 7.72
+        },
+        {
+          "rank": 8,
+          "name": "Alvalade",
+          "score": 7.34,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 9,
+          "name": "Estrela",
+          "score": 7.29,
+          "overallScore": 7.29
+        },
+        {
+          "rank": 10,
+          "name": "São Vicente",
+          "score": 7.27,
+          "overallScore": 7.27
+        },
+        {
+          "rank": 11,
+          "name": "Penha de França",
+          "score": 7.13,
+          "overallScore": 7.13
+        },
+        {
+          "rank": 12,
+          "name": "Parque das Nações",
+          "score": 7.08,
+          "overallScore": 7.08
+        },
+        {
+          "rank": 13,
+          "name": "Lumiar",
+          "score": 6.98,
+          "overallScore": 6.98
+        },
+        {
+          "rank": 14,
+          "name": "São Domingos de Benfica",
+          "score": 6.87,
+          "overallScore": 6.87
+        },
+        {
+          "rank": 15,
+          "name": "Campolide",
+          "score": 6.68,
+          "overallScore": 6.68
+        }
+      ],
+      "stats": {
+        "min": 4.45,
+        "max": 8.48,
+        "mean": 6.86,
+        "median": 7.03,
+        "count": 24
+      }
+    },
+    {
+      "city": "lisboa",
+      "cityName": "Lisboa",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Arroios",
+          "score": 1.87,
+          "overallScore": 8.48
+        },
+        {
+          "rank": 2,
+          "name": "Areeiro",
+          "score": 1.81,
+          "overallScore": 8.23
+        },
+        {
+          "rank": 3,
+          "name": "Penha de França",
+          "score": 1.67,
+          "overallScore": 7.13
+        },
+        {
+          "rank": 4,
+          "name": "Santa Maria Maior",
+          "score": 1.64,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 5,
+          "name": "Avenidas Novas",
+          "score": 1.54,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 6,
+          "name": "São Vicente",
+          "score": 1.52,
+          "overallScore": 7.27
+        },
+        {
+          "rank": 7,
+          "name": "Misericórdia",
+          "score": 1.51,
+          "overallScore": 8.43
+        },
+        {
+          "rank": 8,
+          "name": "Alvalade",
+          "score": 1.49,
+          "overallScore": 7.34
+        },
+        {
+          "rank": 9,
+          "name": "Campo de Ourique",
+          "score": 1.31,
+          "overallScore": 7.72
+        },
+        {
+          "rank": 10,
+          "name": "Estrela",
+          "score": 1.3,
+          "overallScore": 7.29
+        },
+        {
+          "rank": 11,
+          "name": "Santo António",
+          "score": 1.23,
+          "overallScore": 8.41
+        },
+        {
+          "rank": 12,
+          "name": "Parque das Nações",
+          "score": 1.12,
+          "overallScore": 7.08
+        }
+      ],
+      "stats": {
+        "min": 0.9724,
+        "max": 1.8749,
+        "mean": 1.39,
+        "median": 1.39,
+        "count": 24
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "melhor-transporte",
+      "rankingTitle": "Melhor Transporte Público",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santo Ildefonso",
+          "score": 10,
+          "overallScore": 8.8
+        },
+        {
+          "rank": 2,
+          "name": "Cedofeita",
+          "score": 9.75,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 3,
+          "name": "Bonfim",
+          "score": 9.08,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 4,
+          "name": "Paranhos",
+          "score": 7.96,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 5,
+          "name": "Campanhã",
+          "score": 7.49,
+          "overallScore": 4.89
+        },
+        {
+          "rank": 6,
+          "name": "Ramalde",
+          "score": 6.73,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 7,
+          "name": "Massarelos",
+          "score": 2.79,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 8,
+          "name": "Foz do Douro",
+          "score": 2.7,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 8,
+          "exAequo": true,
+          "name": "Lordelo do Ouro",
+          "score": 2.7,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 10,
+          "name": "Nevogilde",
+          "score": 2.4,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 11,
+          "name": "Aldoar",
+          "score": 1.8,
+          "overallScore": 5.2
+        }
+      ],
+      "stats": {
+        "min": 1.8,
+        "max": 10,
+        "mean": 5.76,
+        "median": 6.73,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santo Ildefonso",
+          "score": 7.66,
+          "overallScore": 8.8
+        },
+        {
+          "rank": 2,
+          "name": "Cedofeita",
+          "score": 7.44,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 3,
+          "name": "Foz do Douro",
+          "score": 7.4,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 4,
+          "name": "Bonfim",
+          "score": 7.22,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 5,
+          "name": "Nevogilde",
+          "score": 6.66,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 6,
+          "name": "Massarelos",
+          "score": 6.28,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 7,
+          "name": "Paranhos",
+          "score": 6.26,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 8,
+          "name": "Ramalde",
+          "score": 6.15,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 9,
+          "name": "Lordelo do Ouro",
+          "score": 5.91,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 10,
+          "name": "Aldoar",
+          "score": 5.55,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 11,
+          "name": "Campanhã",
+          "score": 4.5,
+          "overallScore": 4.89
+        }
+      ],
+      "stats": {
+        "min": 4.5,
+        "max": 7.66,
+        "mean": 6.46,
+        "median": 6.28,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Nevogilde",
+          "score": 9.66,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 2,
+          "name": "Foz do Douro",
+          "score": 9.27,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 3,
+          "name": "Lordelo do Ouro",
+          "score": 8.72,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 4,
+          "name": "Ramalde",
+          "score": 8.71,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 5,
+          "name": "Aldoar",
+          "score": 8.67,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 6,
+          "name": "Paranhos",
+          "score": 8.41,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 7,
+          "name": "Cedofeita",
+          "score": 8.35,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 8,
+          "name": "Massarelos",
+          "score": 7.6,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 9,
+          "name": "Bonfim",
+          "score": 7.23,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 10,
+          "name": "Campanhã",
+          "score": 5.78,
+          "overallScore": 4.89
+        },
+        {
+          "rank": 11,
+          "name": "Santo Ildefonso",
+          "score": 5.2,
+          "overallScore": 8.8
+        }
+      ],
+      "stats": {
+        "min": 5.2,
+        "max": 9.66,
+        "mean": 7.96,
+        "median": 8.41,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santo Ildefonso",
+          "score": 9.51,
+          "overallScore": 8.8
+        },
+        {
+          "rank": 2,
+          "name": "Cedofeita",
+          "score": 8.15,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 3,
+          "name": "Bonfim",
+          "score": 7.85,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 4,
+          "name": "Massarelos",
+          "score": 7.7,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 5,
+          "name": "Foz do Douro",
+          "score": 6.76,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 6,
+          "name": "Paranhos",
+          "score": 5.54,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 6,
+          "exAequo": true,
+          "name": "Nevogilde",
+          "score": 5.54,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 8,
+          "name": "Lordelo do Ouro",
+          "score": 4.3,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 9,
+          "name": "Ramalde",
+          "score": 4.1,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 10,
+          "name": "Aldoar",
+          "score": 3.8,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 11,
+          "name": "Campanhã",
+          "score": 3.6,
+          "overallScore": 4.89
+        }
+      ],
+      "stats": {
+        "min": 3.6,
+        "max": 9.51,
+        "mean": 6.08,
+        "median": 5.54,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Nevogilde",
+          "score": 7.28,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 2,
+          "name": "Foz do Douro",
+          "score": 6.52,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 3,
+          "name": "Aldoar",
+          "score": 6.34,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 4,
+          "name": "Campanhã",
+          "score": 6.04,
+          "overallScore": 4.89
+        },
+        {
+          "rank": 5,
+          "name": "Lordelo do Ouro",
+          "score": 5.91,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 6,
+          "name": "Massarelos",
+          "score": 4.9,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 7,
+          "name": "Cedofeita",
+          "score": 4.7,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 8,
+          "name": "Paranhos",
+          "score": 4.6,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 8,
+          "exAequo": true,
+          "name": "Ramalde",
+          "score": 4.6,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 10,
+          "name": "Bonfim",
+          "score": 4.45,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 11,
+          "name": "Santo Ildefonso",
+          "score": 3.7,
+          "overallScore": 8.8
+        }
+      ],
+      "stats": {
+        "min": 3.7,
+        "max": 7.28,
+        "mean": 5.37,
+        "median": 4.9,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "melhor-para-familias",
+      "rankingTitle": "Melhor para Famílias",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Foz do Douro",
+          "score": 7.48,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 2,
+          "name": "Cedofeita",
+          "score": 7.25,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 3,
+          "name": "Massarelos",
+          "score": 7.05,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 4,
+          "name": "Santo Ildefonso",
+          "score": 7.03,
+          "overallScore": 8.8
+        },
+        {
+          "rank": 5,
+          "name": "Bonfim",
+          "score": 6.9,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 6,
+          "name": "Nevogilde",
+          "score": 6.89,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 7,
+          "name": "Paranhos",
+          "score": 6.66,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 8,
+          "name": "Aldoar",
+          "score": 6.54,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 9,
+          "name": "Lordelo do Ouro",
+          "score": 6.47,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 10,
+          "name": "Ramalde",
+          "score": 6.34,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 11,
+          "name": "Campanhã",
+          "score": 5.87,
+          "overallScore": 4.89
+        }
+      ],
+      "stats": {
+        "min": 5.87,
+        "max": 7.48,
+        "mean": 6.77,
+        "median": 6.89,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "melhor-para-jovens",
+      "rankingTitle": "Melhor para Jovens Profissionais",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santo Ildefonso",
+          "score": 9.3,
+          "overallScore": 8.8
+        },
+        {
+          "rank": 2,
+          "name": "Cedofeita",
+          "score": 8.33,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 3,
+          "name": "Bonfim",
+          "score": 7.71,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 4,
+          "name": "Paranhos",
+          "score": 6.23,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 5,
+          "name": "Massarelos",
+          "score": 5.92,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 6,
+          "name": "Ramalde",
+          "score": 5.32,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 7,
+          "name": "Campanhã",
+          "score": 5.26,
+          "overallScore": 4.89
+        },
+        {
+          "rank": 8,
+          "name": "Foz do Douro",
+          "score": 5.21,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 9,
+          "name": "Nevogilde",
+          "score": 4.65,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 10,
+          "name": "Lordelo do Ouro",
+          "score": 4.3,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 11,
+          "name": "Aldoar",
+          "score": 2.84,
+          "overallScore": 5.2
+        }
+      ],
+      "stats": {
+        "min": 2.84,
+        "max": 9.3,
+        "mean": 5.92,
+        "median": 5.32,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Santo Ildefonso",
+          "score": 8.8,
+          "overallScore": 8.8
+        },
+        {
+          "rank": 2,
+          "name": "Cedofeita",
+          "score": 8.38,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 3,
+          "name": "Bonfim",
+          "score": 7.74,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 4,
+          "name": "Massarelos",
+          "score": 7.37,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 5,
+          "name": "Foz do Douro",
+          "score": 6.73,
+          "overallScore": 6.73
+        },
+        {
+          "rank": 6,
+          "name": "Paranhos",
+          "score": 6.7,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 7,
+          "name": "Ramalde",
+          "score": 6.26,
+          "overallScore": 6.26
+        },
+        {
+          "rank": 8,
+          "name": "Nevogilde",
+          "score": 6.2,
+          "overallScore": 6.2
+        },
+        {
+          "rank": 9,
+          "name": "Lordelo do Ouro",
+          "score": 5.97,
+          "overallScore": 5.97
+        },
+        {
+          "rank": 10,
+          "name": "Aldoar",
+          "score": 5.2,
+          "overallScore": 5.2
+        },
+        {
+          "rank": 11,
+          "name": "Campanhã",
+          "score": 4.89,
+          "overallScore": 4.89
+        }
+      ],
+      "stats": {
+        "min": 4.89,
+        "max": 8.8,
+        "mean": 6.75,
+        "median": 6.7,
+        "count": 11
+      }
+    },
+    {
+      "city": "porto",
+      "cityName": "Porto",
+      "ranking": "mais-acessiveis",
+      "rankingTitle": "Melhor Custo-Benefício",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Bonfim",
+          "score": 2.42,
+          "overallScore": 7.74
+        },
+        {
+          "rank": 2,
+          "name": "Santo Ildefonso",
+          "score": 2.32,
+          "overallScore": 8.8
+        },
+        {
+          "rank": 3,
+          "name": "Cedofeita",
+          "score": 2.2,
+          "overallScore": 8.38
+        },
+        {
+          "rank": 4,
+          "name": "Massarelos",
+          "score": 2.17,
+          "overallScore": 7.37
+        },
+        {
+          "rank": 5,
+          "name": "Paranhos",
+          "score": 2.04,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 6,
+          "name": "Foz do Douro",
+          "score": 1.71,
+          "overallScore": 6.73
+        }
+      ],
+      "stats": {
+        "min": 1.3225,
+        "max": 2.4218,
+        "mean": 1.93,
+        "median": 2.01,
+        "count": 11
+      }
+    },
+    {
+      "city": "salvador",
+      "cityName": "Salvador",
+      "ranking": "mais-caminhaveis",
+      "rankingTitle": "Mais Caminháveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Bonfim",
+          "score": 8.58,
+          "overallScore": 7.24
+        },
+        {
+          "rank": 2,
+          "name": "Barra",
+          "score": 8.47,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 3,
+          "name": "Centro",
+          "score": 8.2,
+          "overallScore": 7.94
+        },
+        {
+          "rank": 4,
+          "name": "Monte Serrat",
+          "score": 7.97,
+          "overallScore": 5.94
+        },
+        {
+          "rank": 5,
+          "name": "Pituba",
+          "score": 7.88,
+          "overallScore": 7.51
+        },
+        {
+          "rank": 6,
+          "name": "Rio Vermelho",
+          "score": 7.86,
+          "overallScore": 7.42
+        },
+        {
+          "rank": 7,
+          "name": "Calçada",
+          "score": 7.83,
+          "overallScore": 6.95
+        },
+        {
+          "rank": 8,
+          "name": "Nordeste de Amaralina",
+          "score": 7.75,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 9,
+          "name": "Uruguai",
+          "score": 7.62,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 10,
+          "name": "Nazaré",
+          "score": 7.4,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 11,
+          "name": "Boca do Rio",
+          "score": 7.11,
+          "overallScore": 6.67
+        },
+        {
+          "rank": 12,
+          "name": "Liberdade",
+          "score": 7.1,
+          "overallScore": 6.68
+        },
+        {
+          "rank": 13,
+          "name": "Cosme de Farias",
+          "score": 7.02,
+          "overallScore": 7.16
+        },
+        {
+          "rank": 14,
+          "name": "Ribeira",
+          "score": 6.99,
+          "overallScore": 7.15
+        },
+        {
+          "rank": 15,
+          "name": "Garcia",
+          "score": 6.96,
+          "overallScore": 6.91
+        }
+      ],
+      "stats": {
+        "min": 1.4,
+        "max": 8.58,
+        "mean": 5.28,
+        "median": 5.37,
+        "count": 59
+      }
+    },
+    {
+      "city": "salvador",
+      "cityName": "Salvador",
+      "ranking": "mais-ciclaveis",
+      "rankingTitle": "Mais Cicláveis",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Pituaçu",
+          "score": 9.46,
+          "overallScore": 7
+        },
+        {
+          "rank": 2,
+          "name": "Piatã",
+          "score": 9.42,
+          "overallScore": 4.8
+        },
+        {
+          "rank": 3,
+          "name": "Ribeira",
+          "score": 9.39,
+          "overallScore": 7.15
+        },
+        {
+          "rank": 4,
+          "name": "Rio Vermelho",
+          "score": 9.19,
+          "overallScore": 7.42
+        },
+        {
+          "rank": 5,
+          "name": "Ondina",
+          "score": 9.14,
+          "overallScore": 6.76
+        },
+        {
+          "rank": 6,
+          "name": "Imbuí",
+          "score": 9.13,
+          "overallScore": 6.78
+        },
+        {
+          "rank": 7,
+          "name": "Patamares",
+          "score": 9.07,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 8,
+          "name": "Pituba",
+          "score": 8.96,
+          "overallScore": 7.51
+        },
+        {
+          "rank": 9,
+          "name": "Centro Administrativo da Bahia",
+          "score": 8.81,
+          "overallScore": 5.3
+        },
+        {
+          "rank": 10,
+          "name": "Stella Maris",
+          "score": 8.59,
+          "overallScore": 5.27
+        },
+        {
+          "rank": 11,
+          "name": "Itaigara",
+          "score": 8.58,
+          "overallScore": 7.29
+        },
+        {
+          "rank": 12,
+          "name": "Bairro da Paz",
+          "score": 8.45,
+          "overallScore": 5.4
+        },
+        {
+          "rank": 13,
+          "name": "Praia Grande",
+          "score": 8.38,
+          "overallScore": 5.35
+        },
+        {
+          "rank": 14,
+          "name": "Boca do Rio",
+          "score": 8.3,
+          "overallScore": 6.67
+        },
+        {
+          "rank": 15,
+          "name": "Aeroporto",
+          "score": 8.23,
+          "overallScore": 3.3
+        }
+      ],
+      "stats": {
+        "min": 0,
+        "max": 9.46,
+        "mean": 6.02,
+        "median": 7.32,
+        "count": 59
+      }
+    },
+    {
+      "city": "salvador",
+      "cityName": "Salvador",
+      "ranking": "melhor-restauracao",
+      "rankingTitle": "Melhor Restauração",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Rio Vermelho",
+          "score": 8.61,
+          "overallScore": 7.42
+        },
+        {
+          "rank": 2,
+          "name": "Barra",
+          "score": 8.57,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 3,
+          "name": "Caminho das Árvores",
+          "score": 8.33,
+          "overallScore": 7.38
+        },
+        {
+          "rank": 4,
+          "name": "Centro",
+          "score": 8.26,
+          "overallScore": 7.94
+        },
+        {
+          "rank": 5,
+          "name": "Pituba",
+          "score": 8.22,
+          "overallScore": 7.51
+        },
+        {
+          "rank": 6,
+          "name": "Nazaré",
+          "score": 8.21,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 7,
+          "name": "Ribeira",
+          "score": 8.12,
+          "overallScore": 7.15
+        },
+        {
+          "rank": 8,
+          "name": "Bonfim",
+          "score": 8.1,
+          "overallScore": 7.24
+        },
+        {
+          "rank": 9,
+          "name": "Nordeste de Amaralina",
+          "score": 8.05,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 9,
+          "exAequo": true,
+          "name": "Chapada do Rio Vermelho",
+          "score": 8.05,
+          "overallScore": 6.65
+        },
+        {
+          "rank": 11,
+          "name": "Uruguai",
+          "score": 8.04,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 12,
+          "name": "Graça",
+          "score": 8,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 13,
+          "name": "Engenho Velho de Brotas",
+          "score": 7.98,
+          "overallScore": 6.62
+        },
+        {
+          "rank": 14,
+          "name": "Boca do Rio",
+          "score": 7.91,
+          "overallScore": 6.67
+        },
+        {
+          "rank": 15,
+          "name": "Engenho Velho da Federação",
+          "score": 7.88,
+          "overallScore": 6.84
+        }
+      ],
+      "stats": {
+        "min": 2.5,
+        "max": 8.61,
+        "mean": 6.63,
+        "median": 7.36,
+        "count": 59
+      }
+    },
+    {
+      "city": "salvador",
+      "cityName": "Salvador",
+      "ranking": "mais-tranquilos",
+      "rankingTitle": "Mais Tranquilos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Cassange",
+          "score": 7.7,
+          "overallScore": 3
+        },
+        {
+          "rank": 2,
+          "name": "Pituaçu",
+          "score": 7.26,
+          "overallScore": 7
+        },
+        {
+          "rank": 3,
+          "name": "Cajazeiras XI",
+          "score": 7.25,
+          "overallScore": 3.9
+        },
+        {
+          "rank": 4,
+          "name": "Monte Serrat",
+          "score": 6.88,
+          "overallScore": 5.94
+        },
+        {
+          "rank": 5,
+          "name": "Boca da Mata",
+          "score": 6.68,
+          "overallScore": 4.35
+        },
+        {
+          "rank": 6,
+          "name": "Aeroporto",
+          "score": 6.62,
+          "overallScore": 3.3
+        },
+        {
+          "rank": 7,
+          "name": "Patamares",
+          "score": 6.54,
+          "overallScore": 6.7
+        },
+        {
+          "rank": 8,
+          "name": "Fazenda Grande II",
+          "score": 6.34,
+          "overallScore": 4.6
+        },
+        {
+          "rank": 9,
+          "name": "Trobogy",
+          "score": 6.04,
+          "overallScore": 5.6
+        },
+        {
+          "rank": 10,
+          "name": "Centro Administrativo da Bahia",
+          "score": 5.84,
+          "overallScore": 5.3
+        },
+        {
+          "rank": 11,
+          "name": "Barra",
+          "score": 5.78,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 12,
+          "name": "Comércio",
+          "score": 5.61,
+          "overallScore": 7.46
+        },
+        {
+          "rank": 13,
+          "name": "Areia Branca",
+          "score": 5.52,
+          "overallScore": 3.4
+        },
+        {
+          "rank": 14,
+          "name": "Mussurunga",
+          "score": 5.5,
+          "overallScore": 5.24
+        },
+        {
+          "rank": 15,
+          "name": "Ondina",
+          "score": 5.41,
+          "overallScore": 6.76
+        }
+      ],
+      "stats": {
+        "min": 3,
+        "max": 7.7,
+        "mean": 4.63,
+        "median": 4.4,
+        "count": 57
+      }
+    },
+    {
+      "city": "salvador",
+      "cityName": "Salvador",
+      "ranking": "mais-completos",
+      "rankingTitle": "Mais Completos",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Nazaré",
+          "score": 8.2,
+          "overallScore": 8.2
+        },
+        {
+          "rank": 2,
+          "name": "Centro",
+          "score": 7.94,
+          "overallScore": 7.94
+        },
+        {
+          "rank": 3,
+          "name": "Barra",
+          "score": 7.62,
+          "overallScore": 7.62
+        },
+        {
+          "rank": 4,
+          "name": "Pituba",
+          "score": 7.51,
+          "overallScore": 7.51
+        },
+        {
+          "rank": 5,
+          "name": "Comércio",
+          "score": 7.46,
+          "overallScore": 7.46
+        },
+        {
+          "rank": 6,
+          "name": "Rio Vermelho",
+          "score": 7.42,
+          "overallScore": 7.42
+        },
+        {
+          "rank": 7,
+          "name": "Graça",
+          "score": 7.39,
+          "overallScore": 7.39
+        },
+        {
+          "rank": 8,
+          "name": "Caminho das Árvores",
+          "score": 7.38,
+          "overallScore": 7.38
+        },
+        {
+          "rank": 9,
+          "name": "Itaigara",
+          "score": 7.29,
+          "overallScore": 7.29
+        },
+        {
+          "rank": 10,
+          "name": "Bonfim",
+          "score": 7.24,
+          "overallScore": 7.24
+        },
+        {
+          "rank": 11,
+          "name": "Cosme de Farias",
+          "score": 7.16,
+          "overallScore": 7.16
+        },
+        {
+          "rank": 12,
+          "name": "Ribeira",
+          "score": 7.15,
+          "overallScore": 7.15
+        },
+        {
+          "rank": 13,
+          "name": "Matatu",
+          "score": 7.13,
+          "overallScore": 7.13
+        },
+        {
+          "rank": 14,
+          "name": "Uruguai",
+          "score": 7.02,
+          "overallScore": 7.02
+        },
+        {
+          "rank": 14,
+          "exAequo": true,
+          "name": "Nordeste de Amaralina",
+          "score": 7.02,
+          "overallScore": 7.02
+        }
+      ],
+      "stats": {
+        "min": 2.5,
+        "max": 8.2,
+        "mean": 6.03,
+        "median": 6.52,
+        "count": 59
+      }
+    }
+  ]
+}

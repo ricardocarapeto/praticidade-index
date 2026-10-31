@@ -1,0 +1,28 @@
+{
+  "name": "praticidade-index-2026-1",
+  "title": "Índice Praticidade 2026.1",
+  "version": "2026.1",
+  "created": "2026-07-15T21:04:08.405Z",
+  "homepage": "https://praticidade.com/indice/2026-07",
+  "description": "Walkable everyday convenience rankings for 806 areas in 10 cities in Brazil and Portugal (81 city-ranking slices). Frozen 15 July 2026.",
+  "licenses": [{"name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/", "title": "Creative Commons Attribution 4.0"}],
+  "contributors": [{"title": "Ricardo Carapeto", "role": "author", "organization": "Praticidade.com"}],
+  "sources": [{"title": "Praticidade.com", "path": "https://praticidade.com/indice/2026-07"}],
+  "keywords": ["walkability", "urban", "neighbourhoods", "Brazil", "Portugal"],
+  "resources": [
+    {"name": "rankings", "path": "data/praticidade-indice-2026-07.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8",
+     "hash": "sha256:8be9e28cec846af765748f3d7cb86c5b777c480357af75c8d9bb7fcb8702874e",
+     "schema": {"fields": [
+       {"name": "cidade", "type": "string", "description": "City slug"},
+       {"name": "cidade_nome", "type": "string", "description": "City name"},
+       {"name": "ranking", "type": "string", "description": "Ranking slug"},
+       {"name": "ranking_titulo", "type": "string", "description": "Ranking title (pt)"},
+       {"name": "posicao", "type": "integer", "description": "Position (ties share position)"},
+       {"name": "ex_aequo", "type": "integer", "description": "1 if tied with previous entry"},
+       {"name": "nome", "type": "string", "description": "Area name"},
+       {"name": "score", "type": "number", "description": "Theme score 0-10"},
+       {"name": "score_geral", "type": "number", "description": "Overall score 0-10"}]}},
+    {"name": "edition-json", "path": "data/praticidade-indice-2026-07.json", "format": "json", "mediatype": "application/json",
+     "hash": "sha256:9307db678ad67a6682cc570411a2f17fb2586f27c02815c856c3c34ae52ae7bf"}
+  ]
+}

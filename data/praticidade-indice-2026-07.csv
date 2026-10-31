@@ -1,0 +1,1151 @@
+cidade,cidade_nome,ranking,ranking_titulo,posicao,ex_aequo,nome,score,score_geral
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,1,0,Pinheiros,8.67,7.78
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,1,1,Vila Guilherme,8.67,6.25
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,3,0,Moema,8.63,7.77
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,4,0,Água Rasa,8.56,6.63
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,5,0,Butantã,8.51,5.15
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,6,0,Carrão,8.2,6.73
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,7,0,Mandaqui,8.12,6.2
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,8,0,Cursino,8.1,6.26
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,9,0,Alto de Pinheiros,8.09,6.02
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,10,0,Vila Prudente,8,6.39
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,10,1,Tucuruvi,8,5.79
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,12,0,Mooca,7.96,7.05
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,13,0,Morumbi,7.92,4
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,14,0,Socorro,7.86,5.82
+sao-paulo,São Paulo,mais-seguros,Mais Seguros,15,0,São Domingos,7.8,4.66
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,1,0,Sé,10,7.39
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,2,0,República,9.95,7.45
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,3,0,Vila Mariana,9.58,8.03
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,4,0,Bela Vista,8.77,8.02
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,5,0,Santa Cecília,8.31,7.76
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,6,0,Brás,8.25,6.42
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,7,0,Saúde,7.69,7.43
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,8,0,Bom Retiro,7.15,6.5
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,9,0,Pinheiros,7.08,7.78
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,10,0,Tatuapé,6.52,7.67
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,11,0,Consolação,6.41,7.63
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,12,0,Jardim Paulista,6.01,7.68
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,13,0,Liberdade,5.98,7.14
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,14,0,Moema,5.92,7.77
+sao-paulo,São Paulo,melhor-transporte,Melhor Transporte Público,15,0,Santo Amaro,5.86,7.14
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,1,0,Santa Cecília,7.31,7.76
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,2,0,Moema,7.19,7.77
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,3,0,Itaim Bibi,7.12,7.65
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,4,0,Pinheiros,7.04,7.78
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,5,0,República,7.03,7.45
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,6,0,Jardim Paulista,7.01,7.68
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,7,0,Saúde,6.95,7.43
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,8,0,Vila Mariana,6.92,8.03
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,9,0,Vila Medeiros,6.81,6.33
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,10,0,Sé,6.78,7.39
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,11,0,Campo Belo,6.73,6.92
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,12,0,Tatuapé,6.66,7.67
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,13,0,Carrão,6.65,6.73
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,14,0,Consolação,6.64,7.63
+sao-paulo,São Paulo,mais-caminhaveis,Mais Caminháveis,15,0,Jardim Helena,6.63,6.43
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,1,0,Barra Funda,9.56,6.25
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,2,0,Alto de Pinheiros,9.36,6.02
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,3,0,Santa Cecília,9.32,7.76
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,4,0,Bom Retiro,9.3,6.5
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,5,0,Sé,9.22,7.39
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,6,0,Pari,9.21,6.44
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,7,0,Itaim Bibi,9.17,7.65
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,8,0,Pinheiros,9.13,7.78
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,9,0,Santana,8.98,6.68
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,10,0,República,8.96,7.45
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,11,0,Moema,8.9,7.77
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,12,0,Socorro,8.82,5.82
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,13,0,Vila Guilherme,8.67,6.25
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,13,1,Butantã,8.67,5.15
+sao-paulo,São Paulo,mais-ciclaveis,Mais Cicláveis,15,0,Vila Leopoldina,8.65,6.32
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,1,0,Itaim Bibi,8.35,7.65
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,1,1,República,8.35,7.45
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,3,0,Pinheiros,8.32,7.78
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,4,0,Bela Vista,8.31,8.02
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,5,0,Jardim Paulista,8.3,7.68
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,6,0,Consolação,8.2,7.63
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,7,0,Moema,8.17,7.77
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,8,0,Vila Mariana,8.07,8.03
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,9,0,Tatuapé,8.03,7.67
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,9,1,Liberdade,8.03,7.14
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,11,0,Sé,7.98,7.39
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,12,0,Santa Cecília,7.97,7.76
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,13,0,Perdizes,7.9,7.02
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,14,0,Mooca,7.8,7.05
+sao-paulo,São Paulo,melhor-restauracao,Melhor Restauração,15,0,Saúde,7.71,7.43
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,1,0,Parque do Carmo,8.08,5.3
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,2,0,José Bonifácio,7.41,3.85
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,3,0,Mandaqui,6.31,6.2
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,4,0,Cursino,6.19,6.26
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,5,0,Alto de Pinheiros,5.53,6.02
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,6,0,Butantã,5.26,5.15
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,7,0,Socorro,5.14,5.82
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,8,0,Morumbi,5.1,4
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,9,0,Pirituba,4.92,4.56
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,10,0,Vila Leopoldina,4.9,6.32
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,11,0,Vila Sônia,4.8,5.35
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,12,0,Cangaíba,4.79,5.11
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,13,0,Campo Grande,4.6,5.59
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,14,0,São Domingos,4.5,4.66
+sao-paulo,São Paulo,mais-tranquilos,Mais Tranquilos,15,0,Moema,4.48,7.77
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,1,0,Moema,7.4,7.77
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,2,0,Bela Vista,7.3,8.02
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,3,0,Vila Mariana,7.23,8.03
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,4,0,Pinheiros,7.2,7.78
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,5,0,Jardim Paulista,6.99,7.68
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,6,0,Butantã,6.93,5.15
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,7,0,Itaim Bibi,6.87,7.65
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,8,0,Tatuapé,6.86,7.67
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,9,0,Cursino,6.83,6.26
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,10,0,Mooca,6.8,7.05
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,10,1,Água Rasa,6.8,6.63
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,12,0,Campo Belo,6.71,6.92
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,12,1,Mandaqui,6.71,6.2
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,14,0,Alto de Pinheiros,6.67,6.02
+sao-paulo,São Paulo,melhor-para-familias,Melhor para Famílias,15,0,Carrão,6.62,6.73
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,República,8.8,7.45
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,2,0,Sé,8.53,7.39
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,Bela Vista,8.11,8.02
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Vila Mariana,8.03,8.03
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Santa Cecília,7.71,7.76
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Pinheiros,7.32,7.78
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Consolação,7.16,7.63
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Bom Retiro,6.96,6.5
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Moema,6.87,7.77
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,Tatuapé,6.83,7.67
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Jardim Paulista,6.77,7.68
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,12,0,Liberdade,6.65,7.14
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,13,0,Itaim Bibi,6.52,7.65
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,14,0,Brás,6.44,6.42
+sao-paulo,São Paulo,melhor-para-jovens,Melhor para Jovens Profissionais,15,0,Saúde,6.4,7.43
+sao-paulo,São Paulo,mais-completos,Mais Completos,1,0,Vila Mariana,8.03,8.03
+sao-paulo,São Paulo,mais-completos,Mais Completos,2,0,Bela Vista,8.02,8.02
+sao-paulo,São Paulo,mais-completos,Mais Completos,3,0,Pinheiros,7.78,7.78
+sao-paulo,São Paulo,mais-completos,Mais Completos,4,0,Moema,7.77,7.77
+sao-paulo,São Paulo,mais-completos,Mais Completos,5,0,Santa Cecília,7.76,7.76
+sao-paulo,São Paulo,mais-completos,Mais Completos,6,0,Jardim Paulista,7.68,7.68
+sao-paulo,São Paulo,mais-completos,Mais Completos,7,0,Tatuapé,7.67,7.67
+sao-paulo,São Paulo,mais-completos,Mais Completos,8,0,Itaim Bibi,7.65,7.65
+sao-paulo,São Paulo,mais-completos,Mais Completos,9,0,Consolação,7.63,7.63
+sao-paulo,São Paulo,mais-completos,Mais Completos,10,0,República,7.45,7.45
+sao-paulo,São Paulo,mais-completos,Mais Completos,11,0,Saúde,7.43,7.43
+sao-paulo,São Paulo,mais-completos,Mais Completos,12,0,Sé,7.39,7.39
+sao-paulo,São Paulo,mais-completos,Mais Completos,13,0,Liberdade,7.14,7.14
+sao-paulo,São Paulo,mais-completos,Mais Completos,13,1,Santo Amaro,7.14,7.14
+sao-paulo,São Paulo,mais-completos,Mais Completos,15,0,Mooca,7.05,7.05
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,1,0,São Miguel,1.84,6.43
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,2,0,Vila Curuçá,1.71,6.13
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,3,0,Bom Retiro,1.6,6.5
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,4,0,Itaquera,1.58,5.92
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,4,1,Penha,1.58,6.38
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,6,0,Ponte Rasa,1.56,6.12
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,7,0,Artur Alvim,1.54,6.53
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,8,0,Jardim Helena,1.53,6.43
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,9,0,Aricanduva,1.52,5.97
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,10,0,Tatuapé,1.51,7.67
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,10,1,Vila Medeiros,1.51,6.33
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,10,1,Vila Formosa,1.51,6.72
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,13,0,Mandaqui,1.48,6.2
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,14,0,Sé,1.47,7.39
+sao-paulo,São Paulo,mais-acessiveis,Melhor Custo-Benefício,15,0,Vila Guilherme,1.46,6.25
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,1,0,Ipanema,7.06,7.97
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,1,1,Leblon,7.06,7.8
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,3,0,Humaitá,7.01,6.43
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,4,0,Botafogo,7,7.54
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,4,1,Gávea,7,6.3
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,4,1,Jardim Botânico,7,4.53
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,7,0,Flamengo,6.97,7.6
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,7,1,Tijuca,6.97,7.17
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,7,1,Lagoa,6.97,6.3
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,7,1,São Conrado,6.97,5.4
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,11,0,Copacabana,6.93,7.8
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,12,0,Catete,6.9,8.25
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,12,1,Glória,6.9,7.4
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,12,1,Leme,6.9,6.2
+rio-de-janeiro,Rio de Janeiro,mais-seguros,Mais Seguros,15,0,Laranjeiras,6.86,6.6
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,1,0,Centro,10,7.62
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,1,1,Santo Cristo,10,5.08
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,3,0,Gamboa,9.9,6.08
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,4,0,Catete,9.88,8.25
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,5,0,Glória,9.85,7.4
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,6,0,Cidade Nova,9.82,6.03
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,7,0,Madureira,9.78,6.67
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,8,0,Santa Teresa,9.49,4.6
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,9,0,Ramos,9.47,5.82
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,10,0,Maria da Graça,9.34,5.3
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,11,0,Copacabana,9.31,7.8
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,12,0,Urca,9.23,4.7
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,13,0,Bonsucesso,9.18,6.32
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,14,0,Manguinhos,9.12,3.8
+rio-de-janeiro,Rio de Janeiro,melhor-transporte,Melhor Transporte Público,15,0,Coelho Neto,9.08,4.95
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,1,0,Ipanema,7.79,7.97
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,2,0,Leblon,7.38,7.8
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,3,0,Andaraí,6.81,6.62
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,4,0,Centro,6.8,7.62
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,4,1,Vila Isabel,6.8,7.1
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,6,0,Flamengo,6.79,7.6
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,6,1,Ramos,6.79,5.82
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,8,0,Vila da Penha,6.77,6.9
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,8,1,Gamboa,6.77,6.08
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,10,0,Copacabana,6.76,7.8
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,11,0,Grajaú,6.73,6.5
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,12,0,Olaria,6.67,6.35
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,13,0,Bonsucesso,6.6,6.32
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,14,0,Méier,6.52,7.39
+rio-de-janeiro,Rio de Janeiro,mais-caminhaveis,Mais Caminháveis,15,0,Encantado,6.5,6
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,1,0,Glória,9.23,7.4
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,2,0,Barra Olímpica,9.18,4.79
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,3,0,Santo Cristo,8.91,5.08
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,4,0,Leblon,8.84,7.8
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,4,1,Gardênia Azul,8.84,6.87
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,6,0,Flamengo,8.69,7.6
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,7,0,Barra da Tijuca,8.56,7
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,7,1,Maracanã,8.56,6.71
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,9,0,Cidade Universitária,8.49,3.8
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,10,0,Jardim América,8.45,5.51
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,11,0,Cidade de Deus,8.34,6.1
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,12,0,Turiaçu,8.29,4.5
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,13,0,Camorim,8.28,3.7
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,14,0,Ipanema,8.15,7.97
+rio-de-janeiro,Rio de Janeiro,mais-ciclaveis,Mais Cicláveis,15,0,Honório Gurgel,8.13,5.1
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,1,0,Copacabana,8.43,7.8
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,2,0,Ipanema,8.28,7.97
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,3,0,Catete,8.2,8.25
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,4,0,Vila da Penha,8.19,6.9
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,5,0,Leblon,8.18,7.8
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,6,0,Botafogo,8.1,7.54
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,7,0,Centro,8,7.62
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,8,0,Cachambi,7.93,6.34
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,9,0,Leme,7.85,6.2
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,10,0,Méier,7.77,7.39
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,11,0,Humaitá,7.66,6.43
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,12,0,Maracanã,7.6,6.71
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,13,0,Vila Isabel,7.53,7.1
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,14,0,Flamengo,7.52,7.6
+rio-de-janeiro,Rio de Janeiro,melhor-restauracao,Melhor Restauração,15,0,Gardênia Azul,7.5,6.87
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,1,0,Jardim Botânico,7.31,4.53
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,2,0,Itanhangá,7.2,4.8
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,3,0,São Conrado,7.08,5.4
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,4,0,Jardim Sulacap,7.02,4.7
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,5,0,Barra da Tijuca,6.95,7
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,6,0,Gávea,6.61,6.3
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,7,0,Campo Grande,6.33,4.68
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,8,0,Senador Camará,6.26,5.5
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,9,0,Grajaú,6.16,6.5
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,10,0,Barra Olímpica,5.85,4.79
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,11,0,Realengo,5.38,5.9
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,12,0,Tijuca,5.21,7.17
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,13,0,Bangu,5.13,6.3
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,14,0,Humaitá,5.1,6.43
+rio-de-janeiro,Rio de Janeiro,mais-tranquilos,Mais Tranquilos,15,0,Flamengo,5.03,7.6
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,1,0,Gávea,7.09,6.3
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,2,0,Flamengo,7.06,7.6
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,3,0,Botafogo,6.98,7.54
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,4,0,Copacabana,6.89,7.8
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,5,0,Tijuca,6.87,7.17
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,6,0,Humaitá,6.82,6.43
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,7,0,Grajaú,6.81,6.5
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,8,0,Ipanema,6.8,7.97
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,9,0,Jardim Botânico,6.69,4.53
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,10,0,Laranjeiras,6.67,6.6
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,11,0,Catete,6.64,8.25
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,12,0,Barra da Tijuca,6.48,7
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,13,0,Leblon,6.44,7.8
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,14,0,Vila Isabel,6.42,7.1
+rio-de-janeiro,Rio de Janeiro,melhor-para-familias,Melhor para Famílias,15,0,Méier,6.35,7.39
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,Centro,8.75,7.62
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,2,0,Catete,8.23,8.25
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,Copacabana,8.22,7.8
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Glória,8.17,7.4
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Leblon,8,7.8
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Flamengo,7.69,7.6
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Botafogo,7.53,7.54
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Ipanema,7.39,7.97
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Cidade Nova,7.3,6.03
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,Gamboa,7.19,6.08
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Madureira,6.9,6.67
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,12,0,Maracanã,6.89,6.71
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,13,0,Tijuca,6.76,7.17
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,14,0,Barra da Tijuca,6.54,7
+rio-de-janeiro,Rio de Janeiro,melhor-para-jovens,Melhor para Jovens Profissionais,14,1,Santo Cristo,6.54,5.08
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,1,0,Catete,8.25,8.25
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,2,0,Ipanema,7.97,7.97
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,3,0,Copacabana,7.8,7.8
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,3,1,Leblon,7.8,7.8
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,5,0,Centro,7.62,7.62
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,6,0,Flamengo,7.6,7.6
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,7,0,Botafogo,7.54,7.54
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,8,0,Glória,7.4,7.4
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,9,0,Méier,7.39,7.39
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,10,0,Tijuca,7.17,7.17
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,11,0,Vila Isabel,7.1,7.1
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,12,0,Barra da Tijuca,7,7
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,13,0,Vila da Penha,6.9,6.9
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,14,0,Gardênia Azul,6.87,6.87
+rio-de-janeiro,Rio de Janeiro,mais-completos,Mais Completos,15,0,Maracanã,6.71,6.71
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,1,0,Bangu,2.25,6.3
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,2,0,Realengo,1.97,5.9
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,3,0,Madureira,1.91,6.67
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,4,0,Irajá,1.81,5.8
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,5,0,Ramos,1.66,5.82
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,6,0,Penha,1.63,5.7
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,7,0,Olaria,1.59,6.35
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,8,0,Centro,1.52,7.62
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,9,0,Méier,1.48,7.39
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,10,0,Andaraí,1.2,6.62
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,11,0,Vila Isabel,1.09,7.1
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,12,0,Grajaú,1.08,6.5
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,13,0,Tijuca,1.02,7.17
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,14,0,Taquara,1,5.51
+rio-de-janeiro,Rio de Janeiro,mais-acessiveis,Melhor Custo-Benefício,15,0,Maracanã,0.96,6.71
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,1,0,Calafate,10,6.93
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,1,1,Gameleira,10,4.1
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,3,0,Minaslândia,9.98,6.25
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,4,0,Santa Tereza,9.96,7.04
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,5,0,Vila Clóris,9.87,6.5
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,6,0,Centro,9.76,8.28
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,7,0,Floresta,9.73,7.02
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,8,0,Santa Efigênia,9.63,7.79
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,9,0,Ipiranga,9.6,6.97
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,9,1,Palmares,9.6,6.91
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,9,1,Santa Branca,9.6,5.98
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,9,1,Cachoeirinha,9.6,5.59
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,9,1,Aparecida,9.6,5.48
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,9,1,São Francisco,9.6,5.15
+belo-horizonte,Belo Horizonte,melhor-transporte,Melhor Transporte Público,9,1,Lagoinha,9.6,4.9
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,1,0,Funcionários,7.8,8.1
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,2,0,Savassi,7.61,7.99
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,3,0,Lourdes,7.4,8.05
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,4,0,Renascença,7.38,6.14
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,5,0,Jaraguá,7.3,5.95
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,6,0,Anchieta,7.28,7.01
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,7,0,Santa Efigênia,7.2,7.79
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,7,1,São Pedro,7.2,7.53
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,9,0,Santo Agostinho,7.18,7.64
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,10,0,Centro,7.17,8.28
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,11,0,Guarani,7.14,6.93
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,12,0,Prado,7.11,7.16
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,13,0,Gutierrez,7.05,6.95
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,13,1,Nova Suíça,7.05,6.93
+belo-horizonte,Belo Horizonte,mais-caminhaveis,Mais Caminháveis,15,0,Floresta,7.03,7.02
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,1,0,Jardim Atlântico,8.81,4.1
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,2,0,Funcionários,8.2,8.1
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,3,0,Santa Efigênia,7.56,7.79
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,4,0,São Gabriel,7.11,5.25
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,5,0,Santa Inês,7.04,6.23
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,6,0,Centro,7.03,8.28
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,7,0,Barreiro de Baixo,6.95,7.22
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,7,1,Betânia,6.95,5.81
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,9,0,Savassi,6.79,7.99
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,10,0,Tirol,6.59,4.9
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,11,0,Providência,5.96,4.75
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,12,0,Guarani,5.59,6.93
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,13,0,Santa Tereza,5.53,7.04
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,14,0,CDI Jatobá,5.26,3.2
+belo-horizonte,Belo Horizonte,mais-ciclaveis,Mais Cicláveis,15,0,Horto Florestal,5.25,5.02
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,1,0,Savassi,8.99,7.99
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,2,0,Lourdes,8.44,8.05
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,3,0,Funcionários,8.43,8.1
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,4,0,Centro,8.35,8.28
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,5,0,Santo Agostinho,8.26,7.64
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,6,0,Barro Preto,8.02,7.57
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,6,1,Caiçara-Adelaide,8.02,6.41
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,8,0,São Pedro,8,7.53
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,9,0,Santo Antônio,7.99,6.77
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,10,0,Floresta,7.98,7.02
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,10,1,Anchieta,7.98,7.01
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,12,0,Santa Efigênia,7.95,7.79
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,12,1,Serra,7.95,7.4
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,14,0,Cidade Nova,7.9,7.12
+belo-horizonte,Belo Horizonte,melhor-restauracao,Melhor Restauração,15,0,Barreiro de Baixo,7.86,7.22
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,1,0,Belvedere,5.78,4.89
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,2,0,Independência,5.18,5
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,3,0,Araguaia,5,5.06
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,4,0,Cardoso,4.96,6.37
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,5,0,Sion,4.7,6.78
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,6,0,Tirol,4.6,4.9
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,7,0,Milionários,4.5,6.18
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,7,1,Jaqueline,4.5,3.9
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,9,0,Brasil Industrial,4.45,5.55
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,10,0,Serra,4.4,7.4
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,10,1,Castelo,4.4,6.14
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,10,1,Vale do Jatobá,4.4,6.04
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,10,1,Itaipu,4.4,5.53
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,10,1,Paquetá,4.4,5.2
+belo-horizonte,Belo Horizonte,mais-tranquilos,Mais Tranquilos,10,1,Diamante,4.4,4.7
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,1,0,Funcionários,6.73,8.1
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,2,0,Savassi,6.63,7.99
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,3,0,Barreiro de Baixo,6.62,7.22
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,4,0,Serra,6.61,7.4
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,5,0,Santo Agostinho,6.52,7.64
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,6,0,Lourdes,6.51,8.05
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,7,0,Anchieta,6.34,7.01
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,8,0,São Pedro,6.33,7.53
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,9,0,Santo Antônio,6.29,6.77
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,10,0,Prado,6.28,7.16
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,11,0,Venda Nova,6.27,6.7
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,12,0,Ouro Preto,6.21,6.73
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,13,0,Sion,6.2,6.78
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,14,0,Nova Suíça,6.14,6.93
+belo-horizonte,Belo Horizonte,melhor-para-familias,Melhor para Famílias,15,0,Castelo,6.13,6.14
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,Centro,8.98,8.28
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,2,0,Lourdes,8.84,8.05
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,Santa Efigênia,8.41,7.79
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Santa Tereza,8.09,7.04
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Floresta,7.79,7.02
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Savassi,7.71,7.99
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Dona Clara,7.53,6.4
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Calafate,7.36,6.93
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Funcionários,7.33,8.1
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,Minaslândia,7.29,6.25
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Vila Clóris,7.21,6.5
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,12,0,Santo Agostinho,7.04,7.64
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,13,0,Ipiranga,7.02,6.97
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,14,0,Barro Preto,6.98,7.57
+belo-horizonte,Belo Horizonte,melhor-para-jovens,Melhor para Jovens Profissionais,15,0,Serra,6.91,7.4
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,1,0,Centro,8.28,8.28
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,2,0,Funcionários,8.1,8.1
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,3,0,Lourdes,8.05,8.05
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,4,0,Savassi,7.99,7.99
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,5,0,Santa Efigênia,7.79,7.79
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,6,0,Santo Agostinho,7.64,7.64
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,7,0,Barro Preto,7.57,7.57
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,8,0,São Pedro,7.53,7.53
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,9,0,Serra,7.4,7.4
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,10,0,Barreiro de Baixo,7.22,7.22
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,11,0,Prado,7.16,7.16
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,12,0,Cidade Nova,7.12,7.12
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,13,0,Santa Tereza,7.04,7.04
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,14,0,Floresta,7.02,7.02
+belo-horizonte,Belo Horizonte,mais-completos,Mais Completos,15,0,Anchieta,7.01,7.01
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,1,0,Centro,2.12,8.28
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,2,0,Aparecida,1.85,5.48
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,3,0,João Pinheiro,1.81,6.1
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,4,0,Serra Verde,1.75,5.5
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,5,0,Vila Clóris,1.71,6.5
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,6,0,Venda Nova,1.7,6.7
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,7,0,Goiânia,1.69,5.68
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,7,1,Ipiranga,1.69,6.97
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,9,0,Calafate,1.68,6.93
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,10,0,Floramar,1.66,5.9
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,11,0,Cardoso,1.6,6.37
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,11,1,Santa Tereza,1.6,7.04
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,11,1,Santa Rosa,1.6,6.75
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,14,0,Barro Preto,1.59,7.57
+belo-horizonte,Belo Horizonte,mais-acessiveis,Melhor Custo-Benefício,15,0,Pompeia,1.58,6.2
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,1,0,Alto da Rua XV,8.15,7.36
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,2,0,Água Verde,7.86,7.63
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,2,1,Vila Izabel,7.86,7.63
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,4,0,Centro,7.84,7.7
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,5,0,Rebouças,7.79,7.47
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,6,0,Bigorrilho,7.76,7.49
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,7,0,Batel,7.73,7.75
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,8,0,Mercês,7.69,7.07
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,8,1,São Francisco,7.69,6.88
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,10,0,Portão,7.63,6.95
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,11,0,Juvevê,7.51,7.6
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,12,0,Hauer,7.5,6.86
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,13,0,Cristo Rei,7.43,6.92
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,14,0,Centro Cívico,7.41,7.3
+curitiba,Curitiba,mais-caminhaveis,Mais Caminháveis,15,0,Alto da Glória,7.38,7.31
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,1,0,Rebouças,9.9,7.47
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,2,0,Jardim Botânico,9.89,4.8
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,3,0,Prado Velho,9.88,5.21
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,4,0,Cristo Rei,9.86,6.92
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,5,0,Tarumã,9.74,5.35
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,6,0,Hauer,9.66,6.86
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,7,0,Alto da Rua XV,9.55,7.36
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,8,0,Centro Cívico,9.43,7.3
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,9,0,Capão da Imbuia,9.4,6.16
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,10,0,Água Verde,9.37,7.63
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,11,0,Jardim das Américas,9.32,5.32
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,12,0,Cabral,9.31,7.01
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,13,0,Centro,9.29,7.7
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,14,0,Bacacheri,9.28,5.25
+curitiba,Curitiba,mais-ciclaveis,Mais Cicláveis,15,0,Boqueirão,9.14,5.6
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,1,0,Centro,8.66,7.7
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,2,0,Batel,8.54,7.75
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,3,0,Juvevê,8.44,7.6
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,4,0,Bigorrilho,8.28,7.49
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,5,0,Água Verde,8.23,7.63
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,6,0,Alto da Rua XV,8.11,7.36
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,7,0,Rebouças,8.1,7.47
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,8,0,Hugo Lange,8.05,6.45
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,9,0,São Francisco,8.04,6.88
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,10,0,Centro Cívico,7.97,7.3
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,11,0,Vila Izabel,7.96,7.63
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,12,0,Mercês,7.76,7.07
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,13,0,Alto da Glória,7.74,7.31
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,14,0,Cristo Rei,7.67,6.92
+curitiba,Curitiba,melhor-restauracao,Melhor Restauração,15,0,Ahú,7.65,6.16
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,1,0,São Braz,5.2,5.1
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,2,0,Barreirinha,4.96,4.5
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,3,0,Bacacheri,4.6,5.25
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,4,0,Santa Quitéria,4.4,5.95
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,4,1,Fazendinha,4.4,5.26
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,6,0,Boa Vista,4.2,5.67
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,7,0,Guaíra,4.1,5.9
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,7,1,Tingui,4.1,4.5
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,9,0,Centro Cívico,4.05,7.3
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,10,0,Hauer,4,6.86
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,10,1,Ahú,4,6.16
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,10,1,Seminário,4,5.74
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,10,1,Parolin,4,5.64
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,10,1,Xaxim,4,5.11
+curitiba,Curitiba,mais-tranquilos,Mais Tranquilos,10,1,Bairro Alto,4,4.7
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,1,0,Batel,6.51,7.75
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,2,0,Bigorrilho,6.48,7.49
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,3,0,Vila Izabel,6.39,7.63
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,4,0,Juvevê,6.36,7.6
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,5,0,Cabral,6.33,7.01
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,6,0,Água Verde,6.31,7.63
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,6,1,Ahú,6.31,6.16
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,8,0,Alto da Rua XV,6.26,7.36
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,9,0,Mercês,6.25,7.07
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,10,0,Cristo Rei,6.24,6.92
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,11,0,Hugo Lange,6.22,6.45
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,12,0,Centro Cívico,6.14,7.3
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,13,0,Seminário,6.04,5.74
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,13,1,Boa Vista,6.04,5.67
+curitiba,Curitiba,melhor-para-familias,Melhor para Famílias,15,0,Bom Retiro,5.94,5.93
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,Centro,8.14,7.7
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,2,0,Centro Cívico,7.84,7.3
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,São Francisco,7.79,6.88
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Batel,7.53,7.75
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Rebouças,7.43,7.47
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Juvevê,7.31,7.6
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Bigorrilho,7.26,7.49
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Alto da Glória,7.17,7.31
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Vila Izabel,7.16,7.63
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,Alto da Rua XV,7.13,7.36
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Água Verde,7.03,7.63
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,12,0,Cristo Rei,6.94,6.92
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,13,0,Mercês,6.76,7.07
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,14,0,Portão,6.7,6.95
+curitiba,Curitiba,melhor-para-jovens,Melhor para Jovens Profissionais,15,0,Cabral,6.66,7.01
+curitiba,Curitiba,mais-completos,Mais Completos,1,0,Batel,7.75,7.75
+curitiba,Curitiba,mais-completos,Mais Completos,2,0,Centro,7.7,7.7
+curitiba,Curitiba,mais-completos,Mais Completos,3,0,Água Verde,7.63,7.63
+curitiba,Curitiba,mais-completos,Mais Completos,3,1,Vila Izabel,7.63,7.63
+curitiba,Curitiba,mais-completos,Mais Completos,5,0,Juvevê,7.6,7.6
+curitiba,Curitiba,mais-completos,Mais Completos,6,0,Bigorrilho,7.49,7.49
+curitiba,Curitiba,mais-completos,Mais Completos,7,0,Rebouças,7.47,7.47
+curitiba,Curitiba,mais-completos,Mais Completos,8,0,Alto da Rua XV,7.36,7.36
+curitiba,Curitiba,mais-completos,Mais Completos,9,0,Alto da Glória,7.31,7.31
+curitiba,Curitiba,mais-completos,Mais Completos,10,0,Centro Cívico,7.3,7.3
+curitiba,Curitiba,mais-completos,Mais Completos,11,0,Mercês,7.07,7.07
+curitiba,Curitiba,mais-completos,Mais Completos,12,0,Cabral,7.01,7.01
+curitiba,Curitiba,mais-completos,Mais Completos,13,0,Portão,6.95,6.95
+curitiba,Curitiba,mais-completos,Mais Completos,14,0,Cristo Rei,6.92,6.92
+curitiba,Curitiba,mais-completos,Mais Completos,15,0,São Francisco,6.88,6.88
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,1,0,Sítio Cercado,1.82,6
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,2,0,Parolin,1.48,5.64
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,3,0,Capão Raso,1.47,6.19
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,3,1,Novo Mundo,1.47,6.03
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,5,0,Alto Boqueirão,1.43,6.3
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,6,0,Cajuru,1.21,5.57
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,7,0,Boqueirão,1.17,5.6
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,8,0,Hauer,1.11,6.86
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,9,0,Santa Quitéria,1.1,5.95
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,10,0,Bom Retiro,1.08,5.93
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,11,0,Capão da Imbuia,1.06,6.16
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,12,0,Tarumã,1.03,5.35
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,13,0,Vila Izabel,1.02,7.63
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,14,0,Guaíra,0.94,5.9
+curitiba,Curitiba,mais-acessiveis,Melhor Custo-Benefício,15,0,Portão,0.89,6.95
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,1,0,São Geraldo,8.05,6.58
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,2,0,Centro Histórico,7.93,7.7
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,3,0,Santana,7.68,7.48
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,4,0,São João,7.67,6.29
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,5,0,Floresta,7.64,6.34
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,6,0,Azenha,7.45,7.19
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,7,0,Higienópolis,7.4,6.15
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,8,0,Auxiliadora,7.36,6.69
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,9,0,Moinhos de Vento,7.3,7.39
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,9,1,Menino Deus,7.3,7
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,11,0,Vila Ipiranga,7.26,6.5
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,12,0,Santa Cecília,7.22,7.31
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,13,0,Passo da Areia,7.19,6.61
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,14,0,Rio Branco,7.16,7.39
+porto-alegre,Porto Alegre,mais-caminhaveis,Mais Caminháveis,15,0,Cristo Redentor,7.15,7.11
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,1,0,Praia de Belas,8.99,6.3
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,2,0,São Sebastião,8.93,6.17
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,3,0,Menino Deus,8.9,7
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,4,0,Azenha,8.88,7.19
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,5,0,Santa Cecília,8.86,7.31
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,6,0,Cristal,8.84,5.7
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,7,0,Santana,8.73,7.48
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,8,0,Cidade Baixa,8.66,7.1
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,9,0,Rio Branco,8.55,7.39
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,10,0,Restinga,8.36,4.7
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,11,0,Centro Histórico,8.23,7.7
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,12,0,Jardim Europa,8.14,6.74
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,12,1,Anchieta,8.14,4.1
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,14,0,Jardim do Salso,8.08,5.77
+porto-alegre,Porto Alegre,mais-ciclaveis,Mais Cicláveis,15,0,Jardim Lindóia,8.02,6.76
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,1,0,Cidade Baixa,8.52,7.1
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,2,0,Moinhos de Vento,8.43,7.39
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,3,0,Rio Branco,8.36,7.39
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,4,0,Auxiliadora,8.34,6.69
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,5,0,Montserrat,8.2,6.96
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,6,0,Centro Histórico,8.12,7.7
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,7,0,Santa Cecília,8.08,7.31
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,8,0,Santana,7.98,7.48
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,9,0,Menino Deus,7.94,7
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,10,0,São Geraldo,7.9,6.58
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,11,0,Cristo Redentor,7.83,7.11
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,12,0,Floresta,7.77,6.34
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,13,0,Tristeza,7.76,6.54
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,14,0,Boa Vista,7.64,6.57
+porto-alegre,Porto Alegre,melhor-restauracao,Melhor Restauração,15,0,São João,7.6,6.29
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,1,0,Morro Santana,6.23,6.5
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,2,0,Vila Assunção,5.1,3.9
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,3,0,Espírito Santo,5.04,5.2
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,4,0,Santa Maria Goretti,4.8,6.17
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,5,0,Camaquã,4.35,6.4
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,6,0,Jardim do Salso,4.2,5.77
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,6,1,Jardim Itu,4.2,5.58
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,8,0,Jardim Botânico,4,5.89
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,9,0,Tristeza,3.9,6.54
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,9,1,Parque Santa Fé,3.9,4.9
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,9,1,Humaitá,3.9,4.55
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,12,0,Jardim Europa,3.8,6.74
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,12,1,Três Figueiras,3.8,6.17
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,14,0,Vila Ipiranga,3.7,6.5
+porto-alegre,Porto Alegre,mais-tranquilos,Mais Tranquilos,15,0,Chácara das Pedras,3.6,6.15
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,1,0,Santa Cecília,6.47,7.31
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,2,0,Três Figueiras,6.4,6.17
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,3,0,Santa Maria Goretti,6.12,6.17
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,4,0,Santana,5.99,7.48
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,5,0,Centro Histórico,5.95,7.7
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,6,0,Moinhos de Vento,5.92,7.39
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,7,0,Menino Deus,5.89,7
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,8,0,Rio Branco,5.86,7.39
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,9,0,Jardim Europa,5.85,6.74
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,10,0,Boa Vista,5.84,6.57
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,11,0,Cristo Redentor,5.82,7.11
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,12,0,Petrópolis,5.77,6.61
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,13,0,Montserrat,5.76,6.96
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,13,1,Auxiliadora,5.76,6.69
+porto-alegre,Porto Alegre,melhor-para-familias,Melhor para Famílias,15,0,Higienópolis,5.71,6.15
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,1,0,Centro Histórico,7.7,7.7
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,2,0,Santana,7.48,7.48
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,3,0,Moinhos de Vento,7.39,7.39
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,3,1,Rio Branco,7.39,7.39
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,5,0,Santa Cecília,7.31,7.31
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,6,0,Azenha,7.19,7.19
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,7,0,Cristo Redentor,7.11,7.11
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,8,0,Cidade Baixa,7.1,7.1
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,9,0,Menino Deus,7,7
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,10,0,Montserrat,6.96,6.96
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,11,0,Jardim Lindóia,6.76,6.76
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,12,0,Jardim Europa,6.74,6.74
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,13,0,Auxiliadora,6.69,6.69
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,14,0,Petrópolis,6.61,6.61
+porto-alegre,Porto Alegre,mais-completos,Mais Completos,14,1,Passo da Areia,6.61,6.61
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,1,0,Jardim Leopoldina,2.32,5.86
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,2,0,Rubem Berta,2.21,5.2
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,3,0,Morro Santana,2.2,6.5
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,4,0,São Geraldo,2.14,6.58
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,5,0,Cavalhada,2.06,5.86
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,6,0,Camaquã,2.03,6.4
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,7,0,Floresta,2,6.34
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,8,0,Centro Histórico,1.92,7.7
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,9,0,Navegantes,1.91,5.28
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,10,0,Santana,1.86,7.48
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,11,0,Santa Rosa de Lima,1.85,5.2
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,12,0,São João,1.84,6.29
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,13,0,Cristo Redentor,1.82,7.11
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,14,0,Santa Cecília,1.81,7.31
+porto-alegre,Porto Alegre,mais-acessiveis,Melhor Custo-Benefício,15,0,Vila Ipiranga,1.78,6.5
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,1,0,Rodolfo Teófilo,9.87,6.78
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,2,0,Benfica,9.76,6.96
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,3,0,Centro,9.68,6.98
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,4,0,Damas,9.62,6.57
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,5,0,Bela Vista,9.48,6.12
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,6,0,Demócrito Rocha,8.72,6.2
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,7,0,Parangaba,8.67,6.1
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,8,0,Olavo Oliveira,8.63,5.6
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,9,0,Manoel Sátiro,7.83,5.68
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,10,0,Padre Andrade,7.53,5.63
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,11,0,Conjunto Ceará I,6.85,6.09
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,12,0,Farias Brito,6.73,6.61
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,13,0,Genibaú,5.77,5.5
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,14,0,Aracapé,5.43,5
+fortaleza,Fortaleza,melhor-transporte,Melhor Transporte Público,15,0,Itaoca,5.38,6.12
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,1,0,Centro,7.83,6.98
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,2,0,Amadeu Furtado,7.77,6.55
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,3,0,Parquelândia,7.73,6.73
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,4,0,Farias Brito,7.72,6.61
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,5,0,Damas,7.68,6.57
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,6,0,Montese,7.66,6.07
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,7,0,Jardim América,7.64,5.93
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,8,0,Rodolfo Teófilo,7.53,6.78
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,9,0,Jardim Guanabara,7.5,6.01
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,10,0,Dionísio Torres,7.47,6.98
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,10,1,Parreão,7.47,6.05
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,12,0,José Bonifácio,7.45,6.44
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,12,1,Henrique Jorge,7.45,5.86
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,14,0,Bela Vista,7.4,6.12
+fortaleza,Fortaleza,mais-caminhaveis,Mais Caminháveis,14,1,Conjunto Ceará I,7.4,6.09
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,1,0,Varjota,8.67,6.97
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,2,0,Meireles,8.15,6.83
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,3,0,Aldeota,8.12,6.95
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,4,0,Parquelândia,8.03,6.73
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,5,0,Dionísio Torres,8,6.98
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,6,0,Jardim Guanabara,7.84,6.01
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,7,0,Amadeu Furtado,7.78,6.55
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,8,0,Monte Castelo,7.76,5.92
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,9,0,José Bonifácio,7.65,6.44
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,10,0,Papicu,7.63,6.6
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,11,0,Farias Brito,7.6,6.61
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,12,0,Jóquei Clube,7.59,6.3
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,12,1,Parque Manibura,7.59,6.2
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,14,0,Conjunto Esperança,7.48,6.03
+fortaleza,Fortaleza,melhor-restauracao,Melhor Restauração,14,1,Cidade dos Funcionários,7.48,5.94
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,Benfica,8.1,6.96
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,2,0,Centro,8.09,6.98
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,Rodolfo Teófilo,7.59,6.78
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Farias Brito,7.07,6.61
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Damas,6.95,6.57
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Conjunto Ceará I,6.6,6.09
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Manoel Sátiro,6.56,5.68
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Parangaba,6.46,6.1
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Bela Vista,6.39,6.12
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,Demócrito Rocha,6.34,6.2
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Amadeu Furtado,6.21,6.55
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,12,0,Varjota,6.18,6.97
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,13,0,Dionísio Torres,6.16,6.98
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,14,0,José Bonifácio,6.01,6.44
+fortaleza,Fortaleza,melhor-para-jovens,Melhor para Jovens Profissionais,15,0,Conjunto Esperança,5.92,6.03
+fortaleza,Fortaleza,mais-completos,Mais Completos,1,0,Centro,6.98,6.98
+fortaleza,Fortaleza,mais-completos,Mais Completos,1,1,Dionísio Torres,6.98,6.98
+fortaleza,Fortaleza,mais-completos,Mais Completos,3,0,Varjota,6.97,6.97
+fortaleza,Fortaleza,mais-completos,Mais Completos,4,0,Benfica,6.96,6.96
+fortaleza,Fortaleza,mais-completos,Mais Completos,5,0,Aldeota,6.95,6.95
+fortaleza,Fortaleza,mais-completos,Mais Completos,6,0,Meireles,6.83,6.83
+fortaleza,Fortaleza,mais-completos,Mais Completos,7,0,Rodolfo Teófilo,6.78,6.78
+fortaleza,Fortaleza,mais-completos,Mais Completos,8,0,Parquelândia,6.73,6.73
+fortaleza,Fortaleza,mais-completos,Mais Completos,9,0,Farias Brito,6.61,6.61
+fortaleza,Fortaleza,mais-completos,Mais Completos,10,0,Papicu,6.6,6.6
+fortaleza,Fortaleza,mais-completos,Mais Completos,11,0,Damas,6.57,6.57
+fortaleza,Fortaleza,mais-completos,Mais Completos,12,0,Amadeu Furtado,6.55,6.55
+fortaleza,Fortaleza,mais-completos,Mais Completos,13,0,José Bonifácio,6.44,6.44
+fortaleza,Fortaleza,mais-completos,Mais Completos,14,0,Fátima,6.37,6.37
+fortaleza,Fortaleza,mais-completos,Mais Completos,15,0,Presidente Kennedy,6.33,6.33
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,1,0,Jardim Iracema,2.37,5.93
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,2,0,Quintino Cunha,2.29,5.73
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,3,0,Conjunto Ceará I,2.26,6.09
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,4,0,Conjunto Esperança,2.23,6.03
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,5,0,Conjunto Ceará II,2.21,5.96
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,6,0,João XXIII,2.04,5.7
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,7,0,Padre Andrade,2.01,5.63
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,8,0,Vila Velha,2,5.6
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,9,0,Bom Jardim,1.97,5.7
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,10,0,Presidente Kennedy,1.92,6.33
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,11,0,Bela Vista,1.8,6.12
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,12,0,Antônio Bezerra,1.78,5.68
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,13,0,Alto da Balança,1.75,5.6
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,14,0,Farias Brito,1.74,6.61
+fortaleza,Fortaleza,mais-acessiveis,Melhor Custo-Benefício,15,0,Carlito Pamplona,1.7,5.62
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,1,0,Ceilândia,4.99,5.9
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,2,0,Águas Claras,4.6,4.85
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,3,0,Asa Sul,4.08,5.14
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,4,0,Cruzeiro,4,5.51
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,5,0,Sudoeste e Octogonal,3.87,5.64
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,6,0,Sol Nascente/Pôr do Sol,3.72,3.5
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,7,0,Núcleo Bandeirante,3.67,5.09
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,8,0,Guará,3.62,4.83
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,9,0,Asa Norte,3.54,4.85
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,10,0,Taguatinga,3.44,5.9
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,11,0,Riacho Fundo,3.4,5.1
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,12,0,Samambaia,3.17,5.5
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,13,0,Lago Sul,3.14,3.1
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,14,0,Plano Piloto (outros setores),3.13,4
+brasilia,Brasília,melhor-transporte,Melhor Transporte Público,15,0,Varjão,3.12,4.4
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,1,0,Ceilândia,6,5.9
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,2,0,Taguatinga,5.98,5.9
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,3,0,Samambaia,5.49,5.5
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,3,1,Riacho Fundo II,5.49,3.6
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,5,0,Guará,5.4,4.83
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,6,0,Cruzeiro,5.28,5.51
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,7,0,Asa Sul,5.25,5.14
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,8,0,Itapoã,5.05,5
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,9,0,Sudoeste e Octogonal,5.04,5.64
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,10,0,Recanto das Emas,4.93,5.5
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,11,0,Águas Claras,4.86,4.85
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,12,0,Asa Norte,4.69,4.85
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,13,0,Eixo Monumental,4.6,4.96
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,14,0,Sol Nascente/Pôr do Sol,3.84,3.5
+brasilia,Brasília,mais-caminhaveis,Mais Caminháveis,15,0,Santa Maria,3.6,2.9
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,1,0,Asa Norte,9.78,4.85
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,2,0,Eixo Monumental,9.53,4.96
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,3,0,Sudoeste e Octogonal,9.34,5.64
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,4,0,Recanto das Emas,8.93,5.5
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,5,0,Riacho Fundo II,8.89,3.6
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,6,0,Asa Sul,8.74,5.14
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,7,0,Guará,8.32,4.83
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,8,0,Santa Maria,8.12,2.9
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,9,0,Ceilândia,7.63,5.9
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,10,0,Cruzeiro,7.46,5.51
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,10,1,Gama,7.46,2.6
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,12,0,Varjão,7.36,4.4
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,13,0,Itapoã,7.12,5
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,14,0,Lago Sul,6.9,3.1
+brasilia,Brasília,mais-ciclaveis,Mais Cicláveis,15,0,Núcleo Bandeirante,6.73,5.09
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,1,0,Sudoeste e Octogonal,7.13,5.64
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,2,0,Taguatinga,6.98,5.9
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,3,0,Núcleo Bandeirante,6.77,5.09
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,4,0,Águas Claras,6.74,4.85
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,5,0,Cruzeiro,6.54,5.51
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,6,0,Asa Norte,6.44,4.85
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,7,0,Asa Sul,6.36,5.14
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,8,0,Ceilândia,6.35,5.9
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,9,0,Eixo Monumental,6.25,4.96
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,10,0,Candangolândia,6.01,5.3
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,11,0,Riacho Fundo,5.93,5.1
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,12,0,Samambaia,5.9,5.5
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,12,1,Guará,5.9,4.83
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,14,0,Itapoã,5.88,5
+brasilia,Brasília,melhor-restauracao,Melhor Restauração,15,0,Recanto das Emas,5.57,5.5
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,1,0,Samambaia,6.93,5.5
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,2,0,Riacho Fundo,5.93,5.1
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,3,0,Taguatinga,4.72,5.9
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,4,0,Arniqueira,4.5,3.5
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,5,0,Asa Sul,4.2,5.14
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,6,0,Asa Norte,4.1,4.85
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,7,0,Sudoeste e Octogonal,3.9,5.64
+brasilia,Brasília,mais-tranquilos,Mais Tranquilos,8,0,Cruzeiro,2.8,5.51
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,1,0,Taguatinga,6.21,5.9
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,2,0,Asa Sul,5.78,5.14
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,3,0,Asa Norte,5.74,4.85
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,4,0,Sudoeste e Octogonal,5.73,5.64
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,5,0,Samambaia,5.62,5.5
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,6,0,Riacho Fundo,5.25,5.1
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,7,0,Cruzeiro,5.13,5.51
+brasilia,Brasília,melhor-para-familias,Melhor para Famílias,8,0,Arniqueira,4.82,3.5
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,Candangolândia,5.12,5.3
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,1,1,Águas Claras,5.12,4.85
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,Cruzeiro,4.92,5.51
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Asa Sul,4.83,5.14
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Asa Norte,4.66,4.85
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Ceilândia,4.65,5.9
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Taguatinga,4.54,5.9
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Varjão,4.52,4.4
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Guará,4.31,4.83
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,Sudoeste e Octogonal,4.29,5.64
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Samambaia,4.22,5.5
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,12,0,Recanto das Emas,3.94,5.5
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,13,0,Núcleo Bandeirante,3.92,5.09
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,14,0,Riacho Fundo,3.76,5.1
+brasilia,Brasília,melhor-para-jovens,Melhor para Jovens Profissionais,15,0,Sol Nascente/Pôr do Sol,3.09,3.5
+brasilia,Brasília,mais-completos,Mais Completos,1,0,Taguatinga,5.9,5.9
+brasilia,Brasília,mais-completos,Mais Completos,1,1,Ceilândia,5.9,5.9
+brasilia,Brasília,mais-completos,Mais Completos,3,0,Sudoeste e Octogonal,5.64,5.64
+brasilia,Brasília,mais-completos,Mais Completos,4,0,Cruzeiro,5.51,5.51
+brasilia,Brasília,mais-completos,Mais Completos,5,0,Recanto das Emas,5.5,5.5
+brasilia,Brasília,mais-completos,Mais Completos,5,1,Samambaia,5.5,5.5
+brasilia,Brasília,mais-completos,Mais Completos,7,0,Candangolândia,5.3,5.3
+brasilia,Brasília,mais-completos,Mais Completos,8,0,Asa Sul,5.14,5.14
+brasilia,Brasília,mais-completos,Mais Completos,9,0,Riacho Fundo,5.1,5.1
+brasilia,Brasília,mais-completos,Mais Completos,10,0,Núcleo Bandeirante,5.09,5.09
+brasilia,Brasília,mais-completos,Mais Completos,11,0,Itapoã,5,5
+brasilia,Brasília,mais-completos,Mais Completos,12,0,Eixo Monumental,4.96,4.96
+brasilia,Brasília,mais-completos,Mais Completos,13,0,Águas Claras,4.85,4.85
+brasilia,Brasília,mais-completos,Mais Completos,13,1,Asa Norte,4.85,4.85
+brasilia,Brasília,mais-completos,Mais Completos,15,0,Guará,4.83,4.83
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,1,0,Samambaia,1.57,5.5
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,2,0,Taguatinga,1.13,5.9
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,3,0,Cruzeiro,0.85,5.51
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,4,0,Vicente Pires,0.83,4
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,5,0,Guará,0.71,4.83
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,6,0,Águas Claras,0.67,4.85
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,7,0,Asa Sul,0.4,5.14
+brasilia,Brasília,mais-acessiveis,Melhor Custo-Benefício,8,0,Sudoeste e Octogonal,0.39,5.64
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,1,0,Santa Maria Maior,9.9,8.2
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,2,0,Misericórdia,9.37,8.43
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,3,0,Santo António,8.91,8.41
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,4,0,Arroios,8.83,8.48
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,5,0,Avenidas Novas,8.47,8.41
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,6,0,Parque das Nações,8.1,7.08
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,7,0,Areeiro,7.94,8.23
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,8,0,Carnide,7.8,6.13
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,9,0,São Domingos de Benfica,7.6,6.87
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,10,0,Campolide,7.51,6.68
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,11,0,Olivais,7.47,4.94
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,12,0,Lumiar,7.45,6.98
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,13,0,Marvila,7.26,4.89
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,14,0,Alvalade,7.13,7.34
+lisboa,Lisboa,melhor-transporte,Melhor Transporte Público,15,0,São Vicente,3.99,7.27
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,1,0,Santa Maria Maior,8.21,8.2
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,2,0,Parque das Nações,7.5,7.08
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,3,0,Avenidas Novas,7.42,8.41
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,4,0,Misericórdia,7.38,8.43
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,5,0,Areeiro,7.37,8.23
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,6,0,Arroios,7.36,8.48
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,7,0,Santo António,7.1,8.41
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,8,0,Campo de Ourique,6.9,7.72
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,9,0,Alvalade,6.74,7.34
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,10,0,Estrela,6.27,7.29
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,11,0,Penha de França,6.08,7.13
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,12,0,Lumiar,5.95,6.98
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,13,0,Belém,5.93,6.01
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,14,0,São Vicente,5.82,7.27
+lisboa,Lisboa,mais-caminhaveis,Mais Caminháveis,15,0,Campolide,5.53,6.68
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,1,0,Misericórdia,9.67,8.43
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,2,0,Santa Maria Maior,9.6,8.2
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,3,0,Santo António,8.88,8.41
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,4,0,Arroios,8.85,8.48
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,5,0,Avenidas Novas,8.64,8.41
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,6,0,São Vicente,8.41,7.27
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,7,0,Campo de Ourique,8.36,7.72
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,8,0,Areeiro,8.33,8.23
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,9,0,Estrela,8.08,7.29
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,10,0,Penha de França,7.87,7.13
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,11,0,Parque das Nações,7.69,7.08
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,12,0,Alvalade,7.44,7.34
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,13,0,Alcântara,7.43,6.6
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,14,0,São Domingos de Benfica,7.21,6.87
+lisboa,Lisboa,melhor-restauracao,Melhor Restauração,15,0,Campolide,7.07,6.68
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,1,0,Benfica,8.24,6.2
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,1,1,Ajuda,8.24,6.2
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,3,0,Alcântara,8.11,6.6
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,4,0,Belém,6.75,6.01
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,5,0,Parque das Nações,6.11,7.08
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,6,0,Santa Clara,6.1,4.7
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,7,0,Lumiar,5.62,6.98
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,8,0,Carnide,5.57,6.13
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,9,0,São Domingos de Benfica,5.55,6.87
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,10,0,Beato,5.3,4.45
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,11,0,Marvila,4.95,4.89
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,12,0,São Vicente,4.8,7.27
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,12,1,Penha de França,4.8,7.13
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,14,0,Alvalade,4.65,7.34
+lisboa,Lisboa,mais-tranquilos,Mais Tranquilos,15,0,Olivais,4.4,4.94
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,1,0,Arroios,7.37,8.48
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,2,0,Areeiro,7.17,8.23
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,2,1,Parque das Nações,7.17,7.08
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,4,0,Lumiar,7.1,6.98
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,5,0,Avenidas Novas,7.09,8.41
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,6,0,São Domingos de Benfica,7.06,6.87
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,7,0,Ajuda,6.99,6.2
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,8,0,Santo António,6.97,8.41
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,9,0,Misericórdia,6.95,8.43
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,9,1,Alcântara,6.95,6.6
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,11,0,Benfica,6.93,6.2
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,12,0,Alvalade,6.91,7.34
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,13,0,Belém,6.81,6.01
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,14,0,Penha de França,6.79,7.13
+lisboa,Lisboa,melhor-para-familias,Melhor para Famílias,15,0,Campo de Ourique,6.71,7.72
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,Santa Maria Maior,9.44,8.2
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,2,0,Misericórdia,9.35,8.43
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,Santo António,8.88,8.41
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Arroios,8.49,8.48
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Avenidas Novas,8.41,8.41
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Areeiro,7.95,8.23
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Parque das Nações,7.37,7.08
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Alvalade,6.95,7.34
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Campolide,6.86,6.68
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,São Domingos de Benfica,6.82,6.87
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Campo de Ourique,6.57,7.72
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,11,1,São Vicente,6.57,7.27
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,13,0,Carnide,6.49,6.13
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,14,0,Estrela,6.38,7.29
+lisboa,Lisboa,melhor-para-jovens,Melhor para Jovens Profissionais,15,0,Lumiar,6.36,6.98
+lisboa,Lisboa,mais-completos,Mais Completos,1,0,Arroios,8.48,8.48
+lisboa,Lisboa,mais-completos,Mais Completos,2,0,Misericórdia,8.43,8.43
+lisboa,Lisboa,mais-completos,Mais Completos,3,0,Santo António,8.41,8.41
+lisboa,Lisboa,mais-completos,Mais Completos,3,1,Avenidas Novas,8.41,8.41
+lisboa,Lisboa,mais-completos,Mais Completos,5,0,Areeiro,8.23,8.23
+lisboa,Lisboa,mais-completos,Mais Completos,6,0,Santa Maria Maior,8.2,8.2
+lisboa,Lisboa,mais-completos,Mais Completos,7,0,Campo de Ourique,7.72,7.72
+lisboa,Lisboa,mais-completos,Mais Completos,8,0,Alvalade,7.34,7.34
+lisboa,Lisboa,mais-completos,Mais Completos,9,0,Estrela,7.29,7.29
+lisboa,Lisboa,mais-completos,Mais Completos,10,0,São Vicente,7.27,7.27
+lisboa,Lisboa,mais-completos,Mais Completos,11,0,Penha de França,7.13,7.13
+lisboa,Lisboa,mais-completos,Mais Completos,12,0,Parque das Nações,7.08,7.08
+lisboa,Lisboa,mais-completos,Mais Completos,13,0,Lumiar,6.98,6.98
+lisboa,Lisboa,mais-completos,Mais Completos,14,0,São Domingos de Benfica,6.87,6.87
+lisboa,Lisboa,mais-completos,Mais Completos,15,0,Campolide,6.68,6.68
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,1,0,Arroios,1.87,8.48
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,2,0,Areeiro,1.81,8.23
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,3,0,Penha de França,1.67,7.13
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,4,0,Santa Maria Maior,1.64,8.2
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,5,0,Avenidas Novas,1.54,8.41
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,6,0,São Vicente,1.52,7.27
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,7,0,Misericórdia,1.51,8.43
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,8,0,Alvalade,1.49,7.34
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,9,0,Campo de Ourique,1.31,7.72
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,10,0,Estrela,1.3,7.29
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,11,0,Santo António,1.23,8.41
+lisboa,Lisboa,mais-acessiveis,Melhor Custo-Benefício,12,0,Parque das Nações,1.12,7.08
+porto,Porto,melhor-transporte,Melhor Transporte Público,1,0,Santo Ildefonso,10,8.8
+porto,Porto,melhor-transporte,Melhor Transporte Público,2,0,Cedofeita,9.75,8.38
+porto,Porto,melhor-transporte,Melhor Transporte Público,3,0,Bonfim,9.08,7.74
+porto,Porto,melhor-transporte,Melhor Transporte Público,4,0,Paranhos,7.96,6.7
+porto,Porto,melhor-transporte,Melhor Transporte Público,5,0,Campanhã,7.49,4.89
+porto,Porto,melhor-transporte,Melhor Transporte Público,6,0,Ramalde,6.73,6.26
+porto,Porto,melhor-transporte,Melhor Transporte Público,7,0,Massarelos,2.79,7.37
+porto,Porto,melhor-transporte,Melhor Transporte Público,8,0,Foz do Douro,2.7,6.73
+porto,Porto,melhor-transporte,Melhor Transporte Público,8,1,Lordelo do Ouro,2.7,5.97
+porto,Porto,melhor-transporte,Melhor Transporte Público,10,0,Nevogilde,2.4,6.2
+porto,Porto,melhor-transporte,Melhor Transporte Público,11,0,Aldoar,1.8,5.2
+porto,Porto,mais-caminhaveis,Mais Caminháveis,1,0,Santo Ildefonso,7.66,8.8
+porto,Porto,mais-caminhaveis,Mais Caminháveis,2,0,Cedofeita,7.44,8.38
+porto,Porto,mais-caminhaveis,Mais Caminháveis,3,0,Foz do Douro,7.4,6.73
+porto,Porto,mais-caminhaveis,Mais Caminháveis,4,0,Bonfim,7.22,7.74
+porto,Porto,mais-caminhaveis,Mais Caminháveis,5,0,Nevogilde,6.66,6.2
+porto,Porto,mais-caminhaveis,Mais Caminháveis,6,0,Massarelos,6.28,7.37
+porto,Porto,mais-caminhaveis,Mais Caminháveis,7,0,Paranhos,6.26,6.7
+porto,Porto,mais-caminhaveis,Mais Caminháveis,8,0,Ramalde,6.15,6.26
+porto,Porto,mais-caminhaveis,Mais Caminháveis,9,0,Lordelo do Ouro,5.91,5.97
+porto,Porto,mais-caminhaveis,Mais Caminháveis,10,0,Aldoar,5.55,5.2
+porto,Porto,mais-caminhaveis,Mais Caminháveis,11,0,Campanhã,4.5,4.89
+porto,Porto,mais-ciclaveis,Mais Cicláveis,1,0,Nevogilde,9.66,6.2
+porto,Porto,mais-ciclaveis,Mais Cicláveis,2,0,Foz do Douro,9.27,6.73
+porto,Porto,mais-ciclaveis,Mais Cicláveis,3,0,Lordelo do Ouro,8.72,5.97
+porto,Porto,mais-ciclaveis,Mais Cicláveis,4,0,Ramalde,8.71,6.26
+porto,Porto,mais-ciclaveis,Mais Cicláveis,5,0,Aldoar,8.67,5.2
+porto,Porto,mais-ciclaveis,Mais Cicláveis,6,0,Paranhos,8.41,6.7
+porto,Porto,mais-ciclaveis,Mais Cicláveis,7,0,Cedofeita,8.35,8.38
+porto,Porto,mais-ciclaveis,Mais Cicláveis,8,0,Massarelos,7.6,7.37
+porto,Porto,mais-ciclaveis,Mais Cicláveis,9,0,Bonfim,7.23,7.74
+porto,Porto,mais-ciclaveis,Mais Cicláveis,10,0,Campanhã,5.78,4.89
+porto,Porto,mais-ciclaveis,Mais Cicláveis,11,0,Santo Ildefonso,5.2,8.8
+porto,Porto,melhor-restauracao,Melhor Restauração,1,0,Santo Ildefonso,9.51,8.8
+porto,Porto,melhor-restauracao,Melhor Restauração,2,0,Cedofeita,8.15,8.38
+porto,Porto,melhor-restauracao,Melhor Restauração,3,0,Bonfim,7.85,7.74
+porto,Porto,melhor-restauracao,Melhor Restauração,4,0,Massarelos,7.7,7.37
+porto,Porto,melhor-restauracao,Melhor Restauração,5,0,Foz do Douro,6.76,6.73
+porto,Porto,melhor-restauracao,Melhor Restauração,6,0,Paranhos,5.54,6.7
+porto,Porto,melhor-restauracao,Melhor Restauração,6,1,Nevogilde,5.54,6.2
+porto,Porto,melhor-restauracao,Melhor Restauração,8,0,Lordelo do Ouro,4.3,5.97
+porto,Porto,melhor-restauracao,Melhor Restauração,9,0,Ramalde,4.1,6.26
+porto,Porto,melhor-restauracao,Melhor Restauração,10,0,Aldoar,3.8,5.2
+porto,Porto,melhor-restauracao,Melhor Restauração,11,0,Campanhã,3.6,4.89
+porto,Porto,mais-tranquilos,Mais Tranquilos,1,0,Nevogilde,7.28,6.2
+porto,Porto,mais-tranquilos,Mais Tranquilos,2,0,Foz do Douro,6.52,6.73
+porto,Porto,mais-tranquilos,Mais Tranquilos,3,0,Aldoar,6.34,5.2
+porto,Porto,mais-tranquilos,Mais Tranquilos,4,0,Campanhã,6.04,4.89
+porto,Porto,mais-tranquilos,Mais Tranquilos,5,0,Lordelo do Ouro,5.91,5.97
+porto,Porto,mais-tranquilos,Mais Tranquilos,6,0,Massarelos,4.9,7.37
+porto,Porto,mais-tranquilos,Mais Tranquilos,7,0,Cedofeita,4.7,8.38
+porto,Porto,mais-tranquilos,Mais Tranquilos,8,0,Paranhos,4.6,6.7
+porto,Porto,mais-tranquilos,Mais Tranquilos,8,1,Ramalde,4.6,6.26
+porto,Porto,mais-tranquilos,Mais Tranquilos,10,0,Bonfim,4.45,7.74
+porto,Porto,mais-tranquilos,Mais Tranquilos,11,0,Santo Ildefonso,3.7,8.8
+porto,Porto,melhor-para-familias,Melhor para Famílias,1,0,Foz do Douro,7.48,6.73
+porto,Porto,melhor-para-familias,Melhor para Famílias,2,0,Cedofeita,7.25,8.38
+porto,Porto,melhor-para-familias,Melhor para Famílias,3,0,Massarelos,7.05,7.37
+porto,Porto,melhor-para-familias,Melhor para Famílias,4,0,Santo Ildefonso,7.03,8.8
+porto,Porto,melhor-para-familias,Melhor para Famílias,5,0,Bonfim,6.9,7.74
+porto,Porto,melhor-para-familias,Melhor para Famílias,6,0,Nevogilde,6.89,6.2
+porto,Porto,melhor-para-familias,Melhor para Famílias,7,0,Paranhos,6.66,6.7
+porto,Porto,melhor-para-familias,Melhor para Famílias,8,0,Aldoar,6.54,5.2
+porto,Porto,melhor-para-familias,Melhor para Famílias,9,0,Lordelo do Ouro,6.47,5.97
+porto,Porto,melhor-para-familias,Melhor para Famílias,10,0,Ramalde,6.34,6.26
+porto,Porto,melhor-para-familias,Melhor para Famílias,11,0,Campanhã,5.87,4.89
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,1,0,Santo Ildefonso,9.3,8.8
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,2,0,Cedofeita,8.33,8.38
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,3,0,Bonfim,7.71,7.74
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,4,0,Paranhos,6.23,6.7
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,5,0,Massarelos,5.92,7.37
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,6,0,Ramalde,5.32,6.26
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,7,0,Campanhã,5.26,4.89
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,8,0,Foz do Douro,5.21,6.73
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,9,0,Nevogilde,4.65,6.2
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,10,0,Lordelo do Ouro,4.3,5.97
+porto,Porto,melhor-para-jovens,Melhor para Jovens Profissionais,11,0,Aldoar,2.84,5.2
+porto,Porto,mais-completos,Mais Completos,1,0,Santo Ildefonso,8.8,8.8
+porto,Porto,mais-completos,Mais Completos,2,0,Cedofeita,8.38,8.38
+porto,Porto,mais-completos,Mais Completos,3,0,Bonfim,7.74,7.74
+porto,Porto,mais-completos,Mais Completos,4,0,Massarelos,7.37,7.37
+porto,Porto,mais-completos,Mais Completos,5,0,Foz do Douro,6.73,6.73
+porto,Porto,mais-completos,Mais Completos,6,0,Paranhos,6.7,6.7
+porto,Porto,mais-completos,Mais Completos,7,0,Ramalde,6.26,6.26
+porto,Porto,mais-completos,Mais Completos,8,0,Nevogilde,6.2,6.2
+porto,Porto,mais-completos,Mais Completos,9,0,Lordelo do Ouro,5.97,5.97
+porto,Porto,mais-completos,Mais Completos,10,0,Aldoar,5.2,5.2
+porto,Porto,mais-completos,Mais Completos,11,0,Campanhã,4.89,4.89
+porto,Porto,mais-acessiveis,Melhor Custo-Benefício,1,0,Bonfim,2.42,7.74
+porto,Porto,mais-acessiveis,Melhor Custo-Benefício,2,0,Santo Ildefonso,2.32,8.8
+porto,Porto,mais-acessiveis,Melhor Custo-Benefício,3,0,Cedofeita,2.2,8.38
+porto,Porto,mais-acessiveis,Melhor Custo-Benefício,4,0,Massarelos,2.17,7.37
+porto,Porto,mais-acessiveis,Melhor Custo-Benefício,5,0,Paranhos,2.04,6.7
+porto,Porto,mais-acessiveis,Melhor Custo-Benefício,6,0,Foz do Douro,1.71,6.73
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,1,0,Bonfim,8.58,7.24
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,2,0,Barra,8.47,7.62
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,3,0,Centro,8.2,7.94
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,4,0,Monte Serrat,7.97,5.94
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,5,0,Pituba,7.88,7.51
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,6,0,Rio Vermelho,7.86,7.42
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,7,0,Calçada,7.83,6.95
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,8,0,Nordeste de Amaralina,7.75,7.02
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,9,0,Uruguai,7.62,7.02
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,10,0,Nazaré,7.4,8.2
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,11,0,Boca do Rio,7.11,6.67
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,12,0,Liberdade,7.1,6.68
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,13,0,Cosme de Farias,7.02,7.16
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,14,0,Ribeira,6.99,7.15
+salvador,Salvador,mais-caminhaveis,Mais Caminháveis,15,0,Garcia,6.96,6.91
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,1,0,Pituaçu,9.46,7
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,2,0,Piatã,9.42,4.8
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,3,0,Ribeira,9.39,7.15
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,4,0,Rio Vermelho,9.19,7.42
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,5,0,Ondina,9.14,6.76
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,6,0,Imbuí,9.13,6.78
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,7,0,Patamares,9.07,6.7
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,8,0,Pituba,8.96,7.51
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,9,0,Centro Administrativo da Bahia,8.81,5.3
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,10,0,Stella Maris,8.59,5.27
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,11,0,Itaigara,8.58,7.29
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,12,0,Bairro da Paz,8.45,5.4
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,13,0,Praia Grande,8.38,5.35
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,14,0,Boca do Rio,8.3,6.67
+salvador,Salvador,mais-ciclaveis,Mais Cicláveis,15,0,Aeroporto,8.23,3.3
+salvador,Salvador,melhor-restauracao,Melhor Restauração,1,0,Rio Vermelho,8.61,7.42
+salvador,Salvador,melhor-restauracao,Melhor Restauração,2,0,Barra,8.57,7.62
+salvador,Salvador,melhor-restauracao,Melhor Restauração,3,0,Caminho das Árvores,8.33,7.38
+salvador,Salvador,melhor-restauracao,Melhor Restauração,4,0,Centro,8.26,7.94
+salvador,Salvador,melhor-restauracao,Melhor Restauração,5,0,Pituba,8.22,7.51
+salvador,Salvador,melhor-restauracao,Melhor Restauração,6,0,Nazaré,8.21,8.2
+salvador,Salvador,melhor-restauracao,Melhor Restauração,7,0,Ribeira,8.12,7.15
+salvador,Salvador,melhor-restauracao,Melhor Restauração,8,0,Bonfim,8.1,7.24
+salvador,Salvador,melhor-restauracao,Melhor Restauração,9,0,Nordeste de Amaralina,8.05,7.02
+salvador,Salvador,melhor-restauracao,Melhor Restauração,9,1,Chapada do Rio Vermelho,8.05,6.65
+salvador,Salvador,melhor-restauracao,Melhor Restauração,11,0,Uruguai,8.04,7.02
+salvador,Salvador,melhor-restauracao,Melhor Restauração,12,0,Graça,8,7.39
+salvador,Salvador,melhor-restauracao,Melhor Restauração,13,0,Engenho Velho de Brotas,7.98,6.62
+salvador,Salvador,melhor-restauracao,Melhor Restauração,14,0,Boca do Rio,7.91,6.67
+salvador,Salvador,melhor-restauracao,Melhor Restauração,15,0,Engenho Velho da Federação,7.88,6.84
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,1,0,Cassange,7.7,3
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,2,0,Pituaçu,7.26,7
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,3,0,Cajazeiras XI,7.25,3.9
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,4,0,Monte Serrat,6.88,5.94
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,5,0,Boca da Mata,6.68,4.35
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,6,0,Aeroporto,6.62,3.3
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,7,0,Patamares,6.54,6.7
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,8,0,Fazenda Grande II,6.34,4.6
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,9,0,Trobogy,6.04,5.6
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,10,0,Centro Administrativo da Bahia,5.84,5.3
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,11,0,Barra,5.78,7.62
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,12,0,Comércio,5.61,7.46
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,13,0,Areia Branca,5.52,3.4
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,14,0,Mussurunga,5.5,5.24
+salvador,Salvador,mais-tranquilos,Mais Tranquilos,15,0,Ondina,5.41,6.76
+salvador,Salvador,mais-completos,Mais Completos,1,0,Nazaré,8.2,8.2
+salvador,Salvador,mais-completos,Mais Completos,2,0,Centro,7.94,7.94
+salvador,Salvador,mais-completos,Mais Completos,3,0,Barra,7.62,7.62
+salvador,Salvador,mais-completos,Mais Completos,4,0,Pituba,7.51,7.51
+salvador,Salvador,mais-completos,Mais Completos,5,0,Comércio,7.46,7.46
+salvador,Salvador,mais-completos,Mais Completos,6,0,Rio Vermelho,7.42,7.42
+salvador,Salvador,mais-completos,Mais Completos,7,0,Graça,7.39,7.39
+salvador,Salvador,mais-completos,Mais Completos,8,0,Caminho das Árvores,7.38,7.38
+salvador,Salvador,mais-completos,Mais Completos,9,0,Itaigara,7.29,7.29
+salvador,Salvador,mais-completos,Mais Completos,10,0,Bonfim,7.24,7.24
+salvador,Salvador,mais-completos,Mais Completos,11,0,Cosme de Farias,7.16,7.16
+salvador,Salvador,mais-completos,Mais Completos,12,0,Ribeira,7.15,7.15
+salvador,Salvador,mais-completos,Mais Completos,13,0,Matatu,7.13,7.13
+salvador,Salvador,mais-completos,Mais Completos,14,0,Uruguai,7.02,7.02
+salvador,Salvador,mais-completos,Mais Completos,14,1,Nordeste de Amaralina,7.02,7.02
