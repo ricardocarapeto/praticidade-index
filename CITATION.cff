@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
+doi: 10.5281/zenodo.23850105
 title: "Índice Praticidade 2026.1 (Praticidade Index 2026.1)"
 version: "2026.1"
 date-released: 2026-07-15

@@ -1,5 +1,7 @@
 # Praticidade Index 2026.1 (Índice Praticidade 2026.1)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23850105.svg)](https://doi.org/10.5281/zenodo.23850105)
+
 Open data from the **Praticidade Index 2026.1**, published by [Praticidade.com](https://praticidade.com). The edition measures everyday walkable convenience ("praticidade a pé") — the services infrastructure available within walking distance — for **806 areas** (districts, neighbourhoods, territorial units, *freguesias* and zones) in **10 cities in Brazil and Portugal**, with **10 thematic rankings** published in **81 city–ranking slices**.
 
 > **Only ranking extracts are published here.** The full interactive index — every area, all category scores and the address map — lives at **https://praticidade.com**.
